@@ -1,0 +1,12 @@
+{
+  "tradition": "irish_folk",
+  "tokeniser": "remi",
+  "vocab_size": 284,
+  "demo_steps": 60,
+  "batch_size": 4,
+  "n_chunks_train": 363,
+  "n_chunks_val": 40,
+  "final_train_loss": 1.7227,
+  "final_val_loss": 1.6231,
+  "trainable_params": 294912
+}

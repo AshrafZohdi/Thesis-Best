@@ -1,0 +1,77 @@
+{
+  "best_global_step": 91,
+  "best_metric": 1.4724905490875244,
+  "best_model_checkpoint": "outputs/checkpoints/irish_folk_remi/checkpoint-91",
+  "epoch": 1.0,
+  "eval_steps": 500,
+  "global_step": 91,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.1978021978021978,
+      "grad_norm": 3.1406869888305664,
+      "learning_rate": 0.0004921348314606742,
+      "loss": 5.8364,
+      "step": 18
+    },
+    {
+      "epoch": 0.3956043956043956,
+      "grad_norm": 0.8776133060455322,
+      "learning_rate": 0.00047191011235955056,
+      "loss": 2.3637,
+      "step": 36
+    },
+    {
+      "epoch": 0.5934065934065934,
+      "grad_norm": 0.6098582744598389,
+      "learning_rate": 0.000451685393258427,
+      "loss": 1.8348,
+      "step": 54
+    },
+    {
+      "epoch": 0.7912087912087912,
+      "grad_norm": 0.5198212265968323,
+      "learning_rate": 0.0004314606741573034,
+      "loss": 1.689,
+      "step": 72
+    },
+    {
+      "epoch": 0.989010989010989,
+      "grad_norm": 0.5565577149391174,
+      "learning_rate": 0.0004112359550561798,
+      "loss": 1.5564,
+      "step": 90
+    },
+    {
+      "epoch": 1.0,
+      "eval_loss": 1.4724905490875244,
+      "eval_runtime": 42.6799,
+      "eval_samples_per_second": 0.937,
+      "eval_steps_per_second": 0.234,
+      "step": 91
+    }
+  ],
+  "logging_steps": 18,
+  "max_steps": 455,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 5,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": false
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 95177874604032.0,
+  "train_batch_size": 4,
+  "trial_name": null,
+  "trial_params": null
+}

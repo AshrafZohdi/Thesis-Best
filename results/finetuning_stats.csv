@@ -1,0 +1,2 @@
+tradition,tokeniser,vocab_size,n_files_ok,n_chunks_train,n_chunks_val,train_loss,trainable_params,total_params
+irish_folk,remi,284,196,363,40,1.4775,294912,86355456

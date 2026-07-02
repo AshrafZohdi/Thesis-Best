@@ -1,0 +1,16 @@
+tradition,token,count,pct
+hindustani,MicroOffset_I_+0,52755,14.81
+hindustani,MicroOffset_I_+1,203577,57.15
+hindustani,MicroOffset_I_+2,63009,17.69
+hindustani,MicroOffset_I_-1,14501,4.07
+hindustani,MicroOffset_I_-2,22391,6.29
+carnatic,MicroOffset_I_+0,42513,25.29
+carnatic,MicroOffset_I_+1,60866,36.21
+carnatic,MicroOffset_I_+2,46097,27.43
+carnatic,MicroOffset_I_-1,12082,7.19
+carnatic,MicroOffset_I_-2,6522,3.88
+turkish_makam,MicroOffset_T_+0,44296,76.13
+turkish_makam,MicroOffset_T_+1,2527,4.34
+turkish_makam,MicroOffset_T_+2,96,0.16
+turkish_makam,MicroOffset_T_-1,7570,13.01
+turkish_makam,MicroOffset_T_-2,3697,6.35

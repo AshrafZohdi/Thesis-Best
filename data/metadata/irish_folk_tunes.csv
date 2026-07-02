@@ -1,0 +1,944 @@
+tune_id,setting_id,name,type,meter,mode,abc,date,username,composer,tunebooks,midi_path
+27,27,Drowsy Maggie,reel,4/4,Edorian,"|:E2BE dEBE|E2BE AFDF|E2BE dEBE|BABc dAFD:|
+d2fd c2ec|defg afge|d2fd c2ec|BABc dAFA|
+d2fd c2ec|defg afge|afge fdec|BABc dAFD|",2001-05-21 03:47:39,Jeremy,,7811,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_000_27_reel.mid
+1,1,Cooley's,reel,4/4,Edorian,"|:D2|EBBA B2 EB|B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afec dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afec dBAF|DEFD E2:|",2001-05-14 18:45:18,Jeremy,,6657,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_001_1_reel.mid
+182,182,"Silver Spear, The",reel,4/4,Dmajor,"A|:FA (3AAA BAFA|dfed BddA|FA (3AAA BAFA|dfed (3BdB AG|
+FA (3AAA BAFA|dfed Bdef|gage fgfe|1 dfed (3BdB AG:|2 dfed BdAd||
+|:fa (3aaa bfaf|gfed Bdde|fa (3aaa bfaf|gfed (3BdB A2|
+fa (3aaa bfaf|gfed Bdef|~g3 e ~f3 e|1 dfed BdAd:|2 dfed B2 AG||",2001-07-01 10:04:11,Will Harmon,,4910,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_002_182_reel.mid
+64,64,"Maid Behind The Bar, The",reel,4/4,Dmajor,"|:FAAB AFED|FAAB ABde|fBBA Bcde|fBBA BcdA|
+FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
+|:faab afde|fdad fd d2|efga beef|gebe gfeg|
+fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|",2001-05-25 03:10:02,Jeremy,,4680,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_003_64_reel.mid
+8,8,"Banshee, The",reel,4/4,Gmajor,"|:G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE EDDE|
+G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE ED D2:|
+|:ea a2 efgf|eBBA B2 Bd|eB B2 efgf|eBBA B2 Bd|
+ea a2 efgf|eBBA B2 Bd|eged BAGA|BAGE EDD2:|",2001-05-18 03:41:53,Jeremy,James McMahon,4461,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_004_8_reel.mid
+116,116,"Wind That Shakes The Barley, The",reel,4/4,Dmajor,"A2AB AFED|B2BA BcdB|A2AB AFED|gfed BcdB|
+A2AB AFED|B2BA BcdB|A2AB AFED|gfed Bcde||
+f2fd g2ge|f2fd Bcde|f2fd g2fg|afed Bcde|
+f2fd g2ge|f2fd Bcde|defg a2ab|afed BcdB||",2001-05-25 04:24:57,Jeremy,,3944,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_005_116_reel.mid
+248,248,Tam Lin,reel,4/4,Dminor,"|:A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DDC|
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DD2:|
+|:dA~A2 FADA|dA~A2 FADA|cG~G2 EG~G2|cG~G2 cdec|
+dA~A2 FADA|dA~A2 FADA,|~B,3A, B,CDE|FDEC A,DD2:|",2001-08-23 10:16:02,Zina Lee,Davey Arthur,3743,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_006_248_reel.mid
+73,73,"Musical Priest, The",reel,4/4,Bminor,"|:BA|FBBA B2Bd|cBAf ecBA|FBBA B2Bd|cBAc B2:|
+|:Bc|d2dc dfed|(3cBA eA fAeA|dcBc defb|afec B2:|
+Bc|dBB2 bafb|afec ABce|dB B2 bafb|afec B2Bc|
+dB B2 bafb|afec ABce|dcBc defb|afec B2|",2001-05-25 03:27:06,Jeremy,,3540,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_007_73_reel.mid
+42,42,"Gravel Walks, The",reel,4/4,Adorian,"|:A2 eA (3cBA eA|A2 eA BAGB|A2 eA (3Bcd ef|gedc BAGB:|
+A2 aA gAfA|A2 eA BAGB|A2 aA gAfA|gedc BAGB|
+A2 aA gAfA|A2 eA BAGB|ABcd efga|gedc BAGB|
+|:(3cBA BG A2 AB|cAAd BAGB|(3cBA BG ABcd|efge dBGB:|
+|:c2 gc acgc|c2 gc BAGB|c2 gc acga|gedc BAGB|
+c2 gc acgc|c2 gc BAGB|ABcd efga|gedc BAGB:|",2001-05-21 04:23:59,Jeremy,,3123,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_008_42_reel.mid
+98,98,"Sally Gardens, The",reel,4/4,Gmajor,"|:G2GA BAGB|dBeB dBAB|d2Bd efge|dBAB GEDE|
+GFGA BAGB|d2eB dBAB|d2Bd efge|dBAB G4:|
+|:dggf g2de|g2bg ageg|eaag a2eg|a2bg ageg|
+dggf g2de|g2bg ageg|d2Bd efge|dBAB G4:|",2001-05-25 04:00:03,Jeremy,,3084,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_009_98_reel.mid
+68,68,"Mountain Road, The",reel,4/4,Dmajor,"F2 AF BFAF|F2 AF EFDE|F2 AF BFAF|G2 FG EFDE|
+F2 AF BFAF|F2 AF EFD2|FAA2 BAFA|BABd eddA|
+d2dA BAFA|d2 de fgfe|d2 dA BAFA|G2 FG EDFA|
+d2 dA BAFA|d2 de fgfe|d2 dA BAFA|G2 FG EFDE|",2001-05-25 03:14:15,Jeremy,Michael Gorman,2867,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_010_68_reel.mid
+103,103,Saint Anne's,reel,4/4,Dmajor,"|:fedf edcB|A2FA DAFA|B2GB EBGB|A2FA DAFA|
+fedf edcB|A2FA DAFA|BGed cABc|eddc d2 de:|
+|:f2fg fedc|Bggf g2gf|edcB ABce|baa^g abag|
+f2fg fedc|Bggf g2gf|edcB ABcd|eddc d2 de:|",2001-05-25 04:06:44,Jeremy,,2856,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_011_103_reel.mid
+74,74,"Mason's Apron, The",reel,4/4,Amajor,"|:e2|aAA2 ABAF|EFAc dcBA|dBB2 BcBA|Bcde fefg|
+aAA2 ABAF|EFAc dcBA|dcde fefa|A2 cB A2:|
+|:ed|cAeA fAeA|cAeA fedc|dBfB aBfB|defg afed|
+cAeA fAeA|EFAc dcBA|d2dc defa|A2 cB A2:|
+|:ed|ceee feee|ceee fedc|dfff afff|dfff agfe|
+ceee feee|EFAc dcBA|dcde fefa|A2 cB A2:|
+|:e2|aeee aeee|aege feee|beee beee|beae gefg|
+aeee aeee|aege feee|dcde fefa|A2 cB A2:|
+|:ed|c2Ac eAce|AceA cecA|d2 Ad fAdf|AdfA dfed|
+c2Ac eAce|AceA cecA|d2dc defa|A2 cB A2:|",2001-05-25 03:28:04,Jeremy,,2794,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_012_74_reel.mid
+197,197,"Star Of Munster, The",reel,4/4,Adorian,"|:ed|c2Ac B2GB|AGEF GEDG|EAAB cBcd|eaaf gfed|
+cBAc BAGB|AGEF GEDG|EAAB cded|cABG A2:|
+|:de|eaab ageg|agbg agef|gfga gfef|gfaf gfdf|
+eaab ageg|agbg agef|g2ge a2ga|bgaf ge:|",2001-07-17 23:10:46,Jeremy,,2618,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_013_197_reel.mid
+20,20,"Cup Of Tea, The",reel,4/4,Edorian,"|:BAGF GEEF|GEBE GEEA|BAGF GEEG|FDAD FDDA|
+BAGF GEEF|GEBE GEEA|B2 BA GABc|dBAG FD D2:|
+K:D
+|:d2 eg fdec|d2 eg fB B2|d2 eg fdec|dBAG FD D2|
+d2 eg fdec|dfaf g2 fg|afge fdec|dBAG FD D2:|
+|:FAdA FABA|FAdA FEE2|FAdA FABc|dBAG FD D2|
+FAdA FABA|FAde fee2|fdec dBAF|GBAG FD D2:|",2001-05-21 03:39:15,Jeremy,,2581,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_014_20_reel.mid
+72,72,"Merry Blacksmith, The",reel,4/4,Dmajor,"|:AB|d2dA BAFA|ABdA BAFA|ABde fded|Beed egfe|
+d3A BAFA-|ABdA BAFA-|ABde fdec|dBAF D2:|
+|:fg|a2ag f2fe|d2dA BAFA-|ABde fded|Beed egfg|
+abag fgfe|dcdA BAFA|ABde fdec|dBAF D2:|",2001-05-25 03:25:35,Jeremy,,2544,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_015_72_reel.mid
+208,208,"Congress, The",reel,4/4,Adorian,"|:eAAG A2Bd|eaaf gedg|eAcA eAcA|BGGA Bdeg|
+eAAG A2Bd|eaaf gedB|cBcd eged|cABG A2Bd:|
+|:eaag abag|eaag egdg|egdg egdg|eaaf gedg|
+eaag a2ag|eaaf gedB|c2cd e2ed|cABG A2Bd:|",2001-07-21 18:31:23,Jeremy,Joe Mills,2477,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_016_208_reel.mid
+113,113,Toss The Feathers,reel,4/4,Edorian,"|:EBBB dBBB|EBBB FAFA|BE E2 BABc|dfed BAFA:|
+Beed e2 de|fede fe e2|febe febe|fede fee2|
+Beed e2 de|fede fa a2|b2bf a2af|egfe dBAF|",2001-05-25 04:22:45,Jeremy,,2407,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_017_113_reel.mid
+2,2,"Bucks Of Oranmore, The",reel,4/4,Dmajor,"A2FA A2dB|A2FA BEE2|A2FA A2Bd|egfd edBd|
+A2FA A2dB|A2FA BEE2|DEFG AFAB|defd edBd||
+ADFD A2dB|ADFD BEE2|ADFD A2Bd|egfd edBd|
+ADFD A2dB|ADFD BEE2|DEFG AFAB|defd efge||
+a2fd edef|a2fd ed B2|a2fd edef|gefd edB2|
+a2fd edef|a2fd edB2|faaf bfaf|defd edBd||
+f2df e2de|f2df edBd|f2df e2de|gefd edBd|
+f2df e2de|f2df edBd|faaf bfaf|defd edBd||
+Adfd edfd|Adfd edBd|Adfd edfd|gefd edBd|
+Adfd edfd|Adfd edB2|faaf bfaf|defd edBd||",2001-05-14 18:45:18,Jeremy,,2362,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_018_2_reel.mid
+69,69,"Morning Dew, The",reel,4/4,Edorian,"|:E3B2AFD|EDEB BAFD|E3B2AFA|BcdB AFDF:|
+B2eB fBeB|B2eB AFDF|B2eB fBeB|BcdB AFDF|
+B2eB fBeB|B2eB AFDF|Bdeg fdec|d2dA BAFD|
+B2EB GBEB|B2EB AFDF|B2EB GBEB|BcdB AFDF|
+B2EB GBEB|B2EB AFDF|Bdeg fdec|d2dA BAFD|
+|:BAGF EFGA|B2GB A2GA|BAGF EFGA|BcdB AFDF:|",2001-05-25 03:15:30,Jeremy,,2338,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_019_69_reel.mid
+118,118,"Wise Maid, The",reel,4/4,Dmajor,"|:DE|F2FG FEDE|FAAB AFED|d2eg fdec|dBAG BEED|
+F2FG FEDE|FAAB AFED|d2eg fdec|dBAG FD:|
+|:FA|d2AG FDFA|dfaf gfeg|fedf eAcA|dfed cA A2|
+BAGB ADFD|dfaf gfed|Bdce dBAG|FGEF D2:|",2001-05-25 04:26:20,Jeremy,,2298,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_020_118_reel.mid
+75,75,Miss McLeod's,reel,4/4,Gmajor,"|:G2 BG AGBG|B2 BA BcBA|G2 BG AGBG|A2 AG AcBA|
+G2 BG AGBG|B2 BA B2 d2|e2 ef edef|gfed BcBA:|
+|:G2 gf edeg|B2 BA BcBA|G2 gf edeg|a2 ag aeef|
+g2 gf edeg|BcBA B2 d2|edef edef|gfed BcBA:|",2001-05-25 03:28:56,Jeremy,,2292,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_021_75_reel.mid
+221,221,"Earl's Chair, The",reel,4/4,Dmajor,"|:B2Bd BAFA|B2Bd BAFA|AF (3FFF DF (3FFF|AFdB AFEF|
+B2Bd BAFA|B2Bd BAFA|AFAB dcdf|edef d3z:|
+|:e2ec d2Bd|efec dFAB|e2ec d3e|fedB ADFA|
+e2ef eB (3BBB|gB (3BBB defg|afbf afef|gedB ADFA:|",2001-07-31 07:45:50,b.maloney,,2094,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_022_221_reel.mid
+517,517,"Pigeon On The Gate, The",reel,4/4,Edorian,"|:dc|BE ~E2 BEdE|BE ~E2 dBAF|D2 (3FED ADFE|DEFA BAFA|
+BE ~E2 BEdE|BE ~E2 B2 AF|D2 FA dfec|dBAF E2:|
+FA|Beed efed|(3Bcd ef gedB|Addc d3 B|A2 FE DEFA|
+Beed efed|(3Bcd ef g2 fg|af (3gfe fd ec|dBAF E2:|",2002-01-27 17:24:39,b.maloney,,2044,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_023_517_reel.mid
+589,589,Julia Delaney's,reel,4/4,Ddorian,"|:dcAG ~F2EF|~E2 DE FD D2|dcAG FGAA|Addc d2 fe:|
+|:f2fe fagf|ecgc acgc|f2fe fagf|edcG Add2:|",2002-03-13 05:56:07,b.maloney,,1965,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_024_589_reel.mid
+141,530,"Humours Of Tulla, The",reel,4/4,Gmajor,"|:G2DG EGDE|G2BG AGEF|G2DG EGDG|(3EFG AB c2BA:|
+|:dBAB GB~B2|dB~B2 c2Bc|dBAB GBAB|(3EFG AB c2Bc:|",2002-01-31 23:54:27,Josh Kane,,1912,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_025_141_reel.mid
+511,511,"Foxhunters, The",reel,4/4,Gmajor,"|:d2BG d2BG|d2BG AGEG|d2BG dGBG|AcBG AGEG:|
+|:D~D2B BAGE|DGBG AGEG|D~D2B BAGB|AcBG AGEG:|
+|:gedB GABd|gdBd eaaf|gedB GABG|ABcd eA~A2:|
+|:dggf ~g2ge|dggd egdB|dggf ~g2gd|egdB AGAB:|
+|:G2BG dGBG|GABG AGAB|~G2BG dGBd|egdB AGAB:|",2002-01-19 19:02:43,Josh Kane,,1803,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_026_511_reel.mid
+727,727,Brenda Stubbert's,reel,4/4,Adorian,"|:B|A/A/A (BA) GAAB|A/A/A (BA) edde|G2 (BA) BGGB|c2 (BA) BGGB|
+A/A/A (BA) GAAB|A/A/A (BA) edda|gedB GABd|{d}e2 dB eAA:|
+|:B|A/A/A a2 A/A/A g2|Aage ageg|G2 (BA) BGGB|c2 (BA) BGGB|
+[1A/A/A a2 A/A/A g2|Aage agea|gedB GABd|{B}e2 dB eAA:|
+[2A/A/A (BA) GAAB|A/A/A (BA) edda|gedB GABd|{d}e2 dB eAA||",2002-06-03 20:13:54,seara,Jerry Holland,1803,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_027_727_reel.mid
+21,21,Castle Kelly,reel,4/4,Aminor,"|:A2 cA ABcA|GcEG G2 EG|A2 cA ABcd|ecdB cA A2:|
+agec dfed|cAGE G2 eg|agec d2cd|eaag a2ba|
+gedc dfed|cAGE|G2 EG|A2 cA ABcd|ecdB cA A2|",2001-05-21 03:41:22,Jeremy,,1790,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_028_21_reel.mid
+33,33,Farewell To Ireland,reel,4/4,Adorian,"|:A,3 C E3 F|GEDB, G,B,DB,|A,3 C E3 F|GEDF EA,A,G,|
+A,3 C E3 F|GEDB, D2 g2|edeg a2 ba|gedB BA A2:|
+K:AMix
+|:a2 ag agef|g2 ga gede|a2 ag agef|gedB BA A2|
+agef gage|d2 dB GABd|cAeA Bdef|gedB BA A2:|
+|:eABA eABA|d2 dB GABd|eABA eAAa|gedB BA A2|
+eABA eABA|d2 dB GABd|c2 BA Bdef|gedB BA A2:|
+|:aece aece|gdBd gdBd|aece a2 af|gedB BA A2|
+agef g2 ge|dedB GA B2|cAeA d2 ef|gedB BA A2:|",2001-05-21 03:54:12,Jeremy,,1764,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_029_33_reel.mid
+636,636,"Otter's Holt, The",reel,4/4,Bminor,"e|:fBBA FEFB|(3ABA FB ABde|fBBA FEFA|(3Bcd cA Bcde|
+fBBA FEFB|(3ABA FB ABde|faaf effe|1 dBBA ~B3e:|2 dBAF B3c||
+d2 fd Adfa|bfaf effe|(3ddd fd Adfa|bfaf egfe|
+defd Adfa|bfaf efde|fBBA FEFA|(3Bcd cA B3c|
+~d3f a2 fa|(3baf af effe|d2 fd adfa|bfaf effe|
+dcdf a2 fa|(3baf af effe|fBBA FEFA|(3Bcd cA ~B3e||",2002-04-10 08:29:34,Will Harmon,Junior Crehan,1714,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_030_636_reel.mid
+462,462,"Dunmore Lasses, The",reel,4/4,Eminor,"|:~E3F ~G3A|Be~e2 Be~e2|~E3F G2BG|A2BA GEFD|
+~E3F ~G3A|Beed ~e3f|(3.g.f.e fd eBdB|AcBA GEFD:|
+g2eg fedc|Be~e2 Be~e2|g2eg fedB|AcBA GE~E2|
+g2eg fedc|Beed ~e3f|(3.g.f.e fd eBdB|AcBA GEE2:|",2001-12-27 23:19:49,glauber,,1713,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_031_462_reel.mid
+543,543,"Ships Are Sailing, The",reel,4/4,Edorian,"|:Beed BcdB|AD (3FED A,D (3FED|~E3F GFGA|Beef gfed|
+Beed BcdB|AD (3FED A,D (3FED|~E3F GFGA|Beed e3z:|
+~g3a bgeg|~f3g afdf|gfga bgaf|gefd e2 de|
+gfga bgeg|fefg afdf|g2bg f2af|edef gfed:|",2002-02-12 04:57:15,b.maloney,,1688,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_032_543_reel.mid
+560,560,"Tarbolton, The",reel,4/4,Edorian,"|:D|Eeed e2 BA|GBAF GFEF|Dddc d2 AF|GBAG FDDF|
+Eeed efge|fedf edBA|GABG FGA=c|BGAF GE E:|
+gfef (3gfe be|gebe gfef|d2 fd adfd|ABAG FDDF|
+(3GGG BG (3FFF AF|Eeef gfed|B2 dB AGFA|BGAF GE E:|",2002-02-21 20:00:19,b.maloney,,1673,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_033_560_reel.mid
+518,518,MacLeod's Farewell,reel,4/4,Dmajor,"|:DE|F2BF AFEF|D2 DE FABd|e2 fd efdB|ABde dBAG|
+F2BF AFEF|D2 DE FABd|e2fd efdB|1 ABde d2:|2 ABde d3||
+B|A3 f edfd|A3 f edfd|ABdA BdAB|dBAF E2 DE|
+F2BF AFEF|D2DE FABd|e2fd efdB|1 ABde d3:|2 ABde d2||",2002-01-27 17:29:12,Kerri Coombs,Donald Shaw,1665,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_034_518_reel.mid
+222,222,"Man Of The House, The",reel,4/4,Eminor,"|:E2BE GABG|E2BE FDAD|E2BE GABc|1 dBcA BGED:|2 dBcA BGE2||
+e2ge f2af|gfed edBd|e2ge f2af|gfed Beed|
+efge fgaf|gfed efga|bgaf gfed|edBA GEED||",2001-08-01 04:19:36,Jeremy,,1649,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_035_222_reel.mid
+86,86,Rakish Paddy,reel,4/4,Adorian,"|:c4 c2 AB|cBAG Ec c2|Add^c defe|dcAG FGAB|
+c4 c2 AB|cBAG EDCE|DEFG ABcA|dcAG F2 D2:|
+|:eg g2 ag g2|eg g2 ed^cd|ea a2 ba a2|ea a2 egdg|
+eg g2 ag g2|fed^c defg|afge fde^c|dcAG F2 D2:|",2001-05-25 03:45:18,Jeremy,,1645,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_036_86_reel.mid
+114,114,"Teetotaller's, The",reel,4/4,Gmajor,"|:G2 GF GABc|dBeB dBAc|BEED EFGA|BGAF GFED|
+G2 GF GABc|dBeB dBAc|BEED EFGA|BGAF G4:|
+|:Beed e2ef|gfaf gfed|B^cde d2ef|gfaf gfed|
+Beed e2ef|gfaf gfed|BEED EFGA|BGAF G4:|",2001-05-25 04:23:32,Jeremy,,1606,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_037_114_reel.mid
+399,399,"Sligo Maid, The",reel,4/4,Adorian,"|:A2BA (3B^cd ef|gedB AGEF|G2BG dGBG|DEGA BAdB|
+A2BA (3B^cd ef|gedB AGEG|B3G A2GE|DEGA BAA2:|
+|:eaag a2ga|bgaf gfed|eggf g2ge|dega bgag|
+eaag a2ga|bgaf gfed|eg (3gfg edBA|dBgB BAA2:|",2001-11-28 01:55:40,Josh Kane,,1593,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_038_399_reel.mid
+87,87,Rolling In The Ryegrass,reel,4/4,Dmajor,"|:A2AB AFDF|G2BG dGBG|ABAF DFAF|GBAG E2D2:|
+|:ABde f2fd|g2ge fedB|ABde fefa|gfdf e2d2:|",2001-05-25 03:46:17,Jeremy,,1590,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_039_87_reel.mid
+430,430,Sporting Paddy,reel,4/4,Gmajor,"EAAB GABG|EAAB G2ED|EAA2 GABd|edge dBAG|
+EAAB GABG|EAAB G2ED|EAA2 GABd|edge d2ef||
+geee gede|geee a2ba|gee2 ged2|efge d2ef|
+geee gede|geee a2ga|bgab gabg|efge dBAG||",2001-12-09 23:53:09,Josh Kane,,1562,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_040_430_reel.mid
+646,646,Frank's,reel,4/4,Amajor,"|Ac BA F2 AF|EF AB cA Bc|d3 f ec Ae|fa ec (3Bcd cB|
+Ac BA F2 AF|EF AB cA Bc|d3 f ec Ac|BA GB A2 (3EFG|
+Ac BA F2 AF|EF AB cA Bc|d2 df ec Ae|fa ec (3Bcd cB|
+Ac BA EF AF|EF AB cA Bc|df (3fff ec Ac|BA GB Ae fg||
+aA Ag AA fA|ef fe cA Bc|d3 f ec Ac|Bc de fe (3efg|
+aA Ag AA fA|ef fe cA Bc|df (3fff ec Ac|BA GB Ae fg|
+aA Ag AA fA|e f2 e cA Bc|d3 f eA ce|fa ec (3Bcd cB|
+Ac BA F3 A|EF AB cA Bc|d3 f ec Ac|BA GB A4||",2002-04-17 19:05:34,Enob,John McCusker,1513,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_041_646_reel.mid
+138,138,Toss The Feathers,reel,4/4,Dmixolydian,"|:D2 FD ADFD|ABcA G~E3|D2 (3FED ADFA|d2 ed cAGE|
+(3DDD AD (3DDD AD|ABcA G~E3|cABG A2 AB|1 cded cAGE:|2 cded cAGc||
+|:Ad (3ddd Ad (3ddd|Ad (3ddd ed^cd|eaag a2 ag|eaag ed^cd|
+efge afge|dfed cAGB|cABG A2 AB|1 cded cAGc:|2 cded cAGE||",2001-06-13 21:22:31,Will Harmon,,1477,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_042_138_reel.mid
+115,115,Over The Moor To Maggie,reel,4/4,Gmajor,"|:DE|G2GA B2Bd|efge dBAG|EAAG ABAG|EAAG AcBA|
+GFGA BABd|efge dBAG|DGGF GBAG|EDEF G2:|
+|:ga|b2bg a2af|g2ge fedB|eaag abag|eaag a2 ga|
+b2bg a2af|g2ge fedB|dggf gbag|edef g2:|
+|:cd|e2ec d2dB|c2cA BAGD|EAAG ABAG|EAAG ABcd|
+e2ec d2dB|c2cA BAGE|DGGF GBAG|EDEF G2:|",2001-05-25 04:24:11,Jeremy,,1455,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_043_115_reel.mid
+18,18,"Concertina, The",reel,4/4,Dmajor,"|:A2FA BAFA|A2FA BAFA|B2BA B2BA|B2BA BAFA|
+A2FA BAFA|A2FA BAFA|FABc d2dA|BAFE D4:|
+|:Addd Addd|AddA BAFA|B2BA B2BA|B2BA BAFA|
+Addd Addd|AddA BAFA|FABc d2dA|BAFE D4:|",2001-05-18 04:39:34,Jeremy,,1453,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_044_18_reel.mid
+432,432,"Maids Of Mount Kisco, The",reel,4/4,Adorian,"|:EA~A2 BA~A2|EA~A2 BGAG|EG~G2 AG~G2|EG~G2 EGDG|
+EA~A2 BAAG|EA~A2 BABd|efge afge|1 dBGB ~A3G:|2 dBGB A2dB||
+|:~A3B dBAB|G2BG DGBG|~A3B dGBd|1 e~g3 gedB:|2 edge d2 Bd||
+|:ea~a2 bgaf|gfed GABd|ea~a2 bgaf|gede g2eg|
+~a3f ~g3e|dedB GABd|eA~A2 efge|1 dBGB A2 Bd:|2 dBGB ~A3G||",2001-12-11 19:08:45,b.maloney,Paddy Killoran,1443,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_045_432_reel.mid
+791,791,Father Kelly's,reel,4/4,Dmajor,"|:de|f2 df edBd|Addc defa|g2 ef gfed|Beed efge|
+f2 df edBd|Addc defg|a2 fa a2 fa|gece d2:|
+|:fg|a2 fa dafa|a2 fa dafa|fBBB edcB|ABcd edcB|
+a2 fa dafa|a2fa dafa|g2 eg f2 df|edce d2:|",2002-06-20 19:20:48,Mark de Jong,Father P.J. Kelly,1413,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_046_791_reel.mid
+570,570,"Sailor's Bonnet, The",reel,4/4,Dmajor,"|:A2 FA d~f3|dfef d~B3|A2 FA dfef|1 dBAF ADDB:|2 dBAF ADD2||
+|:~a3 a afef|afef d~B3|fb (3bbb bafa|bfaf feef|
+b~f3 afed|afef d~B3|(3ABA FA dfef|1 dBAF ADD2:|2 dBAF ADDB||",2002-02-27 05:38:47,b.maloney,,1409,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_047_570_reel.mid
+857,857,Spootiskerry,reel,4/4,Gmajor,"|:DE|G2 DE GDEG|DEGA B2 AB|G2 DE GABd|eged B2 AB|
+G2 DE GDEG|DEGA B2 AB|g2 ed edBA|B2 G2 G2:|
+ef|g2 ed ed B2|BABG E2 DE|GABd eged|B2 A2 A2 ef|
+g2 ed ed B2|BABG E2 DE|GABd eged|B2 G2 G2 ef|
+g2 ed ed B2|BABG E2 DE|GABd eged|B2 A2 A2 DE|
+G2 DE GDEG|DEGA B2 AB|g2 ed edBA|B2 GB G2||",2002-07-25 01:49:20,MichaelBolton,Ian Burns,1399,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_048_857_reel.mid
+726,726,"Ashplant, The",reel,4/4,Edorian,"BE~E2 BAGA|BE~E2 ~G3A|BE~E2 BABd|gedB A2GA|
+BE~E2 BAGA|BE~E2 ~G3A|~B3A (3Bcd ef|gedB A2GA||
+B2eB fBeB|~B2ed BAGA|B2eB ~f3d|efdB A2GA|
+B2eB fBeB|~B2ed BAGA|(3Bcd ef ~g3a|gedB A2GA||",2002-06-03 20:11:04,seara,,1395,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_049_726_reel.mid
+188,188,"Glass Of Beer, The",reel,4/4,Bminor,"|:fB (3BBB fBaB|fB (3BBB edce|fB (3BBB ~f3 e|1 dfaf e2 de:|2 dfaf e3 c||
+|:dcde ~f3 e|defd edBA|dcde ~f3 e|1 dfaf e3 c:|2 dfaf edba||
+fB (3BBB fBaB|fb (3BBB e2 de|fB (3BBB ~f3 e|dfaf e2 de|
+fB (3BBB bBaB|fBeB fede|fB (3BBB ~f3 e|dfaf e4||",2001-07-10 02:18:05,Will Harmon,,1381,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_050_188_reel.mid
+105,105,"Swallow's Tail, The",reel,4/4,Adorian,"|:eAcA eAcA|cdef gedB|G2BG dGBG|cdef g2fg|
+eA (3cBA eA (3cBA|cdef g2fg|afge dBGB|AcBG A2 gf:|
+|:eaag abag|edef gedB|(3GFG BG dGBG|cdef g2fg|
+eaag abag|edef g2fg|afge dBGB|AcBG A2 gf:|",2001-05-25 04:14:02,Jeremy,,1378,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_051_105_reel.mid
+5270,5270,"Road To Errogie, The",reel,4/4,Gmajor,"|:DGG2 AGAB|dGG2 ABdB|e3g dBG2|A3B AGEG|
+DGG2 AGAB|dGG2 ABdB|e3g dBG2|AG F/E/D G2 BG:|
+dgg2 g2ag|ab2a g3d|e2dg2de2-|edgd edBc|
+dgg2 g2ag|ab2a g3d|e3g dBGE|AG F/E/D G4|
+dgg2 g2ag|ab2a g3d|e2dg2de2-|edgd edBG|
+DGG2 AGAB|dGG2 ABdB|e3g dBG2|AG F/E/D G2 BG||",2005-12-03 12:44:04,bonnanza,Adam Sutherland,1367,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_052_5270_reel.mid
+99,99,"Salamanca, The",reel,4/4,Dmajor,"|:dB|ADFD ADFD|Adcd fdcd|BEGE BEGE|Bded cdeg|
+fBAB fBAB|fafc deag|fdec dBAG|FGEF D2:|
+|:fg|afdg bgeg|fdec dcBc|ABcd defg|a2^gb a2f=g|
+afff geee|fdec dfag|fdec dBAG|FGEF D2:|",2001-05-25 04:02:27,Jeremy,,1362,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_053_99_reel.mid
+219,219,"Fermoy Lasses, The",reel,4/4,Eminor,"GE (3EEE BE (3EEE|GE (3EEE BcBA|GE (3EEE BE (3EEE|AFDF AcBA|
+GE (3EEE BE (3EEE|GE (3EEE BcBA|(3GGG GF GBdB|AFDF AcBA||
+(3GGG BG dGBG|(3GGG Bd efg2|(3GGG BG dGBG|AFDF AcBA|
+(3GGG BG dGBG|(3GGG Bd efg2|afge fded|AFDF AcBA||",2001-07-30 17:18:43,Jeremy,,1352,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_054_219_reel.mid
+602,602,Whiskey Before Breakfast,reel,4/4,Dmajor,"|:A,DFG A2 A2|ABAG FEDF|G2 BG F2 AF|EDEF EDCB,|
+A,DFG A2 A2|ABAG FEDF|G2 BG F2 AF|EDEF D4:|
+|:A d2 A d2 d2|cded cB A2|B e2 B e2 ef|gfed cABc|
+d2 fd c2 ec|BABc BAFA|G2 BG F2 AF|EDEF D4:|",2002-03-17 21:30:55,bsykes62,,1340,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_055_602_reel.mid
+605,605,Greig's Pipes,reel,4/4,Gmajor,"~B2BA BAGA|B2GB AGEG|~B2BA BAGB|cABG AGEG|
+~B2BA BAGA|B2GB AGEG|Bd~d2 eBdB|AcBG AGEG||
+DG~G2 DGBG|DGBG AGEG|DGGF GABc|d2BG ABGE|
+AG~G2 AGBG|DGBG AGEG|DGGF GABc|dBAc BG~G2||
+d2 (3Bcd edge|dGBG AGEG|d2 (3Bcd eg~g2|agbg ageg|
+d2 (3Bcd edge|dGBG AGEG|d2 (3Bcd eg~g2|agab aged||",2002-03-20 22:43:32,Josh Kane,,1336,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_056_605_reel.mid
+1977,1977,"Reconciliation, The",reel,4/4,Amajor,"|:A2cA eA fA|eA fA ec Bc|A2cA eA fA|ec Bc AF EF|
+A2cA eA fA|eA fA ec Bc|AB AF Ec df|ec Bc A2 cB:|
+|:A2ce a2af|ef ed cd cB|A2ce a2ag|fb ba gb eg|
+ag ae fa ec|dB cA BA FG|AB AF Ec df|ec Bc A2 cB:|",2003-09-14 01:27:21,fiel,,1292,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_057_1977_reel.mid
+2549,2549,"Flowers Of Edinburgh, The",reel,4/4,Gmajor,"|:GE|D2DE G2GA|BGBd cBAG|FGFE DEFG|AFdF E2GE|
+D2DE G2GA|BGBd efge|dcBA GFGA|B2 G2 G2:|
+|:d2|g2g2 gbag|f2f2 fagf|edef gfed|B2e2 e2ge|
+dBGB d2 d2|edef g2fe|dcBA GFGA|B2 G2 G2:|",2004-02-22 01:17:41,n_salzman@yahoo.com,,1288,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_058_2549_reel.mid
+440,440,Christmas Eve,reel,4/4,Gmajor,"GE|:DB,DE G2 GA|(3BBB dB ABGA|BAGE DB,DE|G2 BG ABGE|
+DB,DE GFGA|B2 dB ABGA|BAAB G~E3|1 ABGF G2 EG:|2 ABGF ~G3A||
+|:BG (3Bcd edeg|a2 ge gfeg|a2 af ~g3e|dBgB BAGA|
+BG (3Bcd edeg|abge gfeg|abge dBGB|1 ABGF ~G3A:|2 ABGF GAdc||
+|:BGGA BGBd|e~g3 egdc|BGEG DGBG|FAAG FADA|
+BGGA BGBd|e~g3 efga|bgaf gedB|1 ABGF GAdc:|2 ABGF G EG||",2001-12-17 19:15:03,Will Harmon,Tommy Coen,1286,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_059_440_reel.mid
+756,756,Jenny's Chickens,reel,4/4,Bminor,"|:f2{a}fg fece|fefa eAce|f2{a}fg fece|fgag eAce:|
+|:f{DB}B{d}BA {DB}~B2 ce|fB ~B2 eAce|fB{d}BA ~B2 ce|1 f^gaf eAce:|2 f^gaf eAcA||
+|:B2 bB aB^gB|B2 af eAcA|B2 bB aB^gB|1 f^gaf eAcA:|2 f^gaf eAce||",2002-06-11 23:56:47,b.maloney,,1277,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_060_756_reel.mid
+703,703,Catharsis,reel,4/4,Gminor,"|:DGGF DGGF|DFGA B/A/G AF|DGGF DGGF|DCB,C B,A,B,A,|
+DGGF DGGF|DFGA B/A/G Ac|dcBc BAGF|1 DGGF G2 G2:|2 DGGF GABc||
+dGGc GGBG|GAGG GABc|dFFc FFBF|FAFF GABc|
+dEEc EEBE|EAEE GABc|dcBc BAGF|1 DGGF GABc:|2 DCB,C B,A,B,A,||",2002-05-26 21:37:16,Musicalbison,Amy Cann,1266,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_061_703_reel.mid
+410,410,"Old Copperplate, The",reel,4/4,Adorian,"|:A2 EA cAAe|aged cAFA|G2 DG BGBd|gedc BAGB|
+A2 EA cAAe|aged cAGB|ABcd efge|aged cA A2:|
+ageg a2 eg|aged cA A2|gfef g2 ef|gfge dBGB|
+ageg a2 eg|aged cAGB|ABcd efge|aged cA A2:|",2001-12-02 17:29:59,b.maloney,,1260,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_062_410_reel.mid
+363,363,"Drunken Landlady, The",reel,4/4,Edorian,"|:BE~E2 BAFA|BE~E2 BAFA|ABAF D2FD|FA~A2 BAFA|
+BE~E2 BAFA|BE~E2 BAFA|A2Bc dfec|dBAF E4:|
+|:Beed e2de|f2df efdB|ABAF D2FD|FA~A2 BAFA|
+Beed e2de|f2df efdB|A2Bc dfec|dBAF E4:|",2001-11-11 23:20:52,Jdharv,,1259,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_063_363_reel.mid
+346,346,Music For A Found Harmonium,reel,4/4,Dmajor,"DE|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FDCD FDCD|GDED CDGD|1 FDDD D2 DD:|2 FDDD D2 D=F||
+K: Cmaj
+|:cFEF {EF}GFEF|1 cFEF EE2 F:|2 cFEF EE2 D||
+K: Fmaj
+BFDF GFDF|BFDF GFDF|BFEF GEEG|BFEF GEEG|
+^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|
+K: Dmaj
+|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FD=CD FDCD|GDED CDED|1 FDDD D2 DD:|2 FDDD D4||",2001-10-31 00:30:37,Will Harmon,Simon Jeffes,1248,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_064_346_reel.mid
+2221,2221,MacArthur Road,reel,4/4,Emajor,"|:BG (3GGG Bcef|gfeg fece|f3g fece|acgc fece|
+BG (3GGG Bcef|gfeg fece|f3g fecB|1 cefg e2z2:|2 cefg efga||
+be(3eee bec'e|bege fece|f3g fece|aege fece|
+be(3eee bec'e|bege fece|f3g fecB|cefg efga|
+be(3eee bec'e|bege fece|f3g fece|aege fece|
+BG(3GGG Bcef|gfeg fece|f3g fecB|cefg e2z2||",2003-12-04 03:57:58,Limeretti Lumeretti Hillhocker,Dave Richardson,1229,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_065_2221_reel.mid
+891,891,"Trip To Durrow, The",reel,4/4,Dmajor,"|:D2DF ADFA|dfed B3c|dBBA dBBA|FADE FE E2|
+D2DF ADFA|dfed B3c|dBBA FAdB|AFEG FD D2:|
+|:dcde fefg|afdf gfed|(3Bcd ef gebe|gebe gfef|
+d2de fefg|afdf gfed|(3Bcd ef gbag|fdec d2de|
+fdec d2de|fded B3c|dBBA dBBA|FADE FE E2|
+D2DF ADFA|dfed B3c|dBBA FAdB|AFEG FD D2:|",2002-08-12 20:16:17,SPeak,Dan Cleary,1190,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_066_891_reel.mid
+44,44,"High, The",reel,4/4,Amixolydian,"|:a2 fa ec A2|cAeA fAeA|a2 fa ec A2|Bcdc BG G2|
+a2 fa ec A2|cdef g2 fg|afge fdec|Bcdc BG G2:|
+|:cAeA fAeA|cAaf ec A2|cAeA fAeA|Bcdc BG G2|
+cAeA fAeA|cdef g2 fg|afge fdec|Bcdc BG G2:|",2001-05-21 04:38:33,Jeremy,,1185,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_067_44_reel.mid
+1499,1499,"Old Bush, The",reel,4/4,Dmixolydian,"|:d^c|A2GA cA~A2|d^cde fdec|A2GA cA~A2|dfed cAd^c|
+A2AG cAA2|d^cde ~f3g|af(3gfe fde^c|dfed cA:|
+|:Ag|eg~g2 edcd|efge c3d|eg~g2 a2ge|dfed cAAg|
+eg~g2 ag~g2|efge defg|af(3gfe fde^c|dfed cA:|",2003-03-11 08:59:35,gian marco,,1169,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_068_1499_reel.mid
+55,55,"Kesh, The",jig,6/8,Gmajor,"|:G3 GAB|A3 ABd|edd gdd|edB dBA|
+GAG GAB|ABA ABd|edd gdd|BAF G3:|
+|:B2B d2d|ege dBA|B2B dBG|ABA AGA|
+BAB d^cd|ege dBd|gfg aga|bgg g3:|",2001-05-25 02:54:11,Jeremy,,7556,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_069_55_jig.mid
+71,71,Morrison's,jig,6/8,Edorian,"|:E3 B3|EBE AFD|EDE B3|dcB AFD|
+E3 B3|EBE AFD|G3 FGA|dAG FED:|
+Bee fee|aee fee|Bee fee|a2g fed|
+Bee fee|aee fee|gfe d2A|BAG FGA|
+Bee fee|aee fee|Bee fee|faf def|
+g3 gfe|def g2d|edc d2A|BAG FED|",2001-05-25 03:18:09,Jeremy,,5956,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_070_71_jig.mid
+9,9,Banish Misfortune,jig,6/8,Dmixolydian,"|:fed cAG|A2d cAG|F2D DED|FEF GFG|
+AGA cAG|AGA cde|fed cAG|Ad^c d3:|
+|:f2d d^cd|f2g agf|e2c cBc|e2f gfe|
+f2g agf|e2f gfe|fed cAG|Ad^c d3:|
+|:f2g e2f|d2e c2d|ABA GAG|F2F GED|
+c3 cAG|AGA cde|fed cAG|Ad^c d3:|",2001-05-18 03:50:35,Jeremy,,4677,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_071_9_jig.mid
+108,108,Out On The Ocean,jig,6/8,Gmajor,"|:GE|D2B BAG|BdB A2B|GED G2A|B2B AGE|
+D2B BAG|BdB A2B|GED G2A|BGE G:|
+Bd|e2e edB|ege edB|d2B def|gfe dBA|
+G2A B2d|ege d2B|AGE G2A|BGE G:|",2001-05-25 04:17:34,Jeremy,,4596,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_072_108_jig.mid
+106,106,"Swallowtail, The",jig,6/8,Adorian,"|:cBA eAA|cBA edc|BGG dGG|gfe dcB|
+cBA eAA|cBA e2f|gfe dcB|cBA A2d:|
+efg a2b|a2b age|efg a2b|age g2d|
+efg a2b|a2b age|gfe dcB|cBA A2d:|",2001-05-25 04:15:17,Jeremy,,3535,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_073_106_jig.mid
+19,19,"Connaughtman's Rambles, The",jig,6/8,Dmajor,"|:FAA dAA|BAA dAG|FAA dfe|dBB BAG|
+FAA dAA|BAA def|gfe dfe|1 dBB BAG:|2 dBB B3||
+|:fbb faf|fed ede|fbb faf|fed e3|
+fbb faf|fed def|gfe dfe|1 dBB B3:|2 dBB BAG||",2001-05-18 06:53:52,Jeremy,,3520,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_074_19_jig.mid
+5,5,"Blarney Pilgrim, The",jig,6/8,Dmixolydian,"|:DED DEG|A2A ABc|BAG AGE|GEA GED|
+DED DEG|A2A ABc|BAG AGE|GED D3:|
+ded dBG|AGA BGE|ded dBG|AGA GAB|
+g2e dBG|AGA BGE|B2G AGE|GED D3:|
+A2D B2D|A2D ABc|BAG AGE|GEA GED|
+ADD BDD|ADD ABc|BAG AGE|GED D3:|",2001-05-14 18:45:18,Jeremy,,3504,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_075_5_jig.mid
+60,60,"Lilting Banshee, The",jig,6/8,Adorian,"|:EAA EAA|BAB G2A|Bee edB|def gfg|
+eAA eAA|BAB G2A|Bee edB|dBA A3:|
+eaa age|dBA G2A|Bee edB|def gfg|
+eaa age|dBA G2A|Bee edB|dBA A3:|",2001-05-25 03:02:00,Jeremy,,3237,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_076_60_jig.mid
+62,62,"Lark In The Morning, The",jig,6/8,Dmajor,"|:AFA AFA|BGB BdB|AFA AFA|fed BdB|
+AFA AFA|BGB BdB|def afe|dBB BdB:|
+|:def afe|bff afe|def afe|dBB BdB|
+def afe|bff afe|g2e f2d|edB BdB:|
+|:dff fef|fef fef|dff fef|edB BdB|
+dff fef|fef def|g2e f2d|edB BdB:|
+|:Add fdd|edd fdd|Add fdd|edB BdB|
+Add fdd|edB def|g2e f2d|edB BdB:|",2001-05-25 03:08:25,Jeremy,,3047,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_077_62_jig.mid
+12,12,"Cliffs Of Moher, The",jig,6/8,Adorian,"|:a3 bag|eaf ged|c2A BAG|EFG ABd|
+eaa bag|eaf ged|c2A BAG|EFG A3:|
+e2e dBA|e2e dBA|GAB dBA|GAB dBd|
+e2e dBA|e2e dBA|GAB dBA|EFG A3|
+efe dBA|efe dBA|GAB dBA|GAB dBd|
+efe ded|cec BeB|GAB dBA|EFG A3|",2001-05-18 03:57:51,Jeremy,,2779,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_078_12_jig.mid
+15,15,Calliope House,jig,6/8,Dmajor,"|:dAA fAA|eAA fAA|Bee e2d|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 e2A:|2 f2f edc|d3 efg||
+|:a2a faa|eaa faa|g2g fgf|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 efg:|2 f2f edc|d3 d3||",2001-05-18 06:53:52,Jeremy,Dave Richardson,2727,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_079_15_jig.mid
+111,111,Tripping Up The Stairs,jig,6/8,Dmajor,"|:FAA GBB|FAd fed|cBc ABc|dfe dAG|
+FAA GBB|FAd fed|c2c ABc|dfe d2A:|
+dBB fBB|dBB fed|cAA eAA|efe edc|
+dBB fBB|fgf fed|cBc ABc|dfe d3:|",2001-05-25 04:20:10,Jeremy,,2547,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_080_111_jig.mid
+92,92,"Irish Washerwoman, The",jig,6/8,Gmajor,"|:BGG DGG|BGB dcB|cAA EAA|cAc edc|
+BGG DGG|BGB dcB|cBc Adc|BGG G3:|
+|:BGG DGG|BGB BAG|AFF DFF|AFA AGF|
+EGG DGG|CGG B,GG|cBc Adc|BGG G3:|",2001-05-25 03:53:19,Jeremy,,2393,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_081_92_jig.mid
+76,76,My Darling Asleep,jig,6/8,Dmajor,"|:fdd cAA|BGG A2G|FAA def|gfg eaa|
+fdd cAA|BGG A2G|FAA def|gec d3:|
+|:FAA Add|FAA BGG|FAA def|gfg eaa|
+fdd cAA|BGG A2G|FAA def|gec d3:|",2001-05-25 03:30:08,Jeremy,,2181,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_082_76_jig.mid
+702,702,"Blackthorn Stick, The",jig,6/8,Gmajor,"|:d|gfg ege|dBG AGE|DGG FGA|BGB A2 d|
+gfg age|dBG AGE|DGG FGA|BGG G2:|
+|:d|edd gdd|edd gdd|e2 e gfg|edB A2 d|
+gfg age|dBG AGE|DGG FGA|BGG G2:|",2002-05-26 21:09:32,Musicalbison,,2109,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_083_702_jig.mid
+256,256,"Mist Covered Mountain, The",jig,6/8,Adorian,"|:G|EAA ABd|e2 A AGE|~G3 GAB|dBA GED|
+EAA ABd|e2A AGE|efg dBG|BAG A2:|
+a|age a2b|age edB|AGE G2A|BAB GED|
+age a2b|age edB|AGE G2A|BAG A3|
+age a2b|age edB|AGE G2A|BAB GED|
+EDE G2A|BAG ABd|efg dBG|BAG A2||",2001-08-25 22:40:53,glauber,Junior Crehan,2052,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_084_256_jig.mid
+67,67,"Monaghan, The",jig,6/8,Eminor,"|:BGE F2E|BGE FGA|BGE F2E|AFD FGA|
+GBE F2E|BGE FGA|d^cd ABG|FDF AGF:|
+|:EGB efg|fed edB|EGB dBG|FDF AGF|
+EGB efg|fed edB|d^cd ABG|FDF AGF:|
+|:g2e efe|gfg bge|g2e efe|fdf afd|
+g2e efe|gfg bge|d^cd ABG|FDF AGF:|
+|:EGB edB|dBG AFD|EGB dBG|FDF AGF|
+EGB GBd|Beg efg|d^cd ABG|FDF AGF:|",2001-05-25 03:13:34,Jeremy,,2038,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_085_67_jig.mid
+793,793,Jimmy Ward's,jig,6/8,Gmajor,"|:G3 GAB|AGE GED|GGG AGE|GED DEF|
+G3 GAB|AGE GAB|cBA BGE|1 DED DEF:|2 DED D2B||
+|:cBA BAG|ABA AGB|cBA BGE|DED GAB|
+cBA BAG|ABA ABc|dcB AGE|1 GED D2B:|2 GED DEF||G6||",2002-06-21 02:19:21,MichaelBolton,Jimmy Ward,1998,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_086_793_jig.mid
+29,29,Dusty Windowsills,jig,6/8,Adorian,"|:A2B cBA|eAB cBA|GAG FGG|EGG EFG|
+A2B cBA|e2d efg|age dBG|ABA A3:|
+a3 age|dBd g3|gag gfe|dBA GAG|
+EGG DGG|EFG ABc|Bee dBG|ABA A3:|
+A2A gAf|A2A gAf|G2G eGd|G2G edB|
+A2A gAf|A2d efg|age dBG|ABA A3:|",2001-05-21 03:49:49,Jeremy,Johnny Harling,1874,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_087_29_jig.mid
+88,88,"Rolling Waves, The",jig,6/8,Dmajor,"|:FEF DED|D2d cAG|FEF FED|A2F GFE|
+FEF DED|D2d cAG|FAF GBG|A2F GFE:|
+D2d cAd|cAd cAG|FEF cAd|A2F GFE|
+D2d cAd|fed cAG|FAF GBG|A2F GFE:|",2001-05-25 03:47:33,Jeremy,,1841,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_088_88_jig.mid
+582,582,Haste To The Wedding,jig,6/8,Dmajor,"|:AFA Agf|ede fdB|AFA dAF|EFE EFG|
+AFA Agf|ede fdB|A2g faf|ded d3:|
+|:afa afa|bgb bgb|afa agf|ede efg|
+a3 f3|ede fdB|A2g faf|ded d3:|",2002-03-10 14:48:35,Jeremy,,1831,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_089_582_jig.mid
+307,307,Saddle The Pony,jig,6/8,Gmajor,"|:D|GBA G2B|def gdB|GBA G2B|AFD AFD|
+GBA G2B|def gfg|efe dBA|BGG G2:|
+|:d|efe edB|def gfg|efe edB|dBA ABd|
+efe edB|def gfg|efe dBA|BGG G2:|",2001-10-03 22:42:41,Jdharv,,1753,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_090_307_jig.mid
+381,381,I Buried My Wife And Danced On Her Grave,jig,6/8,Dmixolydian,"|:DDD F2G|AdB cAF|GGG BAG|FFF GEA|
+DDD F2G|AdB cAF|GGG BAG|AFD D2A:|
+|:d2e fed|faf gfe|d2e fed|dcA dcA|
+d2e fed|faf gfe|dcA BAG|AFD D3:|",2001-11-17 03:36:15,Josh Kane,,1719,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_091_381_jig.mid
+107,107,"Athol Highlanders, The",jig,6/8,Amajor,"|:e2e ecA|ecA Bcd|e2e ecA|Bcd cBA|
+e2e ecA|ecA Bcd|eae fed|cdB A3:|
+Ace Ace|Adf Adf|Ace Ace|Bcd c2B|
+Ace Ace|Adf Adf|eae fed|cdB A3:|
+|:a2a aec|a2a aec|a2a aec|Bcd cBA|
+a2a aec|a2a aec|eae fed|cdB A3:|
+c2c cBA|d2d fed|c2c cBA|=G2=G BA=G|
+c2c cBA|d2d fed|eae fed|cdB A3:|",2001-05-25 04:16:35,Jeremy,,1705,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_092_107_jig.mid
+447,447,"Rose In The Heather, The",jig,6/8,Dmajor,"|:D2F EDB,|DFA BAF|ABd ede|fdB AFE|
+~F3 EFE|DFA Bcd|edB AFE|FDD D3:|
+|:fdB ABd|faa afd|~g3 fed|Bee ede|fdB ABd|
+faa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
+~F3 EFE|DFA BAF|ABd ede|fdB AFE|
+D2F EDB,|DFA BAF|AdB AFE|1 FDD D3:|2 FDD D2e||
+|:fdB AFA|dfa afd|~g3 fed|Bee ede|
+fdB AFA|dfa afa|baf gfe|1 fdd d2e:|2 fdB AFE||",2001-12-19 12:01:03,Toni Ribas,,1672,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_093_447_jig.mid
+544,544,Garrett Barry's,jig,6/8,Gmajor,"A|:DEF ~G3|AGE c2A|dcA d2e|fed cAG|
+~F3 GFG|AGE (3Bcd e|dcA GEA|DED D2 A:|
+|:dcA d2e|fed (3efg e|dcA c2d|efd ecA|
+dAA d2e|fed (3efg e|dcA GEA|DED D2 A:|",2002-02-12 21:04:06,Zina Lee,,1664,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_094_544_jig.mid
+35,35,"Jig Of Slurs, The",jig,6/8,Dmajor,"|:Add cdd|Bdd Add|Bdd Add|Bee edB|
+Add cdd|Bdd Add|Bdd cde|fec d3:|
+|:A2f fef|a2f fed|B2e ede|f2f edB|
+A2f fef|a2f fed|Add cde|fec d3:|
+K:Gmaj
+|:G2g gfg|aff gff|G2g gfg|aff g3|
+G2g gfg|aff gff|e2e efg|fed e3:|
+|:GBB Bdd|dee edB|GBB Bdd|dee efg|
+GBB Bdd|dee edB|e2e efg|fed e3:|",2001-05-21 04:05:56,Jeremy,G.S. MacLennan,1630,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_095_35_jig.mid
+43,43,"Geese In The Bog, The",jig,6/8,Aminor,"|:cEE GEE|CEE GEE|cEE GED|EAA A2B|
+cEE GEE|CEE GEE|cBA GED|EAA A2B:|
+|:cee gee|aee gee|cee gee|gaa a2e|
+cee gee|aee ged|cBA GED|EAA A2B:|",2001-05-21 04:24:50,Jeremy,,1592,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_096_43_jig.mid
+26,26,Donnybrook Fair,jig,6/8,Gmajor,"|:GFG AGA|Bee dBA|BAB GAB|AGE DED|
+G2G A2A|Bee dBA|B2B GAB|AGF G3:|
+gfe fed|efe dBA|Bee dBA|Bee e2f|
+[1gfe fed|efe dBA|BAB GAB|AGF G2f:|
+[2gfg aga|bge dBA|B2B GAB|AGF G3||",2001-05-21 03:46:44,Jeremy,,1551,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_097_26_jig.mid
+89,89,"Rambling Pitchfork, The",jig,6/8,Dmajor,"|:F2F AFF|dFF AFF|G2G ABc|ded cAG|
+FEF AFF|dFF AFF|GFG BAG|FDD D3:|
+|:d2e fed|ecA ABc|dcd fed|faf gfe|
+d2e fed|ecA BAF|GFG BAG|FDD D3:|",2001-05-25 03:49:54,Jeremy,,1509,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_098_89_jig.mid
+56,56,"Old Favourite, The",jig,6/8,Gmajor,"|:B3 BAB|dBA G2B|ded d2 B|ded B2A|
+B3 BAB|dBA G2B|ded cBA|G3 GAA:|
+|:g2e f2d|ege d2B|ded d2 B|ded B2d|g2e f2d|
+ege d2B|1 dge dBA|G3 GBd:|2 dge dge|dge dBA||",2001-05-25 02:57:25,Jeremy,,1501,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_099_56_jig.mid
+45,45,"Humours Of Glendart, The",jig,6/8,Dmajor,"|:BAF AFE|FED EFA|BAF AFE|FEE E2A|
+BAF AFE|FED FAB|dcB AFE|FDD D2A:|
+def d2B|ABA AFA|def d2d|ede fdB|
+def edB|dBA ABc|dcB AFE|FDD D2A:|",2001-05-25 02:41:57,Jeremy,,1461,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_100_45_jig.mid
+109,109,"Tenpenny Bit, The",jig,6/8,Adorian,"|:eAA eAA|BAB GBd|eAA eAA|def gfg|
+eAA eAA|BAB GAB|def ged|BAG A3:|
+eaa aga|bag ged|eaa aga|bag a3|
+eaa aga|bag ged|def ged|BAG A3:|",2001-05-25 04:18:26,Jeremy,,1437,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_101_109_jig.mid
+829,829,"Hag At The Churn, The",jig,6/8,Dmixolydian,"|:A2G ADD|A2G Adc|A2G ADD|EFG EFG:|
+AdB c3|Add efg|AdB c2A|GEG AED|
+AdB c3|Add efg|age dcA|GEG AED||",2002-07-06 19:36:35,Jeremy,,1426,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_102_829_jig.mid
+139,139,"Kerfunten, The",jig,6/8,Dmajor,"|:F3 FED|FGA Bcd|A2 B BAF|~E3 EDE|
+~F3 FED|FGA Bcd|A2 B BAF|1 EFE D2 E:|2 EFE DFA||
+|:d3 def|B3 BAB|d3 def|fed efe|
+d3 def|B3 BAB|A2 d dAF|1 EFE DFA:|2 EFE D2 E||",2001-06-14 03:10:18,Will Harmon,Hammy Hamilton,1422,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_103_139_jig.mid
+210,210,"Humours Of Ballyloughlin, The",jig,6/8,Dmixolydian,"|:ABA AGE|GED D2 B|cBc ded|cAG FED|
+ABA AGE|~G3 cGE|DED DFA|1 DED D2 A:|2 DED D2 B||
+|:~c3 cBc|cAG AB^c|~d3 ded|dAF DFA|
+cBc dcB|cAG FGE|DED DFA|1 DED D2 B:|2 DED D2 e||
+|:fdd gdd|fdd gdd|^cde ged|^cde ~g3|
+fdd gdd|fdd ged|^cde gag|1 ed^c d2 e:|2 ed^c d^cB||
+|:AFD ABG|~F3 GED|~E3 EFG|~E3 EFG|
+ABA dAG|~F3 GEA|DED DFA|1 DED D2 A:|2 DED D3||",2001-07-22 20:27:04,Will Harmon,,1358,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_104_210_jig.mid
+308,308,Tobin's Favourite,jig,6/8,Dmajor,"|:AF|DFA dcd|ecA cde|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:|
+d2|dfa agf|(4efge efg|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:|",2001-10-03 22:44:13,Jdharv,,1307,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_105_308_jig.mid
+84,84,"Rakes Of Kildare, The",jig,6/8,Adorian,"|:EAA AGA|Bcd e2f|g2g efg|dBA G2D|
+EAA AGA|Bcd e2f|gfe dBG|ABA A3:|
+aea aea|aea b2a|g2g efg|dBA G3|
+[1 aea aea|aea b2a|gfe dBG|ABA A3:|
+[2 EAA AGA|Bcd e2f|gfe dBG|ABA A3||",2001-05-25 03:43:28,Jeremy,,1268,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_106_84_jig.mid
+151,151,"Tar Road To Sligo, The",jig,6/8,Dmajor,"|:e|fdB Bcd|ecA BAG|FGA ABc|dcd efg|
+fdB Bcd|ecA BAG|FGA Aag|fdc d2:|
+|:B|Adf Adf|gfg efg|afd dcd|Bed cBA|
+[1 Adf Adf|gfg efg|afd bge|edc d2:|
+[2 fdB gec|~a3 bge|~a3 bge|edc d2||",2001-06-23 22:05:57,Proinsios,,1253,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_107_151_jig.mid
+476,476,Willie Coleman's,jig,6/8,Gmajor,"|:B2G AGE|GED G2d|edB dgb|age dBA|
+B2G AGE|GED G2d|edB dBA|BGG G3:|
+~g3 edB|dgb age|~g3 edB|GBd e3|
+~g3 edB|dgb age|dBd gdB|AGF G3:|",2002-01-01 15:51:59,b.maloney,Willie Coleman,1206,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_108_476_jig.mid
+160,160,Gallagher's Frolics,jig,6/8,Edorian,"D|:~E3 GFE|~B3 dBA|BdB BAB|GBG AFD|
+~E3 GFE|BAB dBA|BAG FAF|1 GEE E2 D:|2 GEE E2 e||
+|:e2 g gfe|g2 b bge|dcd fed|fad fed|
+e2 f gfe|dfe dBA|BAG FAF|1 GEE E2 e:|2 GEE E2 D||",2001-06-28 22:45:37,Will Harmon,,1205,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_109_160_jig.mid
+335,335,Sliabh Russell,jig,6/8,Adorian,"|:eAA Bcd|eaf ged|edB cBA|BAG ABd|
+eAA Bcd|eaf ged|edB cBA|1 BAG A3:|2 BAG ABd||
+|:eaa efg|agf gfd|eaa efg|afd e3|
+eaa efg|agf gfd|edB cBA|BAG ABd:|",2001-10-21 21:01:54,Jeremy,,1200,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_110_335_jig.mid
+448,448,"Frost Is All Over, The",jig,6/8,Dmajor,"|:~d3 edc|dAF GFE|DFA dFA|Bcd efg|
+fed edc|dAF GFE|DFA dFA|B2c d3:|
+|:~f3 ~a3|~g3 bag|f2a afd|1 ~g3 efg|
+fef afd|~g3 bag|fga efg|fdc d3:|
+[2 ~g3 e2g|fga efg|fdB AFA|Bcd ece|fd/e/f gfe||",2001-12-19 12:02:49,Toni Ribas,,1200,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_111_448_jig.mid
+81,81,"Pipe On The Hob, The",jig,6/8,Adorian,"B|:c2c edc|edc BAG|ABA g3|eaa ged|
+c3 edc|edc deg|age edB|ABA A3:|
+g2g gea|age dBA|ABA g2e|aba gef|
+g3 gea|age deg|age dBe|ABA A3:|
+c2c d2d|edc AGE|c3 d2d|edc A2B|
+cBc dcd|ede gab|age dBe|ABA A3:|",2001-05-25 03:40:20,Jeremy,,1182,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_112_81_jig.mid
+91,91,"Roaring Barmaid, The",jig,6/8,Gmajor,"|:GFG EGD|GFG EGD|DEG BGG|dGG BGG|
+GFG EGD|GFG EGD|GAB deg|deg edB:|
+deg b3|bab deg|b2b bag|edB deg|
+b2b bab|agg bgg|agg deg|deg edB:|",2001-05-25 03:52:05,Jeremy,Tony Sullivan,1165,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_113_91_jig.mid
+667,667,"Killavil, The",jig,6/8,Gmajor,"|:BEE GFE|d2d edB|AF{G}F DFF|AFA dAF|
+B2E GFE|d2d edB|AFA dAF|FED E3:|
+|:Bef gfe|~f2f edB|BAF FEF|DFA BAF|
+Bef gfe|~f2f edB|BAB dAF|FED E3:|",2002-05-01 07:05:58,Josh Kane,,1155,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_114_667_jig.mid
+382,382,"Battering Ram, The",jig,6/8,Gmajor,"|:dBG BAG|dBG G2B|dBG AGE|GFD D2B|
+dBG BAG|BdB BAG|AGA BAB|GED D2B:|
+|:deg aga|bge edB|deg aga|bge ega|
+bag age|ged ege|dAG AGE|GED D2B:|
+|:B2G A2G|BGE DdC|BAG AGE|GED DdC|
+B2G A2G|BdB BAG|AGA BAB|GED D3:|",2001-11-17 04:01:52,Josh Kane,,1132,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_115_382_jig.mid
+1076,1076,"Black Rogue, The",jig,6/8,Amixolydian,"|:cAA BGG|cAA ABd|cAA BAG|AFD D2 B|
+cAA BGG|cAA AFD|G2 A (B/c/d)B|1 AFD D2 B:|2 AFD D3||
+|:~f3 ~g3|afd cBA|~f3 gfg|afd dfg|
+agf gfe|fed e/f/ed|cBA BAG|AFD D3:|",2002-10-24 06:14:14,b.maloney,,1114,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_116_1076_jig.mid
+342,342,"Cat's Meow, The",jig,6/8,Dmajor,"|:D|FAd fef|afe dBA|BdB BAF|dAF E2 E|
+FAd fef|afe dBA|B/c/de fdB|AFE D2:|
+|:e|fdB AFA|DFA d2 e|gef ged|ced cBA|
+fdB AFA|DFA d2 e|gec age|edc d2:|
+|:d|FAd fef|agf agf|Ace g2 g|gfe gfe|fef gfg|
+aga bag|1 faa gec|edc d2:|2 fdB gec|dAF D2||",2001-10-29 19:05:50,b.maloney,Joanie Madden,1093,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_117_342_jig.mid
+299,299,Apples In Winter,jig,6/8,Edorian,"|:G/A/|BEE dEE|BAG FGE|DA,D FDF|ABc ded|
+BEE BAB|def ~g2 e|fdB AGF|GEE E2:|
+d|efe edB|e/f/ge fdB|dec dAF|DFA def|
+[1efe edB|def ~g2a|bgb afa|gee e2:|
+[2edB def|gba ~g2e|fdB AGF|GEE E2||",2001-09-29 12:20:37,b.maloney,,1068,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_118_299_jig.mid
+775,775,"Banks Of Lough Gowna, The",jig,6/8,Bminor,"|:BcB BAF|FEF DFA|BcB BAF|d2e fed|
+BcB BAF|FEF DFA|def geg|1 fdB Bdc:|2 fdB ~B3||
+|:def ~a3|afb afe|dFA def|geg fdB|
+def ~a3|afb afe|def geg|1 fdB ~B3:|2 fdB Bdc||",2002-06-16 20:06:26,slainte,,1032,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_119_775_jig.mid
+467,467,"Leitrim Fancy, The",jig,6/8,Dmajor,"|:GBG FAF|E2B BAB|GBG FAF|D2A AFD|
+GBG FAF|E2B BAB|G2B dBG|ABG FED:|
+G2B dBd|edB dBA|G2B dBG|ABG FED|
+G2B dBd|edB def|gfe dBG|ABG FED:|",2001-12-28 06:05:49,Musicalbison,,1031,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_120_467_jig.mid
+449,449,Sí Bheag Sí Mhór,waltz,3/4,Dmajor,"de|:f3e d2|d2 de d2|B4 A2|F4 A2|BA Bc d2|e4 de|f2 f2 e2|
+d4 f2|B4 e2|A4 d2|F4 E2|D4 e2|B4 e2|A4 dc|d6|d4 de:|
+|:f2 fe d2|ed ef a2|b4 a2|f4 ed|e4 a2|f4 e2|d4 B2|A4 BA|
+F4 E2|D4 f2|B4 e2|A4 a2|ba gf ed|e4 dc|d6|1 d4 de:|2 d6||",2001-12-19 22:35:18,dirk,Turlough O'Carolan,3138,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_121_449_waltz.mid
+211,211,Inisheer,waltz,3/4,Dmixolydian,"|:B3A Bd|B3A Bd|E3B AB|D3B AG|
+B3A Bd|B3A Bd|G3B A/G/F|1 G3E DG:|2 G3A Bd||
+e3f ed|B3A Bd|ef ed B/c/d|
+e3A Bd|e3f ed|B3A Bd|G3B A/G/F|
+G3A Bd|e3f ed|B3A Bd|gf ed B/c/d|
+e3A Bd|e3f ed|B3A Bd|D3B A/G/F|G6||",2001-07-22 20:36:45,laura nesbit,Tommy Walsh,2629,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_122_211_waltz.mid
+4997,4997,Ashokan Farewell,waltz,3/4,Dmajor,"|:Ac|d3 cBA|F4 EF|G3 FED|B,2D2B,2|
+A,2D2F2|A2d2f2|f3gf2|e4:|
+FG|A3FD2|d4A2|B3cd2|AF F2D2|
+A3ED2|B,3G,G,2|G,6|A4 FE|
+D2F2A2|=c4d2|B3cd2|AF F2D2|
+A,2D2F2|A2d2F2|E3DC2|D4:|",2005-09-24 16:06:49,Mr Squeeze,Jay Ungar,1756,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_123_4997_waltz.mid
+454,454,Tabhair Dom Do Lámh,waltz,3/4,Gmajor,"D2|E2 G2 G2|G4 D2|E2 G2 G>A|G4 D2|E2 G2 G2|G2 A2 B2|B2 e2 de|B4 AG|
+A2 A2 ed|B2 B2 dB|A2 AB AG|E4 D2|E2 G2 G2|G4 D2|E2 G2 G2|G4 D2|
+E2 G2 G2|G2 A2 B2|de dB AB|G4 D2|E2 G2 G2|G2 A2 B2|B2 e2 d2|B4 AG|
+A2 A2 ed|B2 B2 dB|A2 AB cd|e4 dB|d2 d2 e2|g4 ed|e2 e2 (3geg|a4 de|
+g2 g2 de|g2 g2 de|g2 g2 (3aga|b6|b2 b2 b2|b4 ag|a2 ag ab|a4 gf|
+e3 f2 (3gfe|d2 d2 g2|B3 d cB|A4 (3cBA|G2 GA Bd|=f4 ed|e2 e2 g2|e4 dB|
+d2 d2 g2|B2 B2 dB|A2 AB (3cBA|G6||",2001-12-22 05:56:39,Redbird,Ruaidhrí Dall Ó Catháin,1615,
+957,957,Fanny Power,waltz,3/4,Gmajor,"|:D|""G""G2D ""Em""G>AB|""C""c2B ""D""A2G|""C""F>GE ""D""D>ED|""Bm""F2G ""D""A>Bc|
+""G""B>AG ""Em""B>cd|""C""e2A ""D""A2G|""C""F>GE ""D""D>GF|""G"" G3 G2:|
+|:d|""G""dB/c/d dB/c/d|""Em""G>AG GBd|""C""ec/d/e ec/d/e|""D""A>BA ABc|
+""G""B>cd ""C""e>fg|""D""f>ga d2c|""G""B>AG ""D""A/B/cF|""G""G3 G2:|",2002-09-08 04:42:39,Mark de Jong,Turlough O'Carolan,1435,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_125_957_waltz.mid
+601,601,"South Wind, The",waltz,3/4,Gmajor,"dc|B3A G2|B3c d2|A4 B2|A4 dc|
+B3A G2|E3D E2|G6-|G2 z2 dc|
+B3A G2|B3c d2|A4 B2|A4 dc|
+B3A G2|E3D E2|G6-|G2 z2 (3d-e-f|
+g3a f2|g3f e2|d4 e2|d4 c2|
+B3A G2|B3c d2|A4 B2|A2 z2 (3d-e-f|
+g3a f2|g3f e2|d4 e2|d4 c2|
+Bd3 G2|Ac3 F2|G6-|G2 z2||",2002-03-17 21:26:28,bsykes62,Donall Meidhreach,1385,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_126_601_waltz.mid
+562,562,Crested Hens,waltz,3/4,Dmajor,"E3G FE|B4 Bc|dc Be dc|dc BA GF|
+E3G FE|B4 Bc|dc BA GA|B3G FD|
+E3G FE|B4 Bc|dc Be dc|dc BA GF|
+E3G FE|B4 Bc|dc BA GA|B4 ef||
+gB Bg gB|=c4ef|gf ag fe|^d2e2 f2|
+gB Bg gB|=c4ef|gf ag fd|e3e ef|
+gB Bg gB|=c4ef|gf ag fe|^d2e2 f2|
+gB Bg gB|=c4ef|gf ag fd|e3G FA||",2002-02-23 04:11:06,Redbird,Gilles Chabenat,1378,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_127_562_waltz.mid
+790,790,Planxty Irwin,waltz,3/4,Gmajor,"|:d|g2 f efg|d2 c BAG|c2 A Bcd|F2 G A2 d|
+g2 f efg|d2 c BAG|c2 A Bcd|G2 F G2:|
+|:d|g2 g gfg|a2 a afd|b2 b a2 g|f2 e def|
+g2 f efg|d2 c BAG|c2 A Bcd|G2 F G2:|",2002-06-20 07:20:32,Mark de Jong,Turlough O'Carolan,1342,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_128_790_waltz.mid
+1292,1292,Hector The Hero,waltz,3/4,Dmajor,"|:(DE|{E}F4) ((3E/F/E/ D)|(B2 (3cBA) F2|( A6|A4) (DE|
+{E}F4) ((3E/F/E/ D)|B3 (D F)D|(E4 F2|E4) (DE|
+{E}F4) ((3E/F/E/ D)|(B2 (3cBA) F2|A(D- D2 E2)|F(d- d2 (3BcB)|
+""(4 Slide)"" (AD- D2) ((3FGF|E4) {FE}D2|(D6|1 D4):|2 D3||
+((3A/B/c/ d)c|~B3 G B2|(d3 (3c/d/c/) ~B2|(A6|A4) B2|
+A4 (FG)|""(4 Slide)"" (AD- D2) E-F|(E6|E3) ((3A/B/c/ d)c|
+~B3 G B2|(d3 (3c/d/c/) ~B2|AD- D2- E2|F(d- d2 (3BcB)|
+""(4 Slide)"" (AD- D2) ((3FGF|E4) {FE}D2|(D6|D3) ((3A/B/c/ d)c|
+~B3 G B2|(d3 (3c/d/c/) ~B2|(A6|A4) B2|
+A4 (FG)|""(4 Slide)"" (AD- D2) E-F|(E6|E4) (DE|
+{E}F4) ((3E/F/E/ D)|(B2 (3cBA) F2|A(D- D2 E2)|F(d- d2 (3BcB)|
+""(4 Slide)"" (AD- D2) ((3FGF|E4) {FE}D2|(D6|D4)||",2003-01-04 15:40:03,ScottC,James Scott Skinner,1328,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_129_1292_waltz.mid
+1016,1016,Josefin's,waltz,3/4,Gmajor,"""G""DGA|B d c|BAG|D2 E|""C"" C2 C/C/|EGF|E3|""D""D3|
+""G""DGA|B d c|BAG|D2 E|""C""C2 C/C/|EFG|(""D""A3|A)Bc|
+|:""G""dBd|g2f|""C""e3|""G""d3|""C""ced|cBA|""G""B>c B|""D""ABc:|
+""Em""BAG|""D""F2G|""C""G3|CDC|""G""B,DG|""D""FEF|(""G""G3|G)|",2002-10-06 09:08:40,injun bob,Roger Tallroth,1075,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_130_1016_waltz.mid
+1055,1055,Carolan's Welcome,waltz,3/4,Aminor,"cB|:A2 cd e2|A2 cd e2|dedcBA|B2 G2 E2|
+c3 B A2|d3 c B2|ce E2 G2|A4 cB|
+A2 cd e2|A2 cd e2|dedcBA|B2 G2 E2|
+g3 f e2|a3 g ed|cedcBc|1 A4 cB:|2 A4 A2|
+|:e2 ab c'2|e2 ab c'2|c'bagab|c'2 e2 e2|
+f2 afed|e2 gedc|d2 e2 g2|a6|
+ageg a2|gede g2|edcdec|d2 B2 G2|
+c3 B A2|d3 c B2|ce E2 G2|1 A4 A2:|2 A6||",2002-10-17 20:25:44,Sarah,Turlough O'Carolan,955,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_131_1055_waltz.mid
+4906,4906,"Dark Island, The",waltz,3/4,Gmajor,"EG|:A4 A2|G4 G2|E3 D C2|D4 GA|
+[1 B3 A G2|B d3 G2|B3 A G2|A4 E2:|
+[2 B3 D dB|A3 D BA|G6|G4 Bc||
+d2 B2 d2|B3 A G2|E3 C E2|D4 GA|
+B3 A G2|B d3 GA|B3 A G2|A4 E2|
+A4 A2|G4 G2|E3 D C2|D4 GA|
+B3 D dB|A3 D BA|G6|G6||",2005-08-28 19:04:25,irishimp,Iain MacLachlan,804,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_132_4906_waltz.mid
+3690,3690,"Skye Boat Song, The",waltz,3/4,Gmajor,"""G""D>E D ""G""G2 G|""D""A>B A ""D""d3|""G""B>A B ""C""E2 E|""D""D3 ""D""D3|
+""G""D>E D ""G""G2 G|""D""A>B A ""D""d3|""G""B>A B ""C""E2 E|E>D E ""G""G3|
+""G"" G3 ""Em""B>G B|B3 ""Am""A>E A|A3 ""Em""G>E F|""C""G2 F ""Am""E3|
+""Em""E3 ""Em""B>G B|B3 ""Am""A>E A|A3 ""Em""G>E F|""C""G2 F ""Em""E3|
+""D""D3 ""G""D>E D|""G""G2 G ""D""A>B A|""D""d3 ""G""B>A B|""C""E2 E ""D""D3|
+""D""D3 ""G""D>E D|""G""G2 G ""D""A>B A|""D""d3 ""G""B>A B|""C""E2 E E>D E|""G"" G3 ""G"" G3|",2004-10-13 18:00:55,dveith,,731,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_133_3690_waltz.mid
+187,187,Far Away,waltz,3/4,Bminor,"FA|B2 BA Bd|cA F2 FA|B2 BA B3/4c/e3/4|
+c4 dc|B2 BA B3/4c/d3/4|cB A2 de|fe dc BA|
+B3 A FA|B2 BA Bd|cA F2 FA|B2 BA B3/4c/e3/4|
+c4 dc|B2 BA B3/4c/d3/4|cB A2 de|fe dc BA|
+B3 c de|f2 fe f3/4g/a3/4|ec A2 de|f2 fe f3/4g/a3/4|
+e4 de|fd Be cA|dB Gd BG|F2 B2 BA|
+B3 c de|f2 fe f3/4g/a3/4|ec A2 de|f2 fe f3/4g/a3/4|
+e4 de|fd Be cA|dB Gd BG|F2 B2 BA|
+B3 A FA||",2001-07-09 00:23:08,Domi Charly,Pete Jung,731,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_134_187_waltz.mid
+5020,5020,Midnight On The Water,waltz,3/4,Dmajor,"DE|:""D""F2 F2 FE|""D"" F2 F2 FE|""D"" F A3 AB|""D"" AFED DE|
+""D""F2 d2 ""G""B2|""D"" A3 F DE|""A"" F2 AF EF|1 ""D"" D4 DE:|2 ""D"" D4 (3ABc||
+|:""D""d6|""D"" dc BA Bc|""D"" d3 B AF|""D"" D4 d2|
+""Em""e e3 f2|""Em"" e2 d2 e2|""Bm""f a3 f2|""Bm""gfed Bc|
+""G""d3 cde|""G"" dc BA Bc|""D"" d3 B AF|""D"" D4 DE|
+""D""F2 d2 ""G""B2|""D"" A3 F DE|""A"" F2 AF EF|""D"" D4||",2005-09-30 05:52:30,barrysmith90,Luke Thomasson,727,
+986,986,"Arran Boat Song, The",waltz,3/4,Edorian,"|:E3 FE2|B3 cd2|A3 FD2|A2 AF D2|
+E3 FE2|B3 cd2|AF3 D2|1 E6:|2 E4 B2||
+|:e3 fe2|g3 fe2|d2 dB G2|A2 AF D2|
+[1 e3 fe2|g3 fe2|dB3 d2|e6:|
+[2 E3 FE2|d3 BG2|AF3 D2|E6||",2002-09-23 20:48:12,Will Harmon,,710,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_136_986_waltz.mid
+1678,1678,Margaret's,waltz,3/4,Gmajor,"GE|:D3 EGA|{A}B4 GB|AG E2 GB|A4 GE|
+D3 EGA|Bd3 GA|B2B2A2|1 G4 GE:|2 G4 Bc||
+d2 e2 f2|g2 f2 g2|ed c2 e2|d4 BA|
+G3 A Bc|d2 B2 d2|ed c2 B2|A4 Bc|
+d2 e2 f2|g2 f2 e2|d2 c2 B2|A4 GE|
+D3 EGA|Bd3 GA|B2 B2 A2|G6||",2003-05-20 04:56:05,LH,Pat Shuldham Shaw,702,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_137_1678_waltz.mid
+441,441,John Ryan's,polka,2/4,Dmajor,"dd B/c/d/B/|AF ED|dd B/c/d/B/|AF E2|
+dd B/c/d/B/|AF Ad|fd ec|d2 d2||
+fd de/f/|gf ed|fd de/f/|gf a2|
+fd de/f/|gf ed|fd ec|d2 d2||",2001-12-17 20:13:24,b.maloney,,2439,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_138_441_polka.mid
+1075,1075,"Britches Full Of Stitches, The",polka,2/4,Dmajor,"|:d>e fd|ed fd|d>e fd|edB2|
+d>e fd|ed fa|d>e dB|BA A2:|
+|:~a2af|ed ef|~a2af|edb2|
+~a2af|ed ef|d>e dB|BA A2:|",2002-10-24 04:13:37,Paddy,,2135,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_139_1075_polka.mid
+39,39,Egan's,polka,2/4,Dmajor,"|:fA BA|fA BA|d2 e>f|ed BA|
+fA BA|fA BA|d2 e>f|ed d2:|
+|:fa f>e|ed BA|d2 e>f|ed BA|
+fa f>e|ed BA|d2 e>f|ed d2:|",2001-05-21 04:11:48,Jeremy,,1886,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_140_39_polka.mid
+238,238,"Ballydesmond, The",polka,2/4,Adorian,"|:E>A AB|cd e2|G>F GA|GF ED|
+E>A AB|cd ef|ge dB|A2 A2:|
+|:a2 ab|ag ef|g2 ga|ge de|
+ea ab|ag ef|ge dB|A2 A2:|",2001-08-16 02:00:34,Jeremy,,1391,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_141_238_polka.mid
+291,291,Maggie In The Woods,polka,2/4,Gmajor,"|:B/A/|GD GA|Be e/f/g/e/|dB B/A/G/A/|BA A/c/B/A/|
+GD GA|Be e/f/g/e/|dB AB/A/|G2 G:|
+d|g>f ed|ef g>e|dB B/A/G/A/|BA A>d|
+g>f ed|ef g>e|dB AB|G2 G2:|",2001-09-23 21:03:59,glauber,,1250,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_142_291_polka.mid
+357,357,Denis Murphy's,polka,2/4,Dmajor,"|:f/g/f/e/ d>B|AD FA|GE e>d|cB (3BcB A|
+f/g/f/e/ d>B|AD FA|GE e>f|1 ed d2:|2 ed dB||
+|:Af f/e/f|Ag g/f/g|Af f/e/g|e/f/e/d/ BA|
+Af f/e/f|Ag ga|ba gc|1 dd B2:|2 ed d2||",2001-11-05 23:35:39,Atk,,1217,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_143_357_polka.mid
+85,85,"Rakes Of Mallow, The",polka,2/4,Gmajor,"|:GB GB|GB c/B/A/G/|FA FA|FA B/A/G/F/|
+GB GB|GB d2|c/B/A/G/ F/G/A/c/|BG G2:|
+|:gf ed|Bc d2|gf ed|Bc A2|
+gf ed|Bc d2|c/B/A/G/ F/G/A/c/|BG G2:|",2001-05-25 03:44:06,Jeremy,,1039,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_144_85_polka.mid
+481,481,Bill Sullivan's,polka,2/4,Amajor,"|:a2 a>f|ec a>f|ec a>f|ec BA|
+a2 a>f|ec a2|ce B>c|BA A2:|
+|:ce ec|df fA|ce eA|cB AB|
+ce eA|df f2|ce B>c|BA A2:|",2002-01-04 13:03:17,Netallica,Terry Teahan,959,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_145_481_polka.mid
+239,239,"Ballydesmond 2, The",polka,2/4,Adorian,"|:AB|c2 B2|A2 GA|Bd ed|g2 ed|
+ea ge|dB G>B|ce dB|A2:|
+|:cd|ea ag|dg gd|ea ab|g2 ed|
+ea ge|dB G>B|ce dB|A2:|",2001-08-16 02:16:49,Jeremy,,901,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_146_239_polka.mid
+583,583,"Rattlin' Bog, The",polka,2/4,Dmajor,"|:""D""f2 f>e|""G""dB B>B|""D""Ad de|""A7""fe e2|
+""D""f2 f>e|""G""dB B>B|""D""Aa af|""A7""fe ""D""d2:|
+|:fd ed|fd e>d|f2 af/f/|""A7""fe ee/e/|
+""D""fd/d/ ed/d/|fa af|""A7""fe ""D""d2:|",2002-03-11 16:55:35,hillfolk,,706,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_147_583_polka.mid
+2434,2434,I'll Tell Me Ma,polka,2/4,Dmajor,"A|""D""Ad f>f|gf f>g|""A7""fe e>f|""D""ed d>d|
+Ad f>f|gf f>g|""A7""fe e>f|""D""ed d2|
+aa a<f|""G""gg g<e|""D""f>f fd|""A7""ec B<A|
+""D""aa a<f|""G""gg g2|""D""ff ""A7""ef|""D""ed d2|",2004-01-25 04:15:22,Michael Bell,,678,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_148_2434_polka.mid
+418,418,Ievan Polkka,polka,2/4,Bminor,"|:B>B Bc|dB Bd|cA Ac|d/c/B/A/ BF|
+B>B Bc|dB B2|ef/e/ dc|B2 B2:|
+|:f>d df|ec cd|ef/e/ dc|Bc de|
+f>d df|ec cd|ef/e/ dc|B2 B2:|",2001-12-06 04:32:23,Redbird,,665,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_149_418_polka.mid
+531,531,"Ballydesmond, The",polka,2/4,Dmajor,"|:D2 FA|dc BA|BE EF|GA/G/ FE|
+D2 FA|dc BA|Be Bc|d2 d2:|
+eB eB|eB B>c|dA dA|dA A2|
+eB eB|eB Bc|d/c/B AF|E2 E2:|",2002-02-02 09:19:42,b.maloney,,619,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_150_531_polka.mid
+1529,1529,Farewell To Whisky,polka,2/4,Gmajor,"|:EG G/B/A/G/|BE EG/E/|DG B/A/G/A/|d2 Bd|
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|BG G2:|
+|:dB/d/ gf/g/|e/f/g/e/ dB|dB/d/ gf/g/|ef g2|
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|BG G2:|",2003-03-18 13:13:56,Davetnova,Niel Gow,536,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_151_1529_polka.mid
+466,466,"Maids Of Ardagh, The",polka,2/4,Amixolydian,"|:F>A BA|de f2|fe/f/ gc|ed BA|
+F>A BA|de f2|fe/f/ gc|ed d2:|
+ef/e/ ce|fe a2|ef/e/ ce|fe c/B/A|
+ef/e/ ce|fe a2|ef/e/ dB|BA A2:|",2001-12-28 06:04:45,Musicalbison,,505,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_152_466_polka.mid
+83,83,"Rights Of Man, The",hornpipe,4/4,Eminor,"|:GA|B2A2 G2F2|EFGA B2ef|gfed edBd|cBAG A2GA|
+BcAB GAFG|EFGA B2ef|gfed Bgfg|e2 E2 E2:|
+|:ga|babg efga|babg egfe|d^cde fefg|afdf a2gf|
+edef gfga|bgaf gfef|gfed Bgfg|e2 E2 E2:|",2001-05-25 03:42:13,Jeremy,,3435,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_153_83_hornpipe.mid
+475,475,King Of The Fairies,hornpipe,4/4,Edorian,"|:B,2|EDEF GFGA|B2B2 G2GA|B2E2 EFGE|FGFE D2B,2|
+EDEF GFGA|BAGB d3c|B2E2 GFE_E|E6:|
+|:d2|e2e2 Bdef|gagf e3f|e2B2 BABc|dedc BcdB|
+e2B2 Bdef|gagf efed|Bdeg fedf|e6 ef|
+g3e f3d|edBc d3e|dBAF GABc|dBAF GFED|
+B,2E2 EFGA|B2e2 edef|e2B2 BAGF|E6:|",2002-01-01 03:54:52,Jeremy,,3362,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_154_475_hornpipe.mid
+49,49,"Harvest Home, The",hornpipe,4/4,Dmajor,"|:AF|DAFA DAFA|defe dcBA|eAfA gAfA|(3efe (3dcB AGFE|
+DAFA DAFA|defe dcBA|eAfA gfec|d2 f2 d2:|
+|:cd|eAAA fAAA|gAfA eAAA|eAfA gAfA|(3efe (3dcB (3ABA (3GFE|
+DAFA DAFA|defe dcBA|eAfA gfec|d2 f2 d2:|",2001-05-25 02:46:39,Jeremy,,3283,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_155_49_hornpipe.mid
+651,651,"Boys Of Bluehill, The",hornpipe,4/4,Dmajor,"|:FA|BA FA D2 FA|BA (3Bcd e2 de|fa gf eg fe|df ed B2 dB|
+BA FA D2 FA|BA (3Bcd e2 de|fa gf eg fe|d2 f2 d2:|
+|:fg|af df a2 g2|ef ga b2 ag|fa gf eg fe|df ed B2 dB|
+BA FA D2 FA|BA (3Bcd e2 de|fa gf eg fe|d2 f2 d2:|",2002-04-19 07:47:06,Caoimghgin,,2698,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_156_651_hornpipe.mid
+30,30,Off To California,hornpipe,4/4,Gmajor,"|:GFGB AGED|GBdg e2df|gfgd edBG|ABAG E2DE|
+G2GB AGED|GBdg e2df|gfgd edBG|ABAF G4:|
+|:gfeg fedf|edef edBd|gfgd edBG|ABAG EDEF|
+GFGB AGED|GBdg e2df|gfgd edBG|ABAF G4:|",2001-05-21 03:50:44,Jeremy,,2673,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_157_30_hornpipe.mid
+566,566,"Little Beggarman, The",hornpipe,4/4,Amixolydian,"|:""A""EAAG ABcd|efec ""D""d2 cd|""A""eAAA ABcA|""G""B=GEF ""G""G2 FG|
+""A""EAAG ABcd|efec ""D""d2 cd|""A""eaaa afed|cA""E""BG ""A""A4:|
+|:""G""g2 g""G""a gfef|gfec ""D""d2 cd|""A""eAAA ABcA|""G""B=GEF G2 FG|
+""A""EAAG ABcd|efec ""D""d2 cd|""A""eaaa afed|cA""E""BG ""A""A4:|",2002-02-25 05:27:48,Dave McGrath,,1884,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_158_566_hornpipe.mid
+13,13,Chief O'Neill's Favourite,hornpipe,4/4,Dmajor,"|:de|fefg afge|fdec dBAG|FEDE FGAB|=cAd^c A2 de|
+fefg afge|fdec dBAG|FEDF GBAG|F2 D2 D2:|
+|:DE|=F2FE FGAB|=cAdB =cAGB|Adde fded|=cAd^c A2de|
+fefg afge|fdec dBAG|FEDF GBAG|F2 D2 D2:|",2001-05-18 04:16:50,Jeremy,,1095,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_159_13_hornpipe.mid
+310,310,"Home Ruler, The",hornpipe,4/4,Dmajor,"|:AF|D2FA DAFA|dfed B2dB|A2AB AFDE|(3FED ED B,DA,B,|
+D2FA DAFA|dfed B2dB|A2AB AFDE|F2D2 D2:|
+dB|Addc d3 f|afbf afed|efed BAFA|fded BdA2|
+Addc d3 f|afbf afed|efed BAdB|AFEF D2:|",2001-10-03 22:48:24,Jdharv,Frank McCollum,1063,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_160_310_hornpipe.mid
+1356,1356,Soldier's Joy,hornpipe,4/4,Dmajor,"|:AFDF AFDF|A2 d2 d2 cB|AFDF AFDF|G2E2 E2 FG|
+AFDF AFDF|A2 d2 d2 de|fafd egec|d2 d2 d4:|
+|:fdfd fagf|edcd efge|fdfd fagf|edcB A2 de|
+fdfd fagf|ecAc efge|fafd egec|d2 d2 d4:|",2003-01-19 22:38:54,Odin,,980,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_161_1356_hornpipe.mid
+478,478,Cronin's,hornpipe,4/4,Gmajor,"|:BA|GABd dBde|gage dega|bage dBGA|BAAG AcBA|
+GABd dBde|gage dega|bage dBAc|AGGF G2:|
+|:(3efg|afd^c d2ga|beed e2ga|bg (3agf gedB|BAAG AcBA|
+GABd dBde|gage dega|bage dBAB|G2 GF G2:|",2002-01-01 22:53:50,lars,,882,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_162_478_hornpipe.mid
+872,872,Fisher's,hornpipe,4/4,Gmajor,"(3def|:gdBd cedc|BGBd cedc|BGBd Bedc|BdcB AB (3def|
+gdBd cedc|BGBd cedc|defg agfa|1 g2 b2 g2 (3def:|2 g2 b2 g2 fg||
+|:afdg afdg|bgdg bgdg|afdf ad'_d'b|agfe dg=fg|
+ecGc egfe|dBGB dgfe|defg fgaf|1 g2 b2 g2 fg:|2 g2 b2 g2||",2002-08-04 04:46:55,Doc Lawlor,,852,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_163_872_hornpipe.mid
+82,82,"Pride Of Petravore, The",hornpipe,4/4,Eminor,"|:E3 F G3 A|BcBA G2 E2|D3 E F3 G|ABAG F2 D2|
+E3 F G3 A|BcBA G2 A2|B2Bc BAGF|E2D2 E4:|
+|:e2 e2 e2 e2|dBGA B2Bc|BAFG A2 AB|AGED E2 Bd|
+e2 e2 gfge|dBGA B2 GA|B2Bc BAGF|E2D2 E4:|",2001-05-25 03:41:14,Jeremy,William Houston Collisson,849,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_164_82_hornpipe.mid
+980,980,"Humours Of Tullycrine, The",hornpipe,4/4,Adorian,"|:G|EAAB cBcd|eaag e2dB|c2Ac BAGA|Bdde dBAG|
+EAAB cBcd|eaag e2dB|c2Ac BAGA|1 BAAG A3:|2 BAAG A2Bd||
+|:eaab aged|eaab aged|egga ged2|dgga gedB|
+A3B B3d|eaag e2dB|c2Ac BAGA|1 BAAG A2Bd:|2 BAAG A3||",2002-09-20 16:18:00,gian marco,,816,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_165_980_hornpipe.mid
+38,38,"Galway, The",hornpipe,4/4,Dmajor,"|:FE|D2 FA dAFD|CDEF G2 FE|D2 FA dcdf|edcB AGFE|
+D2 FA dAFD|CDEF G2FG|AdcB AGFE|D2 CE D2:|
+|:de|f2 fg fedc|BABc B2 Bd|e2 ef edcB|A2 ce a2 AB|
+d2 df edAF|GFGA BdcB|AdcB AGFE|D2 CE D2:|",2001-05-21 04:10:44,Jeremy,,811,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_166_38_hornpipe.mid
+10,10,"Butterfly, The",slip jig,9/8,Eminor,"|:B2E G2E F3|B2E G2E FED|B2E G2E F3|B2d d2B AFD:|
+|:B2d e2f g3|B2d g2e dBA|B2d e2f g2a|b2a g2e dBA:|
+|:B3 B2A G2A|B3 BAB dBA|B3 B2A G2A|B2d g2e dBA:|",2001-05-18 03:53:30,Jeremy,Tommy Potts,6189,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_167_10_slip_jig.mid
+52,52,"Kid On The Mountain, The",slip jig,9/8,Eminor,"|:EFE FEF G2 F|E3 cBA BGE|EFE FED G2 A|BAG FAG FED:|
+|:BGB AFA G2 D|GAB dge dBA|BGB AFA G2 A|BAG FAG FED:|
+|:gfg efe e2 f|gfg efg afd|gfg efe e2 a|bag fag fed:|
+|:eBB e2f g2f|eBB efg afd|eBB e2f g2a|bag fag fed:|
+|:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|",2001-05-25 02:50:51,Jeremy,,3250,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_168_52_slip_jig.mid
+750,750,A Fig For A Kiss,slip jig,9/8,Edorian,"G2B E2B BAG|F2A D2A AGF|G2B E2B BAG|B/c/dB AGF DEF|
+G2B E2B BAG|F2A D2A AGF|G2B E2B BAG|B/c/dB AGF E3||
+g2e g2e edB|f2d dcd fed|g2e g2e edB|dBG GBd e2f|
+g2e g2e edB|f2d dcd fed|gfe fed ecA|B/c/dB AGF E2F||",2002-06-09 05:41:26,Josh Kane,,2298,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_169_750_slip_jig.mid
+593,593,"Rocky Road To Dublin, The",slip jig,9/8,Adorian,"|:efe d2B ~A3|E2A A2A Bcd|efe d2B A2c|B2G G2A Bcd:|
+e2a a2f ~g3|e2a a2f g2d|e2a a2f g2e|d2B G2A Bcd|
+e2a a2f ~g3|e2a a2A Bcd|efg fga g2e|d2B G2A Bcd||",2002-03-14 22:16:07,bsykes62,,1934,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_170_593_slip_jig.mid
+482,482,"Foxhunter, The",slip jig,9/8,Dmajor,"|:FDF F2D G2E|FDF F2D E2D|FDF F2D G2B|AFD DEF E2D:|
+|:B3 BAG FGA|B2E E2F G2B|ABc dcB ABc|d2 D D2 F E2 D:|
+|:fdf f2d g2e|fdf f2d e2d|fdf f2d g2b|afd def e2d:|
+|:gfe dcB AGF|B2 E E2 F G2 B|ABc dcB ABc|d2 D DEF E2 D:|",2002-01-04 13:19:36,Netallica,,1783,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_171_482_slip_jig.mid
+2410,2410,Farewell To Whalley Range,slip jig,9/8,Amajor,"|:F2c BA~F- F2E|F2c BAc fec|B3 BAB c2A|1 ~B3 BAB cBA:|2 ~B3 BAB cef||
+a3 fec fec|B3 BAB cef|a3 baf afe|fec Bce fec|
+a2f fec fec|B3 BAB cef|a3 baf afe|fec fec BAB||",2004-01-19 03:06:12,kiwi,Michael McGoldrick,1539,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_172_2410_slip_jig.mid
+879,879,An Phis Fhliuch,slip jig,9/8,Gmajor,"|:FGA AFA c2A|BAG F/G/AF GED|FGA AFA d2A|d/e/fe dcA GED:|
+|:d^cd ege d2A|d^cd fdf ~g3|{b}a2a ged c2A|BAG F/G/AF GED:|
+|:FGA AFd AFd|AFd AFD GED|FGA AFA c2A|BAG F/G/AF GED:|
+|:~D3 ~D3 c3|c2B c2A GED|~D3 ~D3 d2^c|d/g/fe dcA GED:|
+|:d^cd ege c2A|d^cd fdf ~g3|~a3 ged c2A|BAG F/G/AF GED:|",2002-08-07 20:42:15,Mark Cordova,Patrick O'Farrell,1197,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_173_879_slip_jig.mid
+4320,4320,"Star Of The County Down, The",march,4/4,Eminor,"B,D|E2E2 E2DE|G2G2 A2GA|B2AG E2DB,|D6 B,D|
+E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||
+Bc|d2B2 B2AG|A2A2 A2GA|B2AG E2DB,|D6 B,D|
+E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||
+Bc|d2B2 B2AG|A2A2 A2GA|B2AG E2DB,|D6 B,D|
+E2E2 E2DE|G2G2 A2GA|B2AG E2E2|E6||",2005-03-16 17:29:06,Nutty Nessie,,1235,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_174_4320_march.mid
+2516,2516,"Foggy Dew, The",march,4/4,Eminor,"B d|e2 d B|e2 d B|A2 B2|D2 E F|
+G B A G|E2 D2|E4-|E2 B d|e2 d B|e2 d B|
+A2 B2|D2 E F|G B A G|E2 D2|E4-|E2 F2|
+G2 B2|d2 c B|A2 A2|B2 G A|B2 g f|
+e d B d|e4-|e2 B d|e2 d B|e2 d B|
+A2 B2|D2 E F|G B A G|E2 D2|E2 z2|",2004-02-16 22:55:59,LCorinth,,1113,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_175_2516_march.mid
+1308,1308,After The Battle Of Aughrim,march,4/4,Adorian,"|:E2A2 ABcd|e2d2 c2A2|B2G2 GFGA|B2AG E2D2|
+E2A2 ABcd|e2d2 e2ag|e2d2 BedB|A4 A4:|
+|:a2e2 e2fg|abag e2fg|abaf g3e|dedB G4|
+a2e2 efg|abag e2d2|B2e2 d2B2|A4 A4:|",2003-01-07 20:54:07,Mark Cordova,,897,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_176_1308_march.mid
+7,7,Bonaparte Crossing The Rhine,march,4/4,Adorian,"|:EG|A2 AB AGE2|cdec d2 eg|aged cded|cAGE G2 cB|
+A2 AB AGE2|cdec d2 eg|aged cAGE|A2 A2 A2:|
+|:eg|aged cdeg|agec d2 eg|aged cded|cAGE G2 EG|
+A2 AB AGEG|cdec d2 eg|aged cABG|A2 (3cBG A2:|",2001-05-17 15:30:34,Jeremy,,848,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_177_7_march.mid
+1441,1441,Fáinne Geal An Lae,march,4/4,Dmajor,"D2E2|F4 F4 F4 E2F2|A4 A4 B4 A2F2|D4 E4 D4 D4|D12 A4|B6 A2 [C,12B4] d4|
+F6 E2 D4 F4|A4 F4 d4 F4|E12 A4|B6 A2 B4 d4|
+F6 E2 D4 F4|A4 F4 d4 F4|E12 D2E2|F4 F4 F4 E2F2|
+A4 A4 B4 A2F2|D4 F4 E4 D4 D4 z8|D12 z4||",2003-02-14 21:47:21,Caoimhin,,833,
+706,706,Mairi's Wedding,march,4/4,Dmajor,"f ""A""|:""D""A>A AB|de f2|""G""ed Bd|""A7""fe fa|
+""D""A>A AB|de f2|""G""ed BG|""A7""A2 A2|
+""D""a>a ab|ag f2|""G""ed Bd|""A7""fe f<a|
+""D""a>a ab|ag f2|""G""ed BG|1 ""A7""A2 A2:|2 ""A""AB/c/ d/e/f/g/||
+""D""a>a ab|ag f2|""G""ed Bd|""A7""fe f<a|
+""D""A>A AB|de fg|""G""a>f ""A7""fe|""D""d2 z2||",2002-05-27 19:31:55,maclowlife,,824,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_179_706_march.mid
+1863,1863,Da Slockit Light,march,4/4,Dmajor,"|:FE|D3F A2d2|fedc d2A2|B2d2 A2d2|BAGF EGFE|
+D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2:|
+g2|f2a2 e3c|d3e dcBA|f2a2 e2^g2|a4- a2=g2|
+f2a2 e3c|d3e dcBA|B2G2 AGFE|D4- D3g|
+f2a2 e3c|d3e dcBA|B2d2 A2d2|BAGF EGFE|
+D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2||",2003-08-03 06:37:35,fidicen,Tom Anderson,757,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_180_1863_march.mid
+1307,1307,Lucy Farr's,barndance,4/4,Gmajor,"|:DE/F/|G2 G2 G2 G2|GABG E2 D2|B2 B2 B2 B2|BcdB A3 A|
+BcdB G2 G2|GABG E2D2|DEGA BddB|A2 G2 G2:|
+|:A2|BcdB G2 G2|GABG E2 D2|DEGA BddB|B2 A2 A3 A|
+BcdB G2 G2|GABG E2 D2|DEGA BddB|A2 G2 G2:|",2003-01-07 19:29:44,Bannerman,,727,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_181_1307_barndance.mid
+1615,1615,"Road To Glountane, The",barndance,4/4,Dmajor,"|:E2EF A2AB|ceec BAF2|f2 ec ABcA|ecBA FAAF|
+E2EF A2AB|ceec BAF2|f2 ec ABcA|1 ecBc A2AF:|2 ecBc A4||
+|:ecef a2 af|ecBA FAAB|cBAB cBBA|cABA ceaf|
+ecef a2 af|ecBA FAAB|cBAB cBBA|1 ceBc A4:|2 ceBc A2AF||",2003-04-26 05:46:35,Tommy McCarty,Terry Teahan,668,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_182_1615_barndance.mid
+2067,2067,"Hut On Staffin Island, The",barndance,4/4,Dmajor,"|:A,B,DE DD DE|(3FED FA dDcd|(^AB)BB D=AFD|DEFE DB,B,D|
+A,B,DE DDDE|(3FED FA dDcd|B2(3BcB BAFD|1 DEFE DDDB,:|2 DEFE DDFA||
+d2(3ddc dfed|cBcd ccBA|(^AB)BB BcdB|AFEF DB,B,A|
+DdDd Dfed|cBcd ccBA|B2BA BcdB|AFEF DEFA|
+d2(3ddc dfed|cBcd ccBA|(^AB)B=A BcdB|AFEF DB,B,D|
+A,B,DE D2 DE|(3FED FA dDcd|[D^A]BBB [DB]=AFD|DEFE D4||",2003-10-14 08:30:21,Gregg Harcourt,Phil Cunningham,563,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_183_2067_barndance.mid
+444,444,Terry Teehan's,barndance,4/4,Eminor,"|:B2 BA B2 BA|dB AF DE FA|B2 BA B2 BA|dB AF E3 z|
+B2 BA B2 BA|dB AF DE FA|B2 BA B2 BA|dB AF E3 z|
+Be ef g2 fe|d2 Bd AD FA|Bz ef g2 fe|dB AF E3 z|
+Be ef g2 fe|d2 Bd AD FA|Be ed BA FA|1 DE ED EF GA:|2 DE ED E4||",2001-12-18 11:32:36,seara,Terry Teahan,497,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_184_444_barndance.mid
+4577,4577,Gypsy Princess,barndance,4/4,Gmajor,"|:(B2 B)B B2B2|ABAG E2 D2|(G2G)B d2 Bd|e2 dB A2 GA|
+(B2 B)B B2B2|ABAG E2 D2|(G2G)A BddB|A2 G2 G2 z2:|
+(d2 d)d d2 d2|B2 BA G2 Bd|(e2e)e e2 e2|B2 BA G2 zB|
+(d2 d)d d2 d2|B2 BA G2 Bd|(g2 g)e dBGA|B2 A2 G2 z2:|",2005-06-08 19:28:37,slawlor@pobox.com,,483,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_185_4577_barndance.mid
+1376,1376,If We Hadn't Any Women In The World,barndance,4/4,Gmajor,"Bc|:de dB GA BG|EA GE D3 A|BG Bd ge dB|{G}A2 AG A2 Bc|
+de dB GA BG|EA GE D3 A|B d2 B AG AB|1 G2 {A}GF G2 Bc:|2 G2 {A}GF G GBd||
+e2 ef g2 gf|ed dB d2 (3Bcd|ed Bd ge dB|A2 AG A2 Bc|
+de dB GA BG|EA GE D3 A|B d2 B AG AB|1 G2 {A}GF G GBd:|2 G2 {A}GF G2 z2||",2003-01-25 19:09:10,glauber,,399,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_186_1376_barndance.mid
+3016,3016,Calum's Road,strathspey,4/4,Dmajor,"|:D2A>F A3A|B<d d>c B>A F>A|B2 d>E F2 E>D|B,<D (3DEF E4|
+D2A>F A3A|B>d d>c B>A F>A|B2 d>E F2 E>D|1 B,<D D>E D4:|2 B,<D D>E D2F>A||
+|:B2d>c B4|A>B A<E F2F>A|B2d>c B3A|d2d>e (3fed (3dBA|
+B2d>c B4|A>B A<E F2F>A|B2 d>E F2 E>D|B,<D D>E D4:|",2004-05-15 01:31:28,heike,Donald Shaw,719,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_187_3016_strathspey.mid
+1746,1746,"Devil In The Kitchen, The",strathspey,4/4,Amixolydian,"a|:e>A A/A/A e>A (3fed|e>A A/A/A g2 f<a|
+e>A A/A/A e>A (3fed|1 B>G d/c/B g2 f<a:|2 B>G d/c/B g2 f>g||
+a>A A/A/A e>A A/A/A|a>A A/A/A g2 f>g|
+a>A A/A/A e>A (3fed|B>G d/c/B g2 f>g|
+a>A A/A/A e>A A/A/A|a>A A/A/A g2 f>g|
+(3agf g>e f/af/ e>c|B>c d>e g2 f<a||",2003-06-11 12:56:32,gian marco,,490,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_188_1746_strathspey.mid
+647,647,Cutting Bracken,strathspey,4/4,Aminor,"|:AAa2 g<eg2|e>dBA GAB<G|AAa2 g<eg2|e>dBe A2A2:|
+|:e>dBA GAB<G|e>dBA B<dd2|e>dBA GAB<G|edB<e A2A2:|",2002-04-18 01:41:26,JeffK627,,478,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_189_647_strathspey.mid
+170,170,"Laird Of Drumblair, The",strathspey,4/4,Amajor,"(3EFG|:A2c>A E>Ac>e|a2g>a f>ae>c|(3def (3efg (3aed (3cBA|(3Bcd (3cBA (3G FE (3dcB|
+A2c>A E>Ac>e|a2g>a f>ae>c|(3def (3efg (3aed (3cBA|1 (3GFE (3dcB A2 (3EFG:|
+[2 (3GFE (3dcB A2 (3efg|:a2e>a c>aA>a|(3cBA e>A a>ec>e|b2f>b d>bB>f|
+(3dcB f>B b>fd>f|a2e>a c>aA>a|(3cBA e>A a>ec>e|(3def (3efg (3aed (3cBA|
+[1 (3GFE (3dcB A2 (3efg:|2 (3GFE (3dcB A2||",2001-06-29 19:52:18,JD,James Scott Skinner,468,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_190_170_strathspey.mid
+802,802,"Sweetness Of Mary, The",strathspey,4/4,Gmajor,"D|:G>A|B2 (3BAG E2 (3EGA|B/d c/e d2 (3def|g>fe>d d>cB>c|d/g B/G A2 (3AGA|
+B2 (3BAG E2 (3EGA|B/d c/e d2 (3def|g>fe>d d>cB>c|d/g BA/ G2:|
+|:ga/|:bd/g/b ad/f/a|gf/e/g d2 c/B|ed/c/e dc/Bc/|d/g B/G A2 ga/|
+bd/g/b ad/f/a|gf/e/g d2 c/B|eG/c/e dc/Bc/|d/g B/A G2:|",2002-06-23 22:20:45,geoffwright,Joan MacDonald Boes,419,
+250,250,"Road To Lisdoonvarna, The",slide,12/8,Edorian,"|:E2B B2A B2c d2A|F2A ABA D2E FED|
+E2B B2A B2c d3|cdc B2A B2E E3:|
+|:e2f gfe d2B Bcd|c2A ABc d2B B3|
+e2f gfe d2B Bcd|cdc B2A B2E E3:|",2001-08-24 03:34:17,Kerri Coombs,,2177,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_192_250_slide.mid
+70,70,Merrily Kiss The Quaker,slide,12/8,Gmajor,"|:D|GAB G2B c2A BGE|GAB DEG A2A AGE|
+GAB GAB cBA BGE|GAB AGF G3 G2:|
+|:A|BGG AGG BGG AGG|GAB DEG A2A AGA|
+BGG AGG BGG AGG|GAB AGF G3 G2:|
+|:d|g2g a2a bag edB|g2g gab a2a agf|
+g2g f2f ege dBA|GAB AGF G3 G2:|",2001-05-25 03:16:55,Jeremy,,1908,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_193_70_slide.mid
+53,53,O'Keeffe's,slide,12/8,Adorian,"|:A2e e2d BAB d2B|A2e e2d B2A GAB|
+A2e e2d BAB d3|BAB d2e B2A A3:|
+|:e2a a2b a2g e2d|efg a2b a2g e2f|
+g3 gfe dBA G3|BAB d2e B2A A3:|",2001-05-25 02:51:46,Jeremy,,1286,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_194_53_slide.mid
+1398,1398,"Star Above The Garter, The",slide,12/8,Gmajor,"|:d2B BAG ~A3 ABA|G2E c2B BAG ABc|
+d2B BAG ~A3 ABA|G2E c2E D3 D3:|
+|:d2e f2a g2e d2B|G2B c2B BAG ABc|
+d2e f2a g2e d2B|G2B c2E D3 D3:|",2003-01-31 22:20:58,fidicen,,1008,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_195_1398_slide.mid
+5476,5476,Sonny's,mazurka,3/4,Dmajor,"|:DF|A2 AG FA|d2 dA BA|G3 B AG|FA EA DF|
+A2 AG FA|de dA BA|G3 g fe|d4:|
+|:Ad|f2 fa gf|e2 eg fe|d2 df ed|cd Bd Ad|
+f2 fa gf|e2 eg fe|d2 df ec|d4:|",2006-02-02 15:41:04,AlBrown,,662,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_196_5476_mazurka.mid
+2320,2320,Shoe The Donkey,mazurka,3/4,Gmajor,"DG|:B2 B2 DG|B2 B2 DG|B2 c2 B2|A4 DF|
+A2 A2 DF|A2 A2 DF|A2 B2 A2|1 G4 DG:|2 G3 ABc||
+|:d2 g2 f2|A3 GAB|c2 e2 d2|B4 BB|
+B2 A2 B2|c3 Bcd|1 e2 d2 G2|B3 ABc:|2 e2 d2 F2|G4 DG||",2003-12-29 14:35:04,Aidan Crossey,,471,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_197_2320_mazurka.mid
+2081,2081,Gavotte,three-two,3/2,Adorian,"|:AEAB c2 Bc dc A2|AEAB c2 Bc dc A2:|
+e2 AeeAcA BdcA|e2 AeeAcA Bc A2|
+e2 AeeAcA BdcA|e2 AeeAcA Bc A2|",2003-10-22 00:25:22,swisspiper,,215,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_198_2081_three-two.mid
+5151,5151,An Drochaid Chliùiteach,three-two,3/2,Amixolydian,"|:ce (3(eee) feef ec a2|ce (3(eee) feef ec B2|
+ce (3(eee) feef ec a2|A2 AB c2 ec BG A2:|
+ae (3(eee) feef ec a2|ae (3(eee) feef ec B2|
+ae (3(eee) feef ec a2|A2 AB c2 ec BG A2:|",2005-11-03 07:44:58,domhnall.,,194,/Users/mohammadashraf/Desktop/Thesis-Best/data/processed/irish_folk/midi/irish_199_5151_three-two.mid

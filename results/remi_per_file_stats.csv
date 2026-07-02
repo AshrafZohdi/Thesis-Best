@@ -1,0 +1,667 @@
+tradition,label,file,seq_len,n_pitch_tokens,n_velocity_tokens,n_duration_tokens,n_position_tokens,n_bar_tokens,unique_pitches,unique_token_ids
+western_classical,Western Classical,2004_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_09_Track09_wav.midi,11143,3006,3006,3006,1995,130,83,175
+western_classical,Western Classical,2004_MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_02_Track02_wav.midi,28562,7963,7963,7963,4262,411,81,184
+western_classical,Western Classical,2004_MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_05_Track05_wav.midi,6092,1620,1620,1620,1084,148,66,156
+western_classical,Western Classical,2004_MIDI-Unprocessed_SMF_17_R1_2004_01-03_ORIG_MID--AUDIO_17_R1_2004_06_Track06_wav.midi,18511,5017,5017,5017,3190,270,75,173
+western_classical,Western Classical,2004_MIDI-Unprocessed_SMF_22_R1_2004_01-04_ORIG_MID--AUDIO_22_R1_2004_03_Track03_wav.midi,19847,5239,5239,5239,3735,395,43,152
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_06_R1_2004_01_ORIG_MID--AUDIO_06_R1_2004_01_Track01_wav.midi,69118,18833,18833,18833,11421,1198,78,202
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_06_R2_2004_01_ORIG_MID--AUDIO_06_R2_2004_01_Track01_wav.midi,24189,6610,6610,6610,4013,346,69,160
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_08_R1_2004_04-06_ORIG_MID--AUDIO_08_R1_2004_04_Track04_wav.midi,11649,3301,3301,3301,1662,84,81,159
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_02_Track02_wav.midi,9699,2638,2638,2638,1626,159,64,160
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_14_R2_2004_01_ORIG_MID--AUDIO_14_R2_2004_01_Track01_wav.midi,28220,7759,7759,7759,4493,450,71,178
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_15_R2_2004_01_ORIG_MID--AUDIO_15_R2_2004_03_Track03_wav.midi,14973,4352,4352,4352,1742,175,59,135
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_15_R2_2004_01_ORIG_MID--AUDIO_15_R2_2004_04_Track04_wav.midi,20172,5596,5596,5596,3163,221,65,144
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_18_R1_2004_01-02_ORIG_MID--AUDIO_18_R1_2004_04_Track04_wav.midi,6995,1982,1982,1982,978,71,71,142
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_03_Track03_wav.midi,32912,9263,9263,9263,4781,342,68,161
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_21_R1_2004_01_ORIG_MID--AUDIO_21_R1_2004_01_Track01_wav.midi,23138,6316,6316,6316,3754,436,78,186
+western_classical,Western Classical,2004_MIDI-Unprocessed_XP_21_R1_2004_02_ORIG_MID--AUDIO_21_R1_2004_03_Track03_wav.midi,22775,6007,6007,6007,4363,391,61,168
+western_classical,Western Classical,2006_MIDI-Unprocessed_01_R2_2006_01_ORIG_MID--AUDIO_01_R2_2006_01_Track01_wav.midi,22191,6132,6132,6132,3465,330,68,167
+western_classical,Western Classical,2006_MIDI-Unprocessed_07_R1_2006_01-04_ORIG_MID--AUDIO_07_R1_2006_01_Track01_wav.midi,29218,8130,8130,8130,4410,418,81,189
+western_classical,Western Classical,2006_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_04_Track04_wav.midi,26417,7045,7045,7045,4957,325,71,161
+western_classical,Western Classical,2006_MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_02_Track02_wav.midi,44518,12609,12609,12609,6193,498,83,195
+western_classical,Western Classical,2006_MIDI-Unprocessed_10_R1_2006_01-04_ORIG_MID--AUDIO_10_R1_2006_02_Track02_wav.midi,34002,9177,9177,9177,5768,703,63,177
+western_classical,Western Classical,2006_MIDI-Unprocessed_11_R1_2006_01-06_ORIG_MID--AUDIO_11_R1_2006_04_Track04_wav.midi,21707,5845,5845,5845,3922,250,68,174
+western_classical,Western Classical,2006_MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_08_Track08_wav.midi,8739,2423,2423,2423,1412,58,70,139
+western_classical,Western Classical,2006_MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_01_Track01_wav.midi,71260,20138,20138,20138,10035,811,75,189
+western_classical,Western Classical,2006_MIDI-Unprocessed_16_R2_2006_01_ORIG_MID--AUDIO_16_R2_2006_02_Track02_wav.midi,8776,2282,2282,2282,1635,295,59,175
+western_classical,Western Classical,2006_MIDI-Unprocessed_18_R1_2006_01-05_ORIG_MID--AUDIO_18_R1_2006_05_Track05_wav.midi,56210,15841,15841,15841,7682,1005,81,204
+western_classical,Western Classical,2006_MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_01_Track01_wav.midi,5058,1302,1302,1302,1009,143,44,148
+western_classical,Western Classical,2006_MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_04_Track04_wav.midi,19182,5392,5392,5392,2730,276,75,182
+western_classical,Western Classical,2006_MIDI-Unprocessed_22_R2_2006_01_ORIG_MID--AUDIO_22_R2_2006_04_Track04_wav.midi,13954,3845,3845,3845,2264,155,68,148
+western_classical,Western Classical,2006_MIDI-Unprocessed_23_R2_2006_01_ORIG_MID--AUDIO_23_R2_2006_01_Track01_wav.midi,18960,5325,5325,5325,2656,329,69,168
+western_classical,Western Classical,2008_MIDI-Unprocessed_01_R1_2008_01-04_ORIG_MID--AUDIO_01_R1_2008_wav--1.midi,8821,2326,2326,2326,1673,170,45,152
+western_classical,Western Classical,2008_MIDI-Unprocessed_03_R2_2008_01-03_ORIG_MID--AUDIO_03_R2_2008_wav--2.midi,15258,4206,4206,4206,2263,377,74,190
+western_classical,Western Classical,2008_MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--5.midi,15192,4243,4243,4243,2349,114,71,151
+western_classical,Western Classical,2008_MIDI-Unprocessed_06_R2_2008_01-05_ORIG_MID--AUDIO_06_R2_2008_wav--5.midi,10348,2809,2809,2809,1811,110,79,164
+western_classical,Western Classical,2008_MIDI-Unprocessed_08_R2_2008_01-04_ORIG_MID--AUDIO_08_R2_2008_wav--2.midi,10271,2607,2607,2607,2269,181,49,153
+western_classical,Western Classical,2008_MIDI-Unprocessed_08_R2_2008_01-04_ORIG_MID--AUDIO_08_R2_2008_wav--4.midi,16840,4738,4738,4738,2495,131,72,150
+western_classical,Western Classical,2008_MIDI-Unprocessed_08_R3_2008_01-05_ORIG_MID--AUDIO_08_R3_2008_wav--2.midi,41862,11946,11946,11946,5649,375,80,183
+western_classical,Western Classical,2008_MIDI-Unprocessed_11_R1_2008_01-04_ORIG_MID--AUDIO_11_R1_2008_wav--1.midi,7201,1901,1901,1901,1333,165,48,148
+western_classical,Western Classical,2008_MIDI-Unprocessed_11_R3_2008_01-04_ORIG_MID--AUDIO_11_R3_2008_wav--4.midi,34439,9502,9502,9502,5524,409,79,190
+western_classical,Western Classical,2008_MIDI-Unprocessed_12_R3_2008_01-04_ORIG_MID--AUDIO_12_R3_2008_wav--1.midi,26386,7185,7185,7185,4521,310,68,167
+western_classical,Western Classical,2008_MIDI-Unprocessed_12_R3_2008_01-04_ORIG_MID--AUDIO_12_R3_2008_wav--2.midi,21727,5963,5963,5963,3531,307,77,187
+western_classical,Western Classical,2008_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--2.midi,13953,3795,3795,3795,2434,134,52,134
+western_classical,Western Classical,2008_MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--2.midi,23887,6536,6536,6536,4038,241,64,172
+western_classical,Western Classical,2008_MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--3.midi,14393,4055,4055,4055,2023,205,75,185
+western_classical,Western Classical,2008_MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--3.midi,7888,2168,2168,2168,1283,101,67,165
+western_classical,Western Classical,2009_MIDI-Unprocessed_01_R1_2009_01-04_ORIG_MID--AUDIO_01_R1_2009_01_R1_2009_02_WAV.midi,7810,2196,2196,2196,1154,68,50,130
+western_classical,Western Classical,2009_MIDI-Unprocessed_04_R1_2009_01-03_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_02_WAV.midi,26094,6939,6939,6939,4909,368,67,178
+western_classical,Western Classical,2009_MIDI-Unprocessed_05_R1_2009_03-05_ORIG_MID--AUDIO_05_R1_2009_05_R1_2009_03_WAV.midi,50661,13584,13584,13584,8962,947,71,198
+western_classical,Western Classical,2009_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_03_WAV.midi,3841,994,994,994,794,65,47,115
+western_classical,Western Classical,2009_MIDI-Unprocessed_07_R2_2009_01_ORIG_MID--AUDIO_07_R2_2009_07_R2_2009_02_WAV.midi,9934,2777,2777,2777,1369,234,61,169
+western_classical,Western Classical,2009_MIDI-Unprocessed_07_R2_2009_01_ORIG_MID--AUDIO_07_R2_2009_07_R2_2009_04_WAV.midi,26311,7295,7295,7295,4166,260,72,161
+western_classical,Western Classical,2009_MIDI-Unprocessed_09_R1_2009_01-04_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_04_WAV.midi,27985,7910,7910,7910,3901,354,84,198
+western_classical,Western Classical,2009_MIDI-Unprocessed_09_R2_2009_01_ORIG_MID--AUDIO_09_R2_2009_09_R2_2009_01_WAV.midi,14958,4172,4172,4172,2210,232,69,166
+western_classical,Western Classical,2009_MIDI-Unprocessed_12_R1_2009_01-02_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_01_WAV.midi,23899,6309,6309,6309,4546,426,49,170
+western_classical,Western Classical,2009_MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_03_WAV.midi,24980,6737,6737,6737,4326,443,63,180
+western_classical,Western Classical,2009_MIDI-Unprocessed_12_R2_2009_01_ORIG_MID--AUDIO_12_R2_2009_12_R2_2009_01_WAV.midi,17710,4878,4878,4878,2831,245,70,167
+western_classical,Western Classical,2009_MIDI-Unprocessed_14_R1_2009_01-05_ORIG_MID--AUDIO_14_R1_2009_14_R1_2009_05_WAV.midi,5638,1469,1469,1469,1159,72,38,106
+western_classical,Western Classical,2009_MIDI-Unprocessed_17_R2_2009_01_ORIG_MID--AUDIO_17_R2_2009_17_R2_2009_02_WAV.midi,10128,2830,2830,2830,1395,243,63,175
+western_classical,Western Classical,2009_MIDI-Unprocessed_21_R1_2009_01-03_ORIG_MID--AUDIO_21_R1_2009_21_R1_2009_03_WAV.midi,35693,9909,9909,9909,5569,397,78,185
+western_classical,Western Classical,2009_MIDI-Unprocessed_21_R2_2009_01_ORIG_MID--AUDIO_21_R2_2009_21_R2_2009_01_WAV.midi,28811,7899,7899,7899,4663,451,70,181
+western_classical,Western Classical,2011_MIDI-Unprocessed_02_R1_2011_MID--AUDIO_R1-D1_09_Track09_wav.midi,7624,2012,2012,2012,1496,92,49,132
+western_classical,Western Classical,2011_MIDI-Unprocessed_04_R1_2011_MID--AUDIO_R1-D2_06_Track06_wav.midi,21531,5849,5849,5849,3755,229,74,165
+western_classical,Western Classical,2011_MIDI-Unprocessed_04_R2_2011_MID--AUDIO_R2-D2_03_Track03_wav.midi,18292,5031,5031,5031,2931,268,75,178
+western_classical,Western Classical,2011_MIDI-Unprocessed_04_R3_2011_MID--AUDIO_R3-D2_04_Track04_wav.midi,26945,7518,7518,7518,4062,329,73,186
+western_classical,Western Classical,2011_MIDI-Unprocessed_05_R1_2011_MID--AUDIO_R1-D2_09_Track09_wav.midi,5042,1353,1353,1353,888,95,45,138
+western_classical,Western Classical,2011_MIDI-Unprocessed_06_R2_2011_MID--AUDIO_R2-D2_07_Track07_wav.midi,15627,4395,4395,4395,2334,108,72,146
+western_classical,Western Classical,2011_MIDI-Unprocessed_09_R1_2011_MID--AUDIO_R1-D3_14_Track14_wav.midi,10056,2792,2792,2792,1612,68,69,148
+western_classical,Western Classical,2011_MIDI-Unprocessed_09_R2_2011_MID--AUDIO_R2-D3_04_Track04_wav.midi,10134,2587,2587,2587,2216,157,50,159
+western_classical,Western Classical,2011_MIDI-Unprocessed_10_R2_2011_MID--AUDIO_R2-D3_10_Track10_wav.midi,23370,6377,6377,6377,3892,347,72,182
+western_classical,Western Classical,2011_MIDI-Unprocessed_11_R1_2011_MID--AUDIO_R1-D4_08_Track08_wav.midi,24155,6626,6626,6626,4017,260,64,176
+western_classical,Western Classical,2011_MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_05_Track05_wav.midi,7322,2110,2110,2110,913,79,71,146
+western_classical,Western Classical,2011_MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_03_Track03_wav.midi,10617,2846,2846,2846,1880,199,68,174
+western_classical,Western Classical,2011_MIDI-Unprocessed_17_R1_2011_MID--AUDIO_R1-D7_02_Track02_wav.midi,7579,2053,2053,2053,1341,79,45,109
+western_classical,Western Classical,2011_MIDI-Unprocessed_17_R1_2011_MID--AUDIO_R1-D7_04_Track04_wav.midi,12006,3255,3255,3255,2144,97,76,168
+western_classical,Western Classical,2011_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_04_Track04_wav.midi,13986,3844,3844,3844,2255,199,72,176
+western_classical,Western Classical,2011_MIDI-Unprocessed_18_R1_2011_MID--AUDIO_R1-D7_08_Track08_wav.midi,24018,6591,6591,6591,4000,245,65,169
+western_classical,Western Classical,2011_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_02_Track02_wav.midi,8150,2200,2200,2200,1398,152,46,162
+western_classical,Western Classical,2011_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.midi,23656,6365,6365,6365,4276,285,68,174
+western_classical,Western Classical,2011_MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_07_Track07_wav.midi,5095,1354,1354,1354,916,117,45,138
+western_classical,Western Classical,2011_MIDI-Unprocessed_25_R1_2011_MID--AUDIO_R1-D9_14_Track14_wav.midi,11210,3069,3069,3069,1852,151,48,149
+western_classical,Western Classical,2013_ORIG-MIDI_01_7_10_13_Group_MID--AUDIO_07_R3_2013_wav--2.midi,27294,7424,7424,7424,4621,401,68,171
+western_classical,Western Classical,2013_ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--3.midi,8668,2473,2473,2473,1191,58,68,153
+western_classical,Western Classical,2013_ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--3.midi,8171,2254,2254,2254,1354,55,68,146
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_05_R1_2013_wav--1.midi,9089,2438,2438,2438,1601,174,44,145
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--1.midi,12905,3520,3520,3520,2203,142,63,153
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--3.midi,5003,1391,1391,1391,795,35,60,133
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_7_13_Group__MID--AUDIO_15_R1_2013_wav--2.midi,12304,3314,3314,3314,2195,167,61,150
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_7_13_Group__MID--AUDIO_17_R1_2013_wav--1.midi,4466,1191,1191,1191,823,70,44,136
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_7_13_Group__MID--AUDIO_18_R1_2013_wav--3.midi,7784,2037,2037,2037,1542,131,50,137
+western_classical,Western Classical,2013_ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_12_R2_2013_wav--2.midi,13818,3740,3740,3740,2370,228,73,182
+western_classical,Western Classical,2013_ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_17_R3_2013_wav--2.midi,27224,7576,7576,7576,4176,320,74,178
+western_classical,Western Classical,2013_ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--3.midi,7834,2110,2110,2110,1436,68,56,131
+western_classical,Western Classical,2013_ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_17_R2_2013_wav--2.midi,10301,2606,2606,2606,2305,178,49,146
+western_classical,Western Classical,2013_ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_17_R2_2013_wav--3.midi,42701,12180,12180,12180,5789,372,80,179
+western_classical,Western Classical,2013_ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_19_R2_2013_wav--3.midi,18985,5362,5362,5362,2618,281,72,180
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_04-07-08-10-12-15-17_R2_2014_MID--AUDIO_04_R2_2014_wav.midi,68982,18876,18876,18876,11247,1107,73,191
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_04-07-08-10-12-15-17_R2_2014_MID--AUDIO_07_R2_2014_wav.midi,66817,18525,18525,18525,10346,896,73,190
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_04-07-08-10-12-15-17_R2_2014_MID--AUDIO_15_R2_2014_wav.midi,67719,19014,19014,19014,9835,842,73,180
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_04-07-08-10-12-15-17_R2_2014_MID--AUDIO_17_R2_2014_wav.midi,67118,18243,18243,18243,11285,1104,72,187
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_06-08_R1_2014_MID--AUDIO_07_R1_2014_wav--6.midi,17249,4678,4678,4678,3033,182,79,177
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_09-10_R1_2014_MID--AUDIO_09_R1_2014_wav--2.midi,44568,12603,12603,12603,6248,511,83,202
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_09-10_R1_2014_MID--AUDIO_10_R1_2014_wav--1.midi,3241,877,877,877,571,39,46,116
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_09-10_R1_2014_MID--AUDIO_10_R1_2014_wav--5.midi,26518,7458,7458,7458,3840,304,81,185
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_11-13_R1_2014_MID--AUDIO_13_R1_2014_wav--2.midi,5756,1596,1596,1596,883,85,41,119
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_14_R1_2014_wav--1.midi,23817,6163,6163,6163,4852,476,55,177
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5.midi,22305,6321,6321,6321,3101,241,74,179
+western_classical,Western Classical,2014_MIDI-UNPROCESSED_21-22_R1_2014_MID--AUDIO_21_R1_2014_wav--4.midi,36403,10366,10366,10366,4963,342,85,194
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_02_R1_2015_wav--3.midi,17226,4788,4788,4788,2620,242,74,172
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_02_R1_2015_wav--5.midi,3759,1026,1026,1026,605,76,63,153
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_02_R1_2015_wav--6.midi,15030,4139,4139,4139,2474,139,76,160
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_15_R1_2015_wav--3.midi,13012,3499,3499,3499,2352,163,60,151
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_15_R1_2015_wav--5.midi,21836,5938,5938,5938,3690,332,78,185
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_16_R1_2015_wav--4.midi,22118,6111,6111,6111,3518,267,78,184
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--1.midi,7080,1883,1883,1883,1315,116,47,148
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--2.midi,14565,4020,4020,4020,2335,170,60,159
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_21_R1_2015_wav--2.midi,12986,3494,3494,3494,2346,158,60,149
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_21_R1_2015_wav--5.midi,18126,5146,5146,5146,2502,186,79,169
+western_classical,Western Classical,2015_MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--5.midi,15649,4412,4412,4412,2245,168,75,167
+western_classical,Western Classical,2015_MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_13_R2_2015_wav--3.midi,10079,2576,2576,2576,2202,149,49,151
+western_classical,Western Classical,2015_MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_21_R2_2015_wav--2.midi,26506,7233,7233,7233,4470,337,68,168
+western_classical,Western Classical,2015_MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_22_R2_2015_wav--3.midi,21974,6012,6012,6012,3648,290,78,184
+western_classical,Western Classical,2015_MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_22_R2_2015_wav--4.midi,35151,9731,9731,9731,5549,409,78,185
+western_classical,Western Classical,2017_MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--1.midi,8426,2239,2239,2239,1595,114,46,125
+western_classical,Western Classical,2017_MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--3.midi,8102,2230,2230,2230,1355,57,67,143
+western_classical,Western Classical,2017_MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--4.midi,15369,4339,4339,4339,2122,230,75,185
+western_classical,Western Classical,2017_MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--1.midi,4421,1182,1182,1182,800,75,44,139
+western_classical,Western Classical,2017_MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--3.midi,12013,3214,3214,3214,2261,110,76,167
+western_classical,Western Classical,2017_MIDI-Unprocessed_054_PIANO054_MID--AUDIO-split_07-07-17_Piano-e_1-02_wav--2.midi,12289,3321,3321,3321,2156,170,61,153
+western_classical,Western Classical,2017_MIDI-Unprocessed_054_PIANO054_MID--AUDIO-split_07-07-17_Piano-e_1-02_wav--3.midi,15211,4187,4187,4187,2518,132,75,149
+western_classical,Western Classical,2017_MIDI-Unprocessed_059_PIANO059_MID--AUDIO-split_07-07-17_Piano-e_2-03_wav--1.midi,8419,2242,2242,2242,1597,96,45,116
+western_classical,Western Classical,2017_MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--4.midi,14567,4000,4000,4000,2404,163,60,153
+western_classical,Western Classical,2017_MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--3.midi,12193,3326,3326,3326,1985,230,72,178
+western_classical,Western Classical,2017_MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--4.midi,15075,4154,4154,4154,2471,142,76,150
+western_classical,Western Classical,2017_MIDI-Unprocessed_070_PIANO070_MID--AUDIO-split_07-08-17_Piano-e_1-02_wav--3.midi,27204,7591,7591,7591,4071,360,73,194
+western_classical,Western Classical,2017_MIDI-Unprocessed_071_PIANO071_MID--AUDIO-split_07-08-17_Piano-e_1-04_wav--1.midi,26294,7177,7177,7177,4460,303,68,161
+western_classical,Western Classical,2017_MIDI-Unprocessed_071_PIANO071_MID--AUDIO-split_07-08-17_Piano-e_1-04_wav--3.midi,34206,9398,9398,9398,5598,414,79,186
+western_classical,Western Classical,2017_MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--4.midi,27222,7650,7650,7650,3997,275,81,180
+western_classical,Western Classical,2017_MIDI-Unprocessed_074_PIANO074_MID--AUDIO-split_07-08-17_Piano-e_2-04_wav--3.midi,25160,6943,6943,6943,3840,491,75,193
+western_classical,Western Classical,2017_MIDI-Unprocessed_078_PIANO078_MID--AUDIO-split_07-09-17_Piano-e_1-02_wav--1.midi,26366,7221,7221,7221,4403,300,68,166
+western_classical,Western Classical,2018_MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--1.midi,15400,4197,4197,4197,2467,342,72,188
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital1-3_MID--AUDIO_01_R1_2018_wav--1.midi,11338,3012,3012,3012,2138,164,49,144
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital1-3_MID--AUDIO_01_R1_2018_wav--2.midi,15565,4203,4203,4203,2642,314,75,184
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital12_MID--AUDIO_12_R1_2018_wav--3.midi,22049,5722,5722,5722,4563,320,73,178
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital13-15_MID--AUDIO_13_R1_2018_wav--3.midi,49127,13062,13062,13062,9123,818,78,201
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital13-15_MID--AUDIO_15_R1_2018_wav--3.midi,48328,12957,12957,12957,8662,795,73,184
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital17-19_MID--AUDIO_18_R1_2018_wav--1.midi,52766,14347,14347,14347,9071,654,64,179
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--4.midi,57849,16221,16221,16221,8234,952,81,206
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--6.midi,11359,3085,3085,3085,2007,97,49,123
+western_classical,Western Classical,2018_MIDI-Unprocessed_Recital9-11_MID--AUDIO_11_R1_2018_wav--2.midi,34536,9525,9525,9525,5363,598,72,188
+western_classical,Western Classical,2018_MIDI-Unprocessed_Schubert4-6_MID--AUDIO_10_R2_2018_wav.midi,78372,21420,21420,21420,12901,1211,72,185
+hindustani,Hindustani,hindustani_000_Gawti.mid,32792,8395,8395,8395,6789,818,46,154
+hindustani,Hindustani,hindustani_001_Abhogi.mid,47255,12376,12376,12376,9192,935,50,156
+hindustani,Hindustani,hindustani_002_Mishra_piloo.mid,13427,3359,3359,3359,2970,380,50,135
+hindustani,Hindustani,hindustani_003_Bairagi.mid,17741,4479,4479,4479,3857,447,43,139
+hindustani,Hindustani,hindustani_004_Nat_bhairav.mid,13408,3401,3401,3401,2888,317,40,133
+hindustani,Hindustani,hindustani_005_Des.mid,8520,2172,2172,2172,1812,192,49,155
+hindustani,Hindustani,hindustani_006_Bhatiyar.mid,63003,16529,16529,16529,12284,1132,48,146
+hindustani,Hindustani,hindustani_007_Khat.mid,24680,6204,6204,6204,5435,633,44,130
+hindustani,Hindustani,hindustani_008_Marwa.mid,4185,1015,1015,1015,945,195,34,141
+hindustani,Hindustani,hindustani_009_Bhoop.mid,67183,17214,17214,17214,13879,1662,46,162
+hindustani,Hindustani,hindustani_010_Kedar.mid,45502,11481,11481,11481,9704,1355,52,144
+hindustani,Hindustani,hindustani_011_Bhairav.mid,25538,6365,6365,6365,5719,724,36,128
+hindustani,Hindustani,hindustani_012_Todi.mid,11206,2853,2853,2853,2378,269,38,134
+hindustani,Hindustani,hindustani_013_Basanti_kedar.mid,16153,4088,4088,4088,3391,498,45,131
+hindustani,Hindustani,hindustani_014_Shuddh_sarang.mid,16127,4096,4096,4096,3439,400,44,139
+hindustani,Hindustani,hindustani_015_Kalyan.mid,45957,11787,11787,11787,9586,1010,51,155
+hindustani,Hindustani,hindustani_016_Saraswati.mid,19113,4958,4958,4958,3846,393,46,139
+hindustani,Hindustani,hindustani_017_Kirwani.mid,11201,2802,2802,2802,2495,300,45,130
+hindustani,Hindustani,hindustani_018_Ramdasi_malhar.mid,12047,3045,3045,3045,2582,330,37,138
+hindustani,Hindustani,hindustani_019_Megh.mid,35546,9099,9099,9099,7371,878,47,150
+hindustani,Hindustani,hindustani_020_Chandrakauns.mid,4765,1203,1203,1203,1039,117,41,127
+hindustani,Hindustani,hindustani_021_Khokar.mid,14490,3668,3668,3668,3076,410,33,111
+hindustani,Hindustani,hindustani_022_Madhukauns.mid,5548,1336,1336,1336,1259,281,38,145
+hindustani,Hindustani,hindustani_023_Jogia.mid,8435,2155,2155,2155,1763,207,43,120
+hindustani,Hindustani,hindustani_024_Bhairabi.mid,12540,3164,3164,3164,2749,299,37,126
+hindustani,Hindustani,hindustani_025_Nat_Kamod.mid,9867,2508,2508,2508,2071,272,37,112
+hindustani,Hindustani,hindustani_026_Lalit_pancham.mid,42388,10753,10753,10753,9115,1014,50,152
+hindustani,Hindustani,hindustani_027_Marubihag.mid,18661,4721,4721,4721,4020,478,43,143
+hindustani,Hindustani,hindustani_028_Marwa.mid,11931,2748,2748,2748,2724,963,37,137
+hindustani,Hindustani,hindustani_029_Dhani.mid,41982,10656,10656,10656,8996,1018,50,126
+hindustani,Hindustani,hindustani_030_Rageshri.mid,10186,2584,2584,2584,2189,245,42,145
+hindustani,Hindustani,hindustani_031_Lalat.mid,43230,10862,10862,10862,9429,1215,56,161
+hindustani,Hindustani,hindustani_032_Jait_Kalyan.mid,30486,7738,7738,7738,6542,730,44,149
+hindustani,Hindustani,hindustani_033_Lalat.mid,4313,1057,1057,1057,954,188,35,142
+hindustani,Hindustani,hindustani_034_Bibhas.mid,13793,3447,3447,3447,3030,422,41,131
+hindustani,Hindustani,hindustani_035_Miya_malhar.mid,6197,1515,1515,1515,1380,272,39,147
+hindustani,Hindustani,hindustani_036_Bahar.mid,31058,7826,7826,7826,6750,830,43,144
+hindustani,Hindustani,hindustani_037_Dagori.mid,11940,3048,3048,3048,2478,318,43,123
+hindustani,Hindustani,hindustani_038_Bhairabi.mid,20499,5346,5346,5346,4104,357,47,144
+hindustani,Hindustani,hindustani_039_Puriya_dhanashree.mid,8300,2114,2114,2114,1763,195,41,141
+hindustani,Hindustani,hindustani_040_Bhairabi.mid,24420,6176,6176,6176,5319,573,54,141
+hindustani,Hindustani,hindustani_041_Komal_rishabh_asavari.mid,26112,6537,6537,6537,5791,710,49,146
+hindustani,Hindustani,hindustani_042_Sohini.mid,1804,462,462,462,375,43,26,89
+hindustani,Hindustani,hindustani_043_Yaman_kalyan.mid,10310,2455,2455,2455,2407,538,33,132
+hindustani,Hindustani,hindustani_044_Triveni_gauri.mid,15065,3654,3654,3654,3354,749,38,111
+hindustani,Hindustani,hindustani_045_Bilaskhani_todi.mid,17832,4515,4515,4515,3863,424,44,141
+hindustani,Hindustani,hindustani_046_Jog.mid,44340,10994,10994,10994,9906,1452,45,148
+hindustani,Hindustani,hindustani_047_Maajh_khamaj.mid,7148,1826,1826,1826,1511,159,40,122
+hindustani,Hindustani,hindustani_048_Jog.mid,37912,9315,9315,9315,8404,1563,44,156
+hindustani,Hindustani,hindustani_049_Mishra_kalingada.mid,8845,2143,2143,2143,2024,392,31,102
+hindustani,Hindustani,hindustani_050_Hindol_Pancham.mid,14025,3538,3538,3538,3049,362,42,120
+hindustani,Hindustani,hindustani_051_Shree.mid,13373,3068,3068,3068,3051,1118,40,139
+hindustani,Hindustani,hindustani_052_Shuddha_kalyan.mid,18629,4754,4754,4754,3918,449,44,146
+hindustani,Hindustani,hindustani_053_Bhimpalas.mid,33315,8477,8477,8477,7080,804,48,149
+hindustani,Hindustani,hindustani_054_Khamaj.mid,38060,10059,10059,10059,7304,579,40,148
+hindustani,Hindustani,hindustani_055_Todi.mid,67667,16821,16821,16821,15085,2119,46,155
+hindustani,Hindustani,hindustani_056_Shree.mid,89114,22712,22712,22712,19006,1972,54,162
+hindustani,Hindustani,hindustani_057_Lagan_Gandhar.mid,43168,10780,10780,10780,9361,1467,55,150
+hindustani,Hindustani,hindustani_058_Kalavati.mid,7969,2056,2056,2056,1630,171,39,125
+hindustani,Hindustani,hindustani_059_Malkauns.mid,6784,1724,1724,1724,1446,166,36,125
+carnatic,Carnatic,carnatic_000_Shloka_Sri_Ramachandra_Shrita_.mid,392,99,99,99,81,14,19,88
+carnatic,Carnatic,carnatic_001_Nera_Nammiti.mid,7785,1951,1951,1951,1659,273,35,115
+carnatic,Carnatic,carnatic_002_shanmukhapriya.mid,14964,3832,3832,3832,3093,375,33,110
+carnatic,Carnatic,carnatic_003_sindhubhairavi.mid,6549,1650,1650,1650,1437,162,33,113
+carnatic,Carnatic,carnatic_004_sahana.mid,6858,1759,1759,1759,1413,168,29,103
+carnatic,Carnatic,carnatic_005_kamavardani.mid,27170,6792,6792,6792,5995,799,42,142
+carnatic,Carnatic,carnatic_006_madyamavati.mid,890,212,212,212,208,46,24,89
+carnatic,Carnatic,carnatic_007_padi.mid,5436,1311,1311,1311,1260,243,39,118
+carnatic,Carnatic,carnatic_008_thodi.mid,13100,3097,3097,3097,2993,816,43,127
+carnatic,Carnatic,carnatic_009_simhendra_madhyamam.mid,21531,4967,4967,4967,4838,1792,43,142
+carnatic,Carnatic,carnatic_010_manirangu.mid,3821,925,925,925,855,191,33,107
+carnatic,Carnatic,carnatic_011_kalyani.mid,4499,1103,1103,1103,1004,186,33,105
+carnatic,Carnatic,carnatic_012_harikambhoji.mid,3641,878,878,878,810,197,34,110
+carnatic,Carnatic,carnatic_013_janaranjani.mid,6763,1615,1615,1615,1521,397,48,130
+carnatic,Carnatic,carnatic_014_natakapriya.mid,17508,4053,4053,4053,3869,1480,57,157
+carnatic,Carnatic,carnatic_015_behag.mid,3178,767,767,767,709,168,33,103
+carnatic,Carnatic,carnatic_016_vasanta.mid,4575,1152,1152,1152,970,149,34,104
+carnatic,Carnatic,carnatic_017_Tillana.mid,4544,1144,1144,1144,988,124,34,118
+carnatic,Carnatic,carnatic_018_chittaranjani.mid,4354,1098,1098,1098,934,126,37,128
+carnatic,Carnatic,carnatic_019_kedaram.mid,7876,1887,1887,1887,1831,384,40,117
+carnatic,Carnatic,carnatic_020_chakravakam.mid,6269,1504,1504,1504,1438,319,45,121
+carnatic,Carnatic,carnatic_021_saranga.mid,3870,936,936,936,887,175,37,102
+carnatic,Carnatic,carnatic_022_rasikapriya.mid,28165,7048,7048,7048,6231,790,45,154
+carnatic,Carnatic,carnatic_023_thodi.mid,32300,8009,8009,8009,7162,1111,53,156
+carnatic,Carnatic,carnatic_024_Gange_Maam_Pahi.mid,4892,1237,1237,1237,1058,123,30,108
+carnatic,Carnatic,carnatic_025_kadanakutuhulam.mid,2649,641,641,641,602,124,37,108
+carnatic,Carnatic,carnatic_026_Gopi_Gopala_Bala.mid,5910,1434,1434,1434,1371,237,38,115
+carnatic,Carnatic,carnatic_027_ragamalika.mid,4641,1118,1118,1118,1077,210,40,117
+carnatic,Carnatic,carnatic_028_ragamalika.mid,4389,1072,1072,1072,1016,157,42,112
+carnatic,Carnatic,carnatic_029_Budham_Aashrayami.mid,18409,4603,4603,4603,4033,567,42,134
+carnatic,Carnatic,carnatic_030_Sami_Dayajuda.mid,5773,1425,1425,1425,1275,223,31,113
+carnatic,Carnatic,carnatic_031_RTP_Andholika.mid,28710,7057,7057,7057,6380,1159,47,146
+carnatic,Carnatic,carnatic_032_Sarasamukhi_Sakala.mid,3787,941,941,941,831,133,31,104
+carnatic,Carnatic,carnatic_033_nadanamakriya.mid,2495,635,635,635,528,62,22,87
+carnatic,Carnatic,carnatic_034_madyamavati.mid,2713,665,665,665,614,104,31,102
+carnatic,Carnatic,carnatic_035_punnaga_varali.mid,3415,853,853,853,740,116,26,90
+carnatic,Carnatic,carnatic_036_jaganmohini.mid,9963,2488,2488,2488,2143,356,34,110
+carnatic,Carnatic,carnatic_037_mandhari.mid,6546,1620,1620,1620,1452,234,27,98
+carnatic,Carnatic,carnatic_038_vakulabharanam.mid,21182,5295,5295,5295,4638,659,38,127
+carnatic,Carnatic,carnatic_039_Dharini_Telusukonti.mid,30824,7677,7677,7677,6792,1001,49,145
+carnatic,Carnatic,carnatic_040_Karuna_Ela_Gante.mid,16446,4118,4118,4118,3626,466,45,139
+carnatic,Carnatic,carnatic_041_Gam_Ganapate.mid,7250,1814,1814,1814,1586,222,33,108
+carnatic,Carnatic,carnatic_042_Kailasapathe.mid,42933,10696,10696,10696,9509,1336,47,141
+carnatic,Carnatic,carnatic_043_Lalitha_Lavanga.mid,6120,1530,1530,1530,1370,160,32,106
+carnatic,Carnatic,carnatic_044_Tolinenu_Jesina.mid,4224,1057,1057,1057,924,129,32,102
+carnatic,Carnatic,carnatic_045_Neene_Ballideno.mid,10371,2526,2526,2526,2393,400,36,122
+carnatic,Carnatic,carnatic_046_Paragu_Matada.mid,16363,3965,3965,3965,3772,696,43,134
+carnatic,Carnatic,carnatic_047_Tamburi_Mitidava.mid,2701,659,659,659,630,94,23,92
+carnatic,Carnatic,carnatic_048_bhairavi.mid,23702,5560,5560,5560,5456,1566,52,155
+carnatic,Carnatic,carnatic_049_Gamakakriya.mid,15767,3738,3738,3738,3692,861,44,140
+carnatic,Carnatic,carnatic_050_kalgada.mid,2719,653,653,653,632,128,28,97
+carnatic,Carnatic,carnatic_051_Dorakuna.mid,31025,7700,7700,7700,6903,1022,56,156
+carnatic,Carnatic,carnatic_052_Ganamuda_Panam.mid,28018,6963,6963,6963,6241,888,54,153
+carnatic,Carnatic,carnatic_053_riti_gaula.mid,13970,3348,3348,3348,3248,678,54,145
+carnatic,Carnatic,carnatic_054_Shlokham.mid,19563,4614,4614,4614,4550,1171,51,145
+carnatic,Carnatic,carnatic_055_gambhira_nata.mid,2992,705,705,705,687,190,24,94
+carnatic,Carnatic,carnatic_056_thodi.mid,1604,380,380,380,367,97,23,90
+carnatic,Carnatic,carnatic_057_Janakipathe.mid,25377,6204,6204,6204,5869,896,50,143
+carnatic,Carnatic,carnatic_058_Kanakangaka_Guha.mid,4609,1146,1146,1146,1034,137,33,102
+carnatic,Carnatic,carnatic_059_Vinakayunna_Della.mid,17003,4154,4154,4154,3964,577,46,137
+irish_folk,Irish Folk,irish_000_27_reel.mid,480,116,116,116,116,16,11,23
+irish_folk,Irish Folk,irish_001_1_reel.mid,952,230,230,230,230,32,12,24
+irish_folk,Irish Folk,irish_002_182_reel.mid,1085,263,263,263,263,33,10,28
+irish_folk,Irish Folk,irish_003_64_reel.mid,992,240,240,240,240,32,12,25
+irish_folk,Irish Folk,irish_004_8_reel.mid,960,232,232,232,232,32,10,22
+irish_folk,Irish Folk,irish_005_116_reel.mid,468,113,113,113,113,16,12,24
+irish_folk,Irish Folk,irish_006_248_reel.mid,920,222,222,222,222,32,11,24
+irish_folk,Irish Folk,irish_007_73_reel.mid,740,179,179,179,179,24,9,24
+irish_folk,Irish Folk,irish_008_42_reel.mid,1260,305,305,305,305,40,9,26
+irish_folk,Irish Folk,irish_009_98_reel.mid,920,222,222,222,222,32,12,25
+irish_folk,Irish Folk,irish_010_68_reel.mid,464,112,112,112,112,16,10,22
+irish_folk,Irish Folk,irish_011_103_reel.mid,976,236,236,236,236,32,14,26
+irish_folk,Irish Folk,irish_012_74_reel.mid,2480,600,600,600,600,80,11,23
+irish_folk,Irish Folk,irish_013_197_reel.mid,1016,246,246,246,246,32,13,25
+irish_folk,Irish Folk,irish_014_20_reel.mid,1472,356,356,356,356,48,12,24
+irish_folk,Irish Folk,irish_015_72_reel.mid,968,234,234,234,234,32,11,24
+irish_folk,Irish Folk,irish_016_208_reel.mid,1000,242,242,242,242,32,10,22
+irish_folk,Irish Folk,irish_017_113_reel.mid,492,119,119,119,119,16,11,23
+irish_folk,Irish Folk,irish_018_2_reel.mid,1192,288,288,288,288,40,12,24
+irish_folk,Irish Folk,irish_019_69_reel.mid,944,228,228,228,228,32,11,24
+irish_folk,Irish Folk,irish_020_118_reel.mid,1000,242,242,242,242,32,12,24
+irish_folk,Irish Folk,irish_021_75_reel.mid,928,224,224,224,224,32,9,21
+irish_folk,Irish Folk,irish_022_221_reel.mid,984,238,238,238,238,32,12,30
+irish_folk,Irish Folk,irish_023_517_reel.mid,1456,352,352,352,352,48,11,29
+irish_folk,Irish Folk,irish_024_589_reel.mid,472,114,114,114,114,16,11,23
+irish_folk,Irish Folk,irish_025_141_reel.mid,480,116,116,116,116,16,8,23
+irish_folk,Irish Folk,irish_026_511_reel.mid,1232,298,298,298,298,40,11,23
+irish_folk,Irish Folk,irish_027_727_reel.mid,1052,256,256,256,252,32,8,30
+irish_folk,Irish Folk,irish_028_21_reel.mid,472,114,114,114,114,16,11,23
+irish_folk,Irish Folk,irish_029_33_reel.mid,1848,446,446,446,446,64,17,30
+irish_folk,Irish Folk,irish_030_636_reel.mid,1049,254,254,254,254,33,11,27
+irish_folk,Irish Folk,irish_031_462_reel.mid,1280,308,308,308,308,48,11,28
+irish_folk,Irish Folk,irish_032_543_reel.mid,1480,358,358,358,358,48,14,32
+irish_folk,Irish Folk,irish_033_560_reel.mid,1552,376,376,376,376,48,14,35
+irish_folk,Irish Folk,irish_034_518_reel.mid,1392,336,336,336,336,48,9,22
+irish_folk,Irish Folk,irish_035_222_reel.mid,484,117,117,117,117,16,13,25
+irish_folk,Irish Folk,irish_036_86_reel.mid,888,214,214,214,214,32,15,28
+irish_folk,Irish Folk,irish_037_114_reel.mid,968,234,234,234,234,32,13,26
+irish_folk,Irish Folk,irish_038_399_reel.mid,992,240,240,240,240,32,13,31
+irish_folk,Irish Folk,irish_039_87_reel.mid,464,112,112,112,112,16,11,23
+irish_folk,Irish Folk,irish_040_430_reel.mid,488,118,118,118,118,16,11,23
+irish_folk,Irish Folk,irish_041_646_reel.mid,1000,242,242,242,242,32,11,32
+irish_folk,Irish Folk,irish_042_138_reel.mid,1024,248,248,248,248,32,13,35
+irish_folk,Irish Folk,irish_043_115_reel.mid,1440,348,348,348,348,48,13,25
+irish_folk,Irish Folk,irish_044_18_reel.mid,912,220,220,220,220,32,7,20
+irish_folk,Irish Folk,irish_045_432_reel.mid,1116,269,269,269,269,40,11,24
+irish_folk,Irish Folk,irish_046_791_reel.mid,952,230,230,230,230,32,8,20
+irish_folk,Irish Folk,irish_047_570_reel.mid,688,166,166,166,166,24,9,27
+irish_folk,Irish Folk,irish_048_857_reel.mid,884,213,213,213,213,32,9,21
+irish_folk,Irish Folk,irish_049_726_reel.mid,440,106,106,106,106,16,10,28
+irish_folk,Irish Folk,irish_050_188_reel.mid,732,177,177,177,177,24,8,25
+irish_folk,Irish Folk,irish_051_105_reel.mid,1024,248,248,248,248,32,11,30
+irish_folk,Irish Folk,irish_052_5270_reel.mid,832,200,200,200,200,32,12,28
+irish_folk,Irish Folk,irish_053_99_reel.mid,1024,248,248,248,248,32,14,26
+irish_folk,Irish Folk,irish_054_219_reel.mid,576,140,140,140,140,16,12,31
+irish_folk,Irish Folk,irish_055_602_reel.mid,864,208,208,208,208,32,14,27
+irish_folk,Irish Folk,irish_056_605_reel.mid,744,180,180,180,180,24,12,27
+irish_folk,Irish Folk,irish_057_1977_reel.mid,984,238,238,238,238,32,12,24
+irish_folk,Irish Folk,irish_058_2549_reel.mid,880,212,212,212,212,32,13,25
+irish_folk,Irish Folk,irish_059_440_reel.mid,1489,360,360,360,360,49,14,32
+irish_folk,Irish Folk,irish_060_756_reel.mid,762,188,188,188,174,24,11,35
+irish_folk,Irish Folk,irish_061_703_reel.mid,1600,388,388,388,388,48,11,25
+irish_folk,Irish Folk,irish_062_410_reel.mid,1480,358,358,358,358,48,12,24
+irish_folk,Irish Folk,irish_063_363_reel.mid,896,216,216,216,216,32,9,22
+irish_folk,Irish Folk,irish_064_346_reel.mid,1432,348,348,348,344,44,10,32
+irish_folk,Irish Folk,irish_065_2221_reel.mid,1000,242,242,242,242,32,9,25
+irish_folk,Irish Folk,irish_066_891_reel.mid,1456,352,352,352,352,48,13,29
+irish_folk,Irish Folk,irish_067_44_reel.mid,952,230,230,230,230,32,9,21
+irish_folk,Irish Folk,irish_068_1499_reel.mid,952,230,230,230,230,32,9,25
+irish_folk,Irish Folk,irish_069_55_jig.mid,704,170,170,170,170,24,11,24
+irish_folk,Irish Folk,irish_070_71_jig.mid,672,162,162,162,162,24,12,25
+irish_folk,Irish Folk,irish_071_9_jig.mid,1020,246,246,246,246,36,13,26
+irish_folk,Irish Folk,irish_072_108_jig.mid,1028,248,248,248,248,36,9,21
+irish_folk,Irish Folk,irish_073_106_jig.mid,1100,266,266,266,266,36,10,22
+irish_folk,Irish Folk,irish_074_19_jig.mid,760,184,184,184,184,24,10,22
+irish_folk,Irish Folk,irish_075_5_jig.mid,2540,614,614,614,614,84,9,22
+irish_folk,Irish Folk,irish_076_60_jig.mid,1092,264,264,264,264,36,9,22
+irish_folk,Irish Folk,irish_077_62_jig.mid,1536,372,372,372,372,48,10,22
+irish_folk,Irish Folk,irish_078_12_jig.mid,712,172,172,172,172,24,12,25
+irish_folk,Irish Folk,irish_079_15_jig.mid,660,159,159,159,159,24,9,22
+irish_folk,Irish Folk,irish_080_111_jig.mid,1140,276,276,276,276,36,9,22
+irish_folk,Irish Folk,irish_081_92_jig.mid,760,184,184,184,184,24,11,23
+irish_folk,Irish Folk,irish_082_76_jig.mid,736,178,178,178,178,24,10,23
+irish_folk,Irish Folk,irish_083_702_jig.mid,752,182,182,182,182,24,11,23
+irish_folk,Irish Folk,irish_084_256_jig.mid,712,172,172,172,172,24,11,24
+irish_folk,Irish Folk,irish_085_67_jig.mid,1536,372,372,372,372,48,13,25
+irish_folk,Irish Folk,irish_086_793_jig.mid,757,183,183,183,183,25,8,22
+irish_folk,Irish Folk,irish_087_29_jig.mid,2452,592,592,592,592,84,12,25
+irish_folk,Irish Folk,irish_088_88_jig.mid,1092,264,264,264,264,36,10,22
+irish_folk,Irish Folk,irish_089_582_jig.mid,712,172,172,172,172,24,11,24
+irish_folk,Irish Folk,irish_090_307_jig.mid,752,182,182,182,182,24,9,21
+irish_folk,Irish Folk,irish_091_381_jig.mid,728,176,176,176,176,24,12,25
+irish_folk,Irish Folk,irish_092_107_jig.mid,3180,768,768,768,768,108,8,21
+irish_folk,Irish Folk,irish_093_447_jig.mid,2200,532,532,532,532,72,13,26
+irish_folk,Irish Folk,irish_094_544_jig.mid,733,177,177,177,177,25,11,27
+irish_folk,Irish Folk,irish_095_35_jig.mid,1416,342,342,342,342,48,9,22
+irish_folk,Irish Folk,irish_096_43_jig.mid,760,184,184,184,184,24,11,23
+irish_folk,Irish Folk,irish_097_26_jig.mid,1084,262,262,262,262,36,12,25
+irish_folk,Irish Folk,irish_098_89_jig.mid,728,176,176,176,176,24,12,25
+irish_folk,Irish Folk,irish_099_56_jig.mid,640,154,154,154,154,24,8,21
+irish_folk,Irish Folk,irish_100_45_jig.mid,1132,274,274,274,274,36,9,21
+irish_folk,Irish Folk,irish_101_109_jig.mid,1124,272,272,272,272,36,9,21
+irish_folk,Irish Folk,irish_102_829_jig.mid,352,85,85,85,85,12,12,25
+irish_folk,Irish Folk,irish_103_139_jig.mid,632,152,152,152,152,24,10,23
+irish_folk,Irish Folk,irish_104_210_jig.mid,1416,342,342,342,342,48,13,26
+irish_folk,Irish Folk,irish_105_308_jig.mid,1212,294,294,294,294,36,11,30
+irish_folk,Irish Folk,irish_106_84_jig.mid,1036,250,250,250,250,36,12,25
+irish_folk,Irish Folk,irish_107_151_jig.mid,760,184,184,184,184,24,11,24
+irish_folk,Irish Folk,irish_108_476_jig.mid,1012,244,244,244,244,36,11,24
+irish_folk,Irish Folk,irish_109_160_jig.mid,709,171,171,171,171,25,13,26
+irish_folk,Irish Folk,irish_110_335_jig.mid,768,186,186,186,186,24,9,21
+irish_folk,Irish Folk,irish_111_448_jig.mid,664,160,160,160,160,24,13,28
+irish_folk,Irish Folk,irish_112_81_jig.mid,2405,580,580,580,580,85,11,24
+irish_folk,Irish Folk,irish_113_91_jig.mid,1156,280,280,280,280,36,11,24
+irish_folk,Irish Folk,irish_114_667_jig.mid,722,175,175,175,173,24,10,26
+irish_folk,Irish Folk,irish_115_382_jig.mid,1108,268,268,268,268,36,12,25
+irish_folk,Irish Folk,irish_116_1076_jig.mid,716,173,173,173,173,24,11,27
+irish_folk,Irish Folk,irish_117_342_jig.mid,1140,276,276,276,276,36,12,26
+irish_folk,Irish Folk,irish_118_299_jig.mid,1164,282,282,282,282,36,14,29
+irish_folk,Irish Folk,irish_119_775_jig.mid,736,178,178,178,178,24,12,25
+irish_folk,Irish Folk,irish_120_467_jig.mid,1100,266,266,266,266,36,10,22
+irish_folk,Irish Folk,irish_121_449_waltz.mid,728,170,170,170,170,48,12,27
+irish_folk,Irish Folk,irish_122_211_waltz.mid,564,135,135,135,135,24,11,26
+irish_folk,Irish Folk,irish_123_4997_waltz.mid,832,196,196,196,196,48,16,31
+irish_folk,Irish Folk,irish_125_957_waltz.mid,1151,317,317,317,176,24,20,52
+irish_folk,Irish Folk,irish_126_601_waltz.mid,343,80,80,80,80,23,12,29
+irish_folk,Irish Folk,irish_127_562_waltz.mid,604,145,145,145,145,24,14,28
+irish_folk,Irish Folk,irish_128_790_waltz.mid,632,152,152,152,152,24,11,23
+irish_folk,Irish Folk,irish_129_1292_waltz.mid,967,233,233,233,220,48,8,50
+irish_folk,Irish Folk,irish_130_1016_waltz.mid,587,159,159,159,95,15,19,46
+irish_folk,Irish Folk,irish_131_1055_waltz.mid,1048,250,250,250,250,48,12,27
+irish_folk,Irish Folk,irish_132_4906_waltz.mid,380,89,89,89,89,24,8,23
+irish_folk,Irish Folk,irish_133_3690_waltz.mid,788,223,223,223,100,19,15,45
+irish_folk,Irish Folk,irish_134_187_waltz.mid,673,162,162,162,162,25,10,30
+irish_folk,Irish Folk,irish_136_986_waltz.mid,404,95,95,95,95,24,11,26
+irish_folk,Irish Folk,irish_137_1678_waltz.mid,470,112,112,112,110,24,10,32
+irish_folk,Irish Folk,irish_138_441_polka.mid,276,67,67,67,67,8,11,26
+irish_folk,Irish Folk,irish_139_1075_polka.mid,472,114,114,114,114,16,7,21
+irish_folk,Irish Folk,irish_140_39_polka.mid,480,116,116,116,116,16,6,21
+irish_folk,Irish Folk,irish_141_238_polka.mid,472,114,114,114,114,16,13,28
+irish_folk,Irish Folk,irish_142_291_polka.mid,945,230,230,230,230,25,9,30
+irish_folk,Irish Folk,irish_143_357_polka.mid,613,149,149,149,149,17,13,40
+irish_folk,Irish Folk,irish_144_85_polka.mid,576,140,140,140,140,16,9,28
+irish_folk,Irish Folk,irish_145_481_polka.mid,480,116,116,116,116,16,7,23
+irish_folk,Irish Folk,irish_146_239_polka.mid,472,114,114,114,114,16,9,24
+irish_folk,Irish Folk,irish_147_583_polka.mid,710,193,193,193,116,15,15,39
+irish_folk,Irish Folk,irish_148_2434_polka.mid,358,96,96,96,62,8,17,43
+irish_folk,Irish Folk,irish_149_418_polka.mid,528,128,128,128,128,16,7,24
+irish_folk,Irish Folk,irish_150_531_polka.mid,728,176,176,176,176,24,9,26
+irish_folk,Irish Folk,irish_151_1529_polka.mid,680,166,166,166,166,16,10,30
+irish_folk,Irish Folk,irish_152_466_polka.mid,792,192,192,192,192,24,9,25
+irish_folk,Irish Folk,irish_153_83_hornpipe.mid,944,228,228,228,228,32,13,25
+irish_folk,Irish Folk,irish_154_475_hornpipe.mid,1200,288,288,288,288,48,14,28
+irish_folk,Irish Folk,irish_155_49_hornpipe.mid,1056,256,256,256,256,32,11,32
+irish_folk,Irish Folk,irish_156_651_hornpipe.mid,944,228,228,228,228,32,11,26
+irish_folk,Irish Folk,irish_157_30_hornpipe.mid,968,234,234,234,234,32,10,23
+irish_folk,Irish Folk,irish_158_566_hornpipe.mid,1282,340,340,340,230,32,21,42
+irish_folk,Irish Folk,irish_159_13_hornpipe.mid,984,238,238,238,238,32,14,26
+irish_folk,Irish Folk,irish_160_310_hornpipe.mid,1408,340,340,340,340,48,13,29
+irish_folk,Irish Folk,irish_161_1356_hornpipe.mid,896,216,216,216,216,32,12,25
+irish_folk,Irish Folk,irish_162_478_hornpipe.mid,1032,250,250,250,250,32,12,29
+irish_folk,Irish Folk,irish_163_872_hornpipe.mid,1024,248,248,248,248,32,13,28
+irish_folk,Irish Folk,irish_164_82_hornpipe.mid,736,176,176,176,176,32,11,25
+irish_folk,Irish Folk,irish_165_980_hornpipe.mid,944,228,228,228,228,32,10,23
+irish_folk,Irish Folk,irish_166_38_hornpipe.mid,936,226,226,226,226,32,13,25
+irish_folk,Irish Folk,irish_167_10_slip_jig.mid,611,146,146,146,146,27,12,25
+irish_folk,Irish Folk,irish_168_52_slip_jig.mid,1373,332,332,332,332,45,13,26
+irish_folk,Irish Folk,irish_169_750_slip_jig.mid,510,123,123,123,123,18,11,27
+irish_folk,Irish Folk,irish_170_593_slip_jig.mid,438,105,105,105,105,18,10,23
+irish_folk,Irish Folk,irish_171_482_slip_jig.mid,972,234,234,234,234,36,13,26
+irish_folk,Irish Folk,irish_172_2410_slip_jig.mid,478,115,115,115,115,18,9,22
+irish_folk,Irish Folk,irish_173_879_slip_jig.mid,1320,319,319,319,318,45,14,35
+irish_folk,Irish Folk,irish_174_4320_march.mid,468,111,111,111,111,24,8,19
+irish_folk,Irish Folk,irish_175_2516_march.mid,332,79,79,79,79,16,11,24
+irish_folk,Irish Folk,irish_176_1308_march.mid,672,160,160,160,160,32,13,27
+irish_folk,Irish Folk,irish_177_7_march.mid,936,226,226,226,226,32,9,24
+irish_folk,Irish Folk,irish_179_706_march.mid,883,239,239,239,146,20,19,42
+irish_folk,Irish Folk,irish_180_1863_march.mid,656,156,156,156,156,32,13,28
+irish_folk,Irish Folk,irish_181_1307_barndance.mid,784,188,188,188,188,32,8,23
+irish_folk,Irish Folk,irish_182_1615_barndance.mid,944,228,228,228,228,32,8,21
+irish_folk,Irish Folk,irish_183_2067_barndance.mid,1062,258,258,258,256,32,12,30
+irish_folk,Irish Folk,irish_184_444_barndance.mid,860,207,207,207,207,32,10,24
+irish_folk,Irish Folk,irish_185_4577_barndance.mid,1088,260,260,260,260,48,8,20
+irish_folk,Irish Folk,irish_186_1376_barndance.mid,1411,343,343,343,334,48,11,40
+irish_folk,Irish Folk,irish_187_3016_strathspey.mid,808,194,194,194,194,32,10,36
+irish_folk,Irish Folk,irish_188_1746_strathspey.mid,592,144,144,144,144,16,9,33
+irish_folk,Irish Folk,irish_189_647_strathspey.mid,456,110,110,110,110,16,7,24
+irish_folk,Irish Folk,irish_190_170_strathspey.mid,1184,288,288,288,288,32,12,33
+irish_folk,Irish Folk,irish_192_250_slide.mid,576,138,138,138,138,24,10,23
+irish_folk,Irish Folk,irish_193_70_slide.mid,1036,250,250,250,250,36,13,26
+irish_folk,Irish Folk,irish_194_53_slide.mid,560,134,134,134,134,24,9,22
+irish_folk,Irish Folk,irish_195_1398_slide.mid,552,132,132,132,132,24,11,24
+irish_folk,Irish Folk,irish_196_5476_mazurka.mid,640,154,154,154,154,24,12,26
+irish_folk,Irish Folk,irish_197_2320_mazurka.mid,473,112,112,112,112,25,10,24
+irish_folk,Irish Folk,irish_198_2081_three-two.mid,340,82,82,82,82,12,6,18
+irish_folk,Irish Folk,irish_199_5151_three-two.mid,1116,270,270,270,270,36,7,24
+turkish_makam,Turkish Makam,symbtr_000_rast_seyir.mid,352,85,85,85,85,12,13,34
+turkish_makam,Turkish Makam,symbtr_001_neva_seyir.mid,500,120,120,120,120,20,12,35
+turkish_makam,Turkish Makam,symbtr_002_sababuselik_kupe.mid,414,99,99,99,99,18,10,32
+turkish_makam,Turkish Makam,symbtr_003_rast_sarki.mid,1845,418,418,418,418,173,13,40
+turkish_makam,Turkish Makam,symbtr_004_suzidilara_kupe.mid,473,115,115,115,114,14,11,37
+turkish_makam,Turkish Makam,symbtr_005_hicaz_turku.mid,1752,420,420,420,420,72,6,26
+turkish_makam,Turkish Makam,symbtr_006_rast_karsilama.mid,815,197,197,197,197,27,13,29
+turkish_makam,Turkish Makam,symbtr_007_hicaz_uzzal_seyir.mid,212,50,50,50,50,12,10,26
+turkish_makam,Turkish Makam,symbtr_008_mahur_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_009_nisabur_kupe.mid,288,70,70,70,70,8,9,28
+turkish_makam,Turkish Makam,symbtr_010_huzi_turku.mid,1101,264,264,264,264,45,8,32
+turkish_makam,Turkish Makam,symbtr_011_ussak_ilahi.mid,493,120,120,120,118,15,9,45
+turkish_makam,Turkish Makam,symbtr_012_beyati_sarki.mid,988,238,238,238,238,36,12,36
+turkish_makam,Turkish Makam,symbtr_013_zirefkend_pesrev.mid,828,196,196,196,196,44,18,37
+turkish_makam,Turkish Makam,symbtr_014_segah_sarki.mid,1462,355,355,355,355,42,14,50
+turkish_makam,Turkish Makam,symbtr_015_acembuselik_sarki.mid,834,203,203,203,203,22,16,45
+turkish_makam,Turkish Makam,symbtr_016_hicaz_rumeliturkusu.mid,1448,352,352,352,352,40,7,32
+turkish_makam,Turkish Makam,symbtr_017_sevk_icedid_kupe.mid,347,85,85,85,84,8,15,38
+turkish_makam,Turkish Makam,symbtr_018_evicbuselik_kupe.mid,406,97,97,97,97,18,13,33
+turkish_makam,Turkish Makam,symbtr_019_mahur_sarki.mid,2119,520,520,520,514,45,16,64
+turkish_makam,Turkish Makam,symbtr_020_neva_kurdi_kupe.mid,332,81,81,81,81,8,11,34
+turkish_makam,Turkish Makam,symbtr_021_hicazkar_pesrev.mid,5024,1203,1203,1203,1203,212,15,43
+turkish_makam,Turkish Makam,symbtr_022_beyati_agirsemai.mid,1544,371,371,371,371,60,14,44
+turkish_makam,Turkish Makam,symbtr_023_hicazbuselik_kupe.mid,422,101,101,101,101,18,11,30
+turkish_makam,Turkish Makam,symbtr_024_mahur_agirsemai.mid,1021,249,249,249,249,25,15,37
+turkish_makam,Turkish Makam,symbtr_025_rahatfeza_kupe.mid,389,93,93,93,92,18,11,42
+turkish_makam,Turkish Makam,symbtr_026_tahir_turku.mid,2303,572,572,572,544,43,11,62
+turkish_makam,Turkish Makam,symbtr_027_gerdaniye_turku.mid,1208,294,294,294,289,37,12,53
+turkish_makam,Turkish Makam,symbtr_028_beyati_sazsemaisi.mid,2552,619,619,619,619,76,14,45
+turkish_makam,Turkish Makam,symbtr_029_segah_aranagme.mid,292,70,70,70,70,12,8,22
+turkish_makam,Turkish Makam,symbtr_030_saba_aranagme.mid,372,90,90,90,90,12,10,32
+turkish_makam,Turkish Makam,symbtr_031_rehavi_beste.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_032_yegah_agirsemai.mid,2244,548,548,548,541,59,17,67
+turkish_makam,Turkish Makam,symbtr_033_beyatibuselik_kupe.mid,402,96,96,96,96,18,10,33
+turkish_makam,Turkish Makam,symbtr_034_yeni_cargah_destan.mid,1013,242,242,242,242,45,11,58
+turkish_makam,Turkish Makam,symbtr_035_sedaraban_sarki.mid,1368,334,334,334,334,32,16,42
+turkish_makam,Turkish Makam,symbtr_036_sivenuma_beste.mid,802,194,194,194,192,28,18,43
+turkish_makam,Turkish Makam,symbtr_037_nisaburek_sarki.mid,2494,611,611,611,591,70,16,50
+turkish_makam,Turkish Makam,symbtr_038_sazkar_agirsemai.mid,1233,301,301,301,296,34,15,55
+turkish_makam,Turkish Makam,symbtr_039_buselik_agirsemai.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_040_suzidil_kupe.mid,398,97,97,97,97,10,13,43
+turkish_makam,Turkish Makam,symbtr_041_hicazkarkurdi_seyir.mid,300,69,69,69,69,24,11,23
+turkish_makam,Turkish Makam,symbtr_042_yegah_sarki.mid,1295,314,314,314,305,48,16,57
+turkish_makam,Turkish Makam,symbtr_043_acemkurdi_aranagme.mid,536,128,128,128,128,24,10,35
+turkish_makam,Turkish Makam,symbtr_044_ussak_pesrev.mid,1258,298,298,298,298,66,11,24
+turkish_makam,Turkish Makam,symbtr_045_nihavent_sarki.mid,1395,326,326,326,321,96,11,45
+turkish_makam,Turkish Makam,symbtr_046_nihavent_sarki.mid,2138,520,520,520,513,65,16,58
+turkish_makam,Turkish Makam,symbtr_047_hisarbuselik_aranagme.mid,338,82,82,82,82,10,12,45
+turkish_makam,Turkish Makam,symbtr_048_suzinak_zirgule_sarki.mid,1614,394,394,394,374,58,14,66
+turkish_makam,Turkish Makam,symbtr_049_ferahfeza_beste.mid,3107,751,751,751,743,111,19,64
+turkish_makam,Turkish Makam,symbtr_050_bendihisar_kupe.mid,328,79,79,79,79,12,15,36
+turkish_makam,Turkish Makam,symbtr_051_nihavendirumi_kupe.mid,514,125,125,125,125,14,15,42
+turkish_makam,Turkish Makam,symbtr_052_muhayyer_turku.mid,3098,754,754,754,754,82,9,33
+turkish_makam,Turkish Makam,symbtr_053_muhayyersunbule_sarki.mid,1391,335,335,335,335,51,18,49
+turkish_makam,Turkish Makam,symbtr_054_sevkefza_sarki.mid,1619,375,375,375,375,119,17,33
+turkish_makam,Turkish Makam,symbtr_055_acem_ilahi.mid,1064,258,258,258,258,32,9,33
+turkish_makam,Turkish Makam,symbtr_056_ruyidilara_sazsemaisi.mid,1706,414,414,414,414,50,17,60
+turkish_makam,Turkish Makam,symbtr_057_hicaz_sarki.mid,1580,374,374,374,374,84,10,41
+turkish_makam,Turkish Makam,symbtr_058_muhayyer_sazsemaisi.mid,3340,814,814,814,812,86,15,49
+turkish_makam,Turkish Makam,symbtr_059_huseyni_sarki.mid,2428,592,592,592,582,70,10,52
+turkish_makam,Turkish Makam,symbtr_060_segah_turku.mid,1846,456,456,456,430,48,8,38
+turkish_makam,Turkish Makam,symbtr_061_mahur_sarki.mid,2000,482,482,482,482,72,17,49
+turkish_makam,Turkish Makam,symbtr_062_nihavent_sarki.mid,2053,495,495,495,495,73,20,47
+turkish_makam,Turkish Makam,symbtr_063_arazbar_seyir.mid,464,112,112,112,112,16,15,38
+turkish_makam,Turkish Makam,symbtr_064_gerdaniye_turku.mid,1743,416,416,416,415,80,9,41
+turkish_makam,Turkish Makam,symbtr_065_mahur_tavsanca.mid,1672,405,405,405,403,54,16,57
+turkish_makam,Turkish Makam,symbtr_066_nihavent_sarki.mid,1509,366,366,366,366,45,15,66
+turkish_makam,Turkish Makam,symbtr_067_peykinesat_pesrev.mid,1226,296,296,296,296,42,16,38
+turkish_makam,Turkish Makam,symbtr_068_kurdilihicazkar_sarki.mid,1656,396,396,396,395,73,17,58
+turkish_makam,Turkish Makam,symbtr_069_nihavent_sarki.mid,1115,268,268,268,268,43,12,35
+turkish_makam,Turkish Makam,symbtr_070_hicaz_mandra.mid,1491,366,366,366,362,31,12,34
+turkish_makam,Turkish Makam,symbtr_071_nihavendikebir_seyir.mid,332,79,79,79,79,16,13,32
+turkish_makam,Turkish Makam,symbtr_072_huseyni_agirsemai.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_073_acemasiran_sarki.mid,2575,607,607,607,607,147,17,57
+turkish_makam,Turkish Makam,symbtr_074_rast_sarki.mid,1968,472,472,472,472,80,12,35
+turkish_makam,Turkish Makam,symbtr_075_nihavent_longa.mid,1828,448,448,448,448,36,14,45
+turkish_makam,Turkish Makam,symbtr_076_revnaknuma_kupe.mid,370,88,88,88,88,18,11,34
+turkish_makam,Turkish Makam,symbtr_077_sabaasiran_seyir.mid,456,109,109,109,109,20,14,33
+turkish_makam,Turkish Makam,symbtr_078_kucek_kupe.mid,368,88,88,88,88,16,10,27
+turkish_makam,Turkish Makam,symbtr_079_huseyni_turku.mid,514,123,123,123,120,25,7,35
+turkish_makam,Turkish Makam,symbtr_080_hicazkar_sarki.mid,2135,516,516,516,515,72,19,50
+turkish_makam,Turkish Makam,symbtr_081_buselik_aranagme.mid,336,78,78,78,78,24,9,38
+turkish_makam,Turkish Makam,symbtr_082_tarzinevin_seyir.mid,340,81,81,81,81,16,15,33
+turkish_makam,Turkish Makam,symbtr_083_acemasiran_aranagme.mid,312,74,74,74,74,16,9,28
+turkish_makam,Turkish Makam,symbtr_084_hicazasiran_beste.mid,2597,629,629,629,621,89,18,62
+turkish_makam,Turkish Makam,symbtr_085_kurdilihicazkar_kupe.mid,489,119,119,119,118,14,15,41
+turkish_makam,Turkish Makam,symbtr_086_nihavent_sazeseri.mid,2112,517,517,517,517,44,20,65
+turkish_makam,Turkish Makam,symbtr_087_dugah_maye_kupe.mid,360,86,86,86,86,16,9,29
+turkish_makam,Turkish Makam,symbtr_088_hicazkar_kocekce.mid,1353,329,329,329,329,37,13,37
+turkish_makam,Turkish Makam,symbtr_089_serefnuma_sazsemaisi.mid,2378,576,576,576,575,75,20,63
+turkish_makam,Turkish Makam,symbtr_090_vecdidil_pesrev.mid,3295,800,800,800,799,96,26,71
+turkish_makam,Turkish Makam,symbtr_091_beyati_turku.mid,1589,397,397,397,365,33,9,50
+turkish_makam,Turkish Makam,symbtr_092_hicaz_zemzeme_sarki.mid,831,201,201,201,201,27,13,38
+turkish_makam,Turkish Makam,symbtr_093_mustear_kupe.mid,531,127,127,127,126,24,10,44
+turkish_makam,Turkish Makam,symbtr_094_huzzam_agirsemai.mid,1726,422,422,422,420,40,12,53
+turkish_makam,Turkish Makam,symbtr_095_karcigar_seyir.mid,324,75,75,75,75,24,9,18
+turkish_makam,Turkish Makam,symbtr_096_selmek_sazsemaisi.mid,1287,311,311,311,311,43,13,56
+turkish_makam,Turkish Makam,symbtr_097_rast_kar_i_nev.mid,1695,401,401,401,393,99,16,69
+turkish_makam,Turkish Makam,symbtr_098_zavil_turku.mid,1261,303,303,303,298,54,15,34
+turkish_makam,Turkish Makam,symbtr_099_buselik_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_100_segah_sarki.mid,1402,342,342,342,340,36,12,53
+turkish_makam,Turkish Makam,symbtr_101_beyati_turku.mid,1276,306,306,306,306,52,8,41
+turkish_makam,Turkish Makam,symbtr_102_goncairana_kupe.mid,296,72,72,72,72,8,8,31
+turkish_makam,Turkish Makam,symbtr_103_reyya_sarki.mid,1575,381,381,381,381,51,13,59
+turkish_makam,Turkish Makam,symbtr_104_beyati_arabanbuselik_kupe.mid,430,103,103,103,103,18,12,35
+turkish_makam,Turkish Makam,symbtr_105_ussak_yuruksemai.mid,2685,641,641,641,625,137,12,40
+turkish_makam,Turkish Makam,symbtr_106_maveraunnehr_kupe.mid,506,123,123,123,123,14,11,34
+turkish_makam,Turkish Makam,symbtr_107_mahur_mars.mid,3180,769,769,769,769,104,16,53
+turkish_makam,Turkish Makam,symbtr_108_pencgah_seyir.mid,332,77,77,77,77,24,10,25
+turkish_makam,Turkish Makam,symbtr_109_neveser_kupe.mid,525,128,128,128,127,14,12,47
+turkish_makam,Turkish Makam,symbtr_110_dilkusa_sazsemaisi.mid,1754,422,422,422,422,66,16,39
+turkish_makam,Turkish Makam,symbtr_111_kurdi_gerdaniye_kupe.mid,297,73,73,73,70,8,13,44
+turkish_makam,Turkish Makam,symbtr_112_muhayyer_murabba.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_113_mahurbuselik_kupe.mid,398,95,95,95,95,18,13,43
+turkish_makam,Turkish Makam,symbtr_114_karcigar_kupe.mid,402,97,97,97,95,16,11,39
+turkish_makam,Turkish Makam,symbtr_115_dilkeshaveran_kupe.mid,385,92,92,92,91,18,13,35
+turkish_makam,Turkish Makam,symbtr_116_karcigar_sazsemaisi.mid,4384,1077,1077,1077,1070,83,13,66
+turkish_makam,Turkish Makam,symbtr_117_sehnazbuselik_aranagme.mid,536,128,128,128,128,24,13,36
+turkish_makam,Turkish Makam,symbtr_118_huseyni_pesrev.mid,2316,551,551,551,551,112,15,34
+turkish_makam,Turkish Makam,symbtr_119_muhayyerbuselik_kupe.mid,414,99,99,99,99,18,15,35
+turkish_makam,Turkish Makam,symbtr_120_hicaz_turku.mid,2758,672,672,672,672,70,10,39
+turkish_makam,Turkish Makam,symbtr_121_saba_turku.mid,1298,316,316,316,316,34,8,33
+turkish_makam,Turkish Makam,symbtr_122_mahur_pesrev.mid,1691,407,407,407,406,64,17,55
+turkish_makam,Turkish Makam,symbtr_123_beyati_beste.mid,3640,882,882,882,867,127,17,44
+turkish_makam,Turkish Makam,symbtr_124_suzidil_agirsemai.mid,2261,551,551,551,543,65,18,57
+turkish_makam,Turkish Makam,symbtr_125_tahir_turku.mid,1714,422,422,422,406,42,10,34
+turkish_makam,Turkish Makam,symbtr_126_hisarbuselik_turku.mid,20,5,5,5,4,1,4,15
+turkish_makam,Turkish Makam,symbtr_127_buselik_murabba.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_128_buzurk_seyir.mid,400,96,96,96,96,16,14,37
+turkish_makam,Turkish Makam,symbtr_129_isfahanek_kupe.mid,400,96,96,96,96,16,12,31
+turkish_makam,Turkish Makam,symbtr_130_hicaz_humayun_turku.mid,1124,266,266,266,266,60,6,20
+turkish_makam,Turkish Makam,symbtr_131_mahur_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_132_ussak_sarki.mid,2418,582,582,582,582,90,17,44
+turkish_makam,Turkish Makam,symbtr_133_asiranmaye_kupe.mid,350,85,85,85,85,10,11,38
+turkish_makam,Turkish Makam,symbtr_134_gulzar_sazsemaisi.mid,4123,1006,1006,1006,1006,99,20,61
+turkish_makam,Turkish Makam,symbtr_135_acemasiran_aranagme.mid,606,148,148,148,144,18,15,64
+turkish_makam,Turkish Makam,symbtr_136_muhayyerkurdi_sarki.mid,2724,653,653,653,653,112,14,29
+turkish_makam,Turkish Makam,symbtr_137_nikriz_sarki.mid,2278,559,559,559,551,50,12,54
+turkish_makam,Turkish Makam,symbtr_138_dilkeside_kupe.mid,392,95,95,95,95,12,17,38
+turkish_makam,Turkish Makam,symbtr_139_bestenigar_seyir.mid,270,63,63,63,63,18,10,24
+turkish_makam,Turkish Makam,symbtr_140_askefza_pesrev.mid,2209,523,523,523,523,117,20,33
+turkish_makam,Turkish Makam,symbtr_141_huseyni_ornek_oz.mid,80,19,19,19,19,4,8,20
+turkish_makam,Turkish Makam,symbtr_142_hicaz_zirgule_kupe.mid,363,87,87,87,86,16,10,39
+turkish_makam,Turkish Makam,symbtr_143_hicazkar_sarki.mid,1388,339,339,339,334,37,16,59
+turkish_makam,Turkish Makam,symbtr_144_segah_maye_kupe.mid,432,102,102,102,102,24,9,30
+turkish_makam,Turkish Makam,symbtr_145_hicaz_kocekce.mid,2326,566,566,566,566,62,12,36
+turkish_makam,Turkish Makam,symbtr_146_ussak_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_147_ussak_beste.mid,1874,453,453,453,443,72,17,46
+turkish_makam,Turkish Makam,symbtr_148_nisaburek_sarki.mid,1500,365,365,365,357,48,16,52
+turkish_makam,Turkish Makam,symbtr_149_dilnisin_kupe.mid,458,111,111,111,111,14,12,36
+turkish_makam,Turkish Makam,symbtr_150_sultaniyegah_aranagme.mid,328,78,78,78,78,16,6,20
+turkish_makam,Turkish Makam,symbtr_151_huzzam_sarki.mid,654,158,158,158,158,22,12,36
+turkish_makam,Turkish Makam,symbtr_152_muhayyer_divan.mid,2646,642,642,642,640,80,13,62
+turkish_makam,Turkish Makam,symbtr_153_rastmaye_kupe.mid,505,123,123,123,122,14,14,55
+turkish_makam,Turkish Makam,symbtr_154_sabazemzeme_kupe.mid,332,81,81,81,81,8,12,37
+turkish_makam,Turkish Makam,symbtr_155_rast_sarki.mid,1692,403,403,403,403,80,12,27
+turkish_makam,Turkish Makam,symbtr_156_vechisehnaz_kupe.mid,356,85,85,85,85,16,13,33
+turkish_makam,Turkish Makam,symbtr_157_besteisfahan_kupe.mid,389,93,93,93,92,18,11,34
+turkish_makam,Turkish Makam,symbtr_158_muhayyerkurdi_turku.mid,1718,416,416,416,416,54,9,44
+turkish_makam,Turkish Makam,symbtr_159_ussak_sarki.mid,889,216,216,216,212,29,12,50
+turkish_makam,Turkish Makam,symbtr_160_rengidil_sarki.mid,581,140,140,140,140,21,16,38
+turkish_makam,Turkish Makam,symbtr_161_tahir_turku.mid,2646,645,645,645,627,84,10,43
+turkish_makam,Turkish Makam,symbtr_162_beyati_araban_ilahi.mid,2122,516,516,516,510,64,13,52
+turkish_makam,Turkish Makam,symbtr_163_hicaz_turku.mid,2003,488,488,488,485,54,8,50
+turkish_makam,Turkish Makam,symbtr_164_huzzam_icedid_ilahi.mid,481,116,116,116,112,21,15,53
+turkish_makam,Turkish Makam,symbtr_165_saba_turku.mid,1892,468,468,468,446,42,6,32
+turkish_makam,Turkish Makam,symbtr_166_murekkep_isfahan_sarki.mid,1618,393,393,393,383,56,14,54
+turkish_makam,Turkish Makam,symbtr_167_sipihr_kupe.mid,308,73,73,73,73,16,13,27
+turkish_makam,Turkish Makam,symbtr_168_muhayyer_turku.mid,1841,450,450,450,450,41,14,55
+turkish_makam,Turkish Makam,symbtr_169_ussak_kurthavasi.mid,534,128,128,128,128,22,9,25
+turkish_makam,Turkish Makam,symbtr_170_segah_sarki.mid,1756,428,428,428,427,45,14,50
+turkish_makam,Turkish Makam,symbtr_171_sehnaz_sarki.mid,1408,339,339,339,337,54,15,55
+turkish_makam,Turkish Makam,symbtr_172_ruhnuvaz_seyir.mid,204,49,49,49,49,8,12,25
+turkish_makam,Turkish Makam,symbtr_173_gulizar_kocekce.mid,1650,397,397,397,397,62,15,42
+turkish_makam,Turkish Makam,symbtr_174_buselikasiran_seyir.mid,588,142,142,142,142,20,19,45
+turkish_makam,Turkish Makam,symbtr_175_hicaz_sarki.mid,1886,458,458,458,456,56,17,48
+turkish_makam,Turkish Makam,symbtr_176_rasticedid_kupe.mid,485,118,118,118,117,14,15,52
+turkish_makam,Turkish Makam,symbtr_177_nisabureyn_pesrev.mid,3599,883,883,883,868,82,22,64
+turkish_makam,Turkish Makam,symbtr_178_ussak_seyir.mid,220,53,53,53,53,8,11,30
+turkish_makam,Turkish Makam,symbtr_179_rahatulervah_seyir.mid,364,87,87,87,87,16,16,36
+turkish_makam,Turkish Makam,symbtr_180_hicaz_sarki.mid,1756,430,430,430,426,40,15,41
+turkish_makam,Turkish Makam,symbtr_181_karcigar_sarki.mid,1968,482,482,482,468,54,14,57
+turkish_makam,Turkish Makam,symbtr_182_ussak_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_183_dugah_ilahi.mid,1196,288,288,288,284,48,15,60
+turkish_makam,Turkish Makam,symbtr_184_suzinak_agirsemai.mid,1890,467,467,467,442,47,13,55
+turkish_makam,Turkish Makam,symbtr_185_nevabuselik_sarki.mid,1312,312,312,312,312,64,12,43
+turkish_makam,Turkish Makam,symbtr_186_sultaniirak_kupe.mid,362,87,87,87,85,16,11,32
+turkish_makam,Turkish Makam,symbtr_187_muhayyerkurdi_sazsemaisi.mid,2006,490,490,490,490,46,18,59
+turkish_makam,Turkish Makam,symbtr_188_segah_sarki.mid,1570,370,370,370,370,90,14,34
+turkish_makam,Turkish Makam,symbtr_189_evic_seyir.mid,296,68,68,68,68,24,11,20
+turkish_makam,Turkish Makam,symbtr_190_hicaz_humayun_turku.mid,716,174,174,174,171,23,7,44
+turkish_makam,Turkish Makam,symbtr_191_guldeste_sazsemaisi.mid,1676,404,404,404,404,60,17,43
+turkish_makam,Turkish Makam,symbtr_192_araban_kupe.mid,324,79,79,79,79,8,12,33
+turkish_makam,Turkish Makam,symbtr_193_huseyni_sarki.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_194_gerdaniyebuselik_kupe.mid,406,97,97,97,97,18,13,36
+turkish_makam,Turkish Makam,symbtr_195_huseyni_sarki.mid,1565,380,380,380,380,45,10,35
+turkish_makam,Turkish Makam,symbtr_196_rast_sarki.mid,1437,344,344,344,344,61,14,31
+turkish_makam,Turkish Makam,symbtr_197_ruyiirak_sazsemaisi.mid,1799,439,439,439,439,43,14,55
+turkish_makam,Turkish Makam,symbtr_198_neva_agirsemai.mid,0,0,0,0,0,0,0,0
+turkish_makam,Turkish Makam,symbtr_199_rast_sarki.mid,1490,356,356,356,356,66,16,38

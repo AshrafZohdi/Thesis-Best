@@ -1,0 +1,6 @@
+Tradition,N,Mean seq len,Median seq len,Mean unique pitches,Vocab coverage %,Pitch coverage %,Pitch span (st),REMI PC entropy
+Western Classical,150,21392.6,17033.0,66.5,58.2,98.9,86,3.5748
+Hindustani,60,23451.4,16140.0,43.0,48.6,87.5,76,3.4828
+Carnatic,60,11418.2,6547.5,37.9,42.1,87.5,78,3.5376
+Irish Folk,196,927.9,916.0,11.1,9.3,43.2,41,2.8756
+Turkish Makam,200,1204.6,1119.5,12.3,13.9,35.2,31,3.3391

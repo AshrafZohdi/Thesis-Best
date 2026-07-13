@@ -3,6 +3,7 @@ datasets/
 
 # ── Python environment ────────────────────────────────────────────────────────
 .venv/
+venv/
 __pycache__/
 *.py[cod]
 *.pyd
@@ -21,8 +22,14 @@ build/
 # ── Claude Code local settings (project-level settings.json is fine to keep) ─
 .claude/settings.local.json
 
-# ── Large generated outputs (keep checkpoints & results) ─────────────────────
+# ── Large generated outputs and model checkpoints ────────────────────────────
 outputs/generated_samples/
+finetuning_outputs/
+music_transformer/checkpoints/
+music_transformer/generated/
+music_transformer/splits/
+outputs/checkpoints/
+kaggle_dataset.zip
 
 # ── Misc ──────────────────────────────────────────────────────────────────────
 *.log

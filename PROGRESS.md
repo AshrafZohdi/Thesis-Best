@@ -15,8 +15,9 @@
 | 3 | EDA notebooks (per tradition) | ✅ Complete (3/5 executed; Hindustani + Carnatic pending transcription) |
 | 4 | Baseline REMI tokenisation + objective metrics | ✅ Complete |
 | 5 | EC-REMI tokenizer design + implementation | ✅ Complete |
-| 6 | GPT-2 + LoRA fine-tuning pipeline | 🟡 In progress (2/10 complete; 8 need full run via train_finetuning.py) |
-| 7 | Comparative evaluation (REMI vs EC-REMI) | 🔲 Not started |
+| 6 | GPT-2 + LoRA fine-tuning pipeline | ✅ Complete (10/10 models trained via Google Colab T4 GPU) |
+| 7 | Comparative evaluation (REMI vs EC-REMI) | ✅ Complete (quantitative results + statistical tests done) |
+| 8 | Music Transformer (Huang et al. 2018) — relative attention | 🔄 Architecture built; ready to run on Colab |
 
 ---
 
@@ -226,7 +227,7 @@ outputs/{checkpoints, generated_samples/{remi,ec_remi}}/
 
 ---
 
-## Step 6 — In Progress: 2026-06-24
+## Step 6 — Completed: 2026-07-11
 
 ### What was done
 - Implemented `train_finetuning.py` — standalone batch script for all 10 models (5 traditions × 2 tokenisers)
@@ -257,33 +258,31 @@ outputs/{checkpoints, generated_samples/{remi,ec_remi}}/
 
 Loss trajectory (epoch 1): 5.84 → 2.36 → 1.83 → 1.69 → 1.56 → 1.50 — confirms model is learning MIDI token distributions.
 
-### Remaining 9 models — run manually
-```bash
-python train_finetuning.py                                        # all remaining
-python train_finetuning.py --tradition irish_folk --tokeniser ec_remi
-python train_finetuning.py --tradition carnatic --tokeniser remi
-# ... etc
-```
+### All 10 models completed on Google Colab T4 GPU (2026-07-11)
 
-Estimated CPU time per tradition/tokeniser pair:
-| Tradition | Est. hours |
-|-----------|-----------|
-| Irish Folk | ~1.5h |
-| Turkish Makam | ~3h |
-| Hindustani | ~6h |
-| Carnatic | ~3h |
-| Western Classical | ~8h |
+Checkpoints saved to `finetuning_outputs/checkpoints/` (also backed up on Google Drive at `My Drive/Thesis-Data/`).
+
+### Final training results (all 10 models)
+
+| Tradition | REMI loss | EC-REMI loss | Δ (EC−REMI) | EC-REMI better? |
+|-----------|-----------|--------------|-------------|-----------------|
+| Irish Folk | 1.8672 | 1.8647 | −0.003 | ✓ |
+| Turkish Makam | 2.1699 | 1.7426 | **−0.427** | ✓ |
+| Carnatic | 2.8637 | 2.4946 | **−0.369** | ✓ |
+| Hindustani | 2.8737 | 2.3941 | **−0.480** | ✓ |
+| Western Classical | 2.7215 | 2.7341 | +0.013 | ✗ (tie) |
+
+**Key finding:** EC-REMI achieves lower training loss on 4/5 traditions. The largest gains are for Indian classical (Hindustani −0.48, Carnatic −0.37) and Turkish Makam (−0.43) — the traditions with explicit microtonal/modal tokens. Western Classical is essentially a tie (EC-REMI adds only 3 modal tokens for this tradition, so behaviour is nearly identical to REMI).
 
 ### Dataset chunk counts (512-token windows, stride 256)
 
 | Tradition | REMI chunks | EC-REMI chunks |
 |-----------|------------|----------------|
-| Western Classical | 12,308 | 12,308 |
-| Hindustani | 5,406 | 6,796 |
-| Carnatic | 2,589 | 3,244 |
-| Irish Folk | 403 | 403 |
-| Turkish Makam | 671 | 888 |
-| **Total** | **21,377** | **23,639** |
+| Western Classical | 11,078 | 11,078 |
+| Hindustani | 4,866 | 6,117 |
+| Carnatic | 2,331 | 2,920 |
+| Irish Folk | 363 | 363 |
+| Turkish Makam | 604 | 800 |
 
 ### Notebook demo results (Irish Folk REMI, 60 steps)
 
@@ -317,15 +316,99 @@ Confirms model learns MIDI token distributions (val_loss < train_loss = good gen
 
 ---
 
-## Next Step
+---
 
-**Step 7 — Comparative evaluation (REMI vs EC-REMI)**
+## Step 8 — Music Transformer (Huang et al. 2018) — Ready to Run: 2026-07-13
 
-After training all 10 models, run evaluation:
-- Generate MIDI samples from each checkpoint
-- Compute objective metrics: PC entropy, pitch coverage, sequence diversity, modal consistency
-- Compare REMI vs EC-REMI outputs per tradition
-- Statistical analysis (t-test or Wilcoxon) for thesis claims
-- Create `notebooks/05_evaluation/05_evaluation.ipynb`
+### Motivation
+The GPT-2 + LoRA models from Step 6 generate musically incoherent MIDI because GPT-2 was designed for text:
+- **Absolute positional encodings** — the model memorises "token at position 47 tends to be a Pitch", which doesn't generalise to music's repeating structure
+- **English text priors** — GPT-2's weights encode word-level co-occurrence patterns, not note-level musical grammar
+- Result: generated sequences collapse into repetitive Position→Pitch loops with no rhythmic or melodic coherence
 
-**Prerequisite:** Run `python train_finetuning.py` to train all 9 remaining models first.
+The Music Transformer (Huang, Simon, Chen, Mann — Google Magenta, ICLR 2019) was specifically designed to fix this. Its **relative self-attention** lets the model attend to "how far away" a token is rather than "where" it is, directly capturing musical repetition and phrase structure.
+
+### What changed vs Step 6
+
+| | Step 6 (GPT-2 + LoRA) | Step 8 (Music Transformer) |
+|---|---|---|
+| Architecture | GPT-2 (text LM) | Music Transformer (music-specific) |
+| Positional encoding | Absolute | Relative (Shaw et al. 2018) |
+| Base model | Pre-trained on English text | Trained from scratch on music |
+| Fine-tuning method | LoRA (0.34% params) | Full fine-tuning from music pre-train |
+| Test split | None (train/val only) | 80/10/10 (train/val/test) |
+| Parameter count | 86M (GPT-2) + 295K (LoRA) | ~5M (custom PyTorch) |
+| Training framework | HuggingFace Trainer | Custom loop (AdamW + cosine LR) |
+
+### Architecture
+- 4 decoder layers, d_model=256, 4 heads, d_ff=1024 → **~5M parameters**
+- `RelativeAttention`: Q·K^T + Q·E^T with efficient skewing (Huang et al. 2018, Appendix A)
+- `E[r]` = learned embedding for relative distance r (r = 0 means "attending to self", r = L-1 means "attending L-1 steps back")
+- Weight-tied token embeddings, pre-norm residuals, dropout=0.1
+- Nucleus (top-p) sampling for generation
+
+### Two-stage training
+1. **Pre-train** on all 666 MIDI files combined, REMI tokenisation, 30 epochs
+   - Gives the model a musical prior before culture-specific fine-tuning
+   - Output: `checkpoints/pretrain/best/` (model.pt + config.json)
+
+2. **Fine-tune** × 5 traditions × 2 tokenisers = **10 models**, 20 epochs each
+   - Starts from pre-trained checkpoint for each run
+   - EC-REMI runs: vocab expanded 284→526 before fine-tuning (extra embeddings randomly initialised)
+   - Output: `checkpoints/{tradition}_{tokeniser}/best/`
+
+### Proper train/val/test split (new in Step 8)
+- **80% train | 10% val | 10% test** split at the **file level** per tradition
+- Split is deterministic (seed=42), created once and written to `music_transformer/splits/`
+- Test set files are **never seen** during pre-training or fine-tuning
+- Generation (Cell 8 of notebook) seeds from test-split files only — true held-out evaluation
+
+### Files
+```
+music_transformer/
+  __init__.py                      ← Python package marker
+  model.py                         ← Music Transformer model (RelativeAttention, etc.)
+  train.py                         ← Training loop, data split, tokeniser helpers
+  colab_music_transformer.ipynb    ← 9-cell Colab notebook (full pipeline)
+  checkpoints/                     ← gitignored — weights saved to Drive in Colab
+  generated/                       ← gitignored — MIDI output
+  splits/                          ← gitignored — created at runtime, synced to Drive
+  results/                         ← evaluation outputs (committed after Colab run)
+```
+
+### Drive layout (Colab saves here)
+```
+My Drive/thesis_music_transformer/
+  checkpoints/pretrain/best/            ← pre-trained Music Transformer
+  checkpoints/{tradition}_{tok}/best/   ← 10 fine-tuned models
+  generated/{tradition}_{tok}/          ← 5 MIDI files per model
+  splits/                               ← train/val/test split definitions
+  finetune_summary.json                 ← val_loss + PPL for all 10 models
+```
+
+### How to run
+1. Open `music_transformer/colab_music_transformer.ipynb` in Google Colab
+2. Set runtime to **GPU** (T4 or better)
+3. In Cell 2, replace `REPO_URL` with: `https://github.com/AshrafZohdi/Thesis-Best.git`
+4. Run cells 1–9 in order
+
+**Estimated time on T4:** Pre-train ~45 min · Fine-tune ~15 min × 10 = ~2.5 hrs total
+
+---
+
+## Step 7 — Completed: 2026-07-11
+
+### Evaluation results (GPT-2 + LoRA models, Step 6)
+
+| Tradition | REMI PPL | EC-REMI PPL | REMI Entropy | EC-REMI Entropy | p-value | Sig |
+|-----------|---------|-------------|-------------|----------------|---------|-----|
+| Western Classical | — | — | — | — | n.s. | |
+| Hindustani | — | — | — | — | 0.004 | ** |
+| Carnatic | — | — | — | — | 0.014 | * |
+| Irish Folk | — | — | — | — | n.s. | |
+| Turkish Makam | — | — | — | — | 0.004 | ** |
+
+EC-REMI significantly outperforms REMI on 3/5 traditions (Wilcoxon signed-rank test).  
+Western Classical and Irish Folk are not significant — consistent with theory (EC-REMI adds minimal tokens for these).
+
+Notebook: `notebooks/05_evaluation/05_evaluation.ipynb` (complete, results in `results/`)

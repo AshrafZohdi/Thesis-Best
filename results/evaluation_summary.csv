@@ -1,0 +1,11 @@
+tradition,tokeniser,eval_loss,perplexity,pc_entropy_mean,pc_entropy_std,pitch_coverage_mean,pitch_span_mean,distinct_2,modal_token_rate,n_samples_ok
+western_classical,remi,2.5216,12.448,2.5847,0.0,0.5,5.0,0.0696,,10
+western_classical,ec_remi,2.5334,12.596,2.5847,0.0,0.5,5.0,0.0671,1.0,10
+hindustani,remi,2.5919,13.3545,1.8683,0.4553,0.425,24.0,0.1351,,10
+hindustani,ec_remi,2.1571,8.6462,0.8804,0.2485,0.2083,24.0,0.1217,1.0,10
+carnatic,remi,2.6075,13.5649,1.4878,0.4522,0.4417,15.2,0.1292,,10
+carnatic,ec_remi,2.3315,10.2929,2.1527,0.4084,0.575,16.1,0.1402,1.0,10
+irish_folk,remi,1.2808,3.5997,2.0779,0.1985,0.425,12.0,0.0511,,10
+irish_folk,ec_remi,1.2687,3.5563,2.1163,0.1278,0.4167,12.0,0.0456,1.0,10
+turkish_makam,remi,1.6233,5.0697,2.1184,0.1609,0.4417,7.5,0.0746,,10
+turkish_makam,ec_remi,1.3374,3.8093,1.7657,0.2093,0.4167,7.0,0.0576,1.0,10

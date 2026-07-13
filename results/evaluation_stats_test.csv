@@ -1,0 +1,6 @@
+tradition,remi_pc_entropy,ecremi_pc_entropy,p_value,significance
+Western Classical,2.5847,2.5847,1.0,ns
+Hindustani,1.8683,0.8804,0.0039,**
+Carnatic,1.4878,2.1527,0.0137,*
+Irish Folk,2.0779,2.1163,0.8457,ns
+Turkish Makam,2.1184,1.7657,0.0039,**

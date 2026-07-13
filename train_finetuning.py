@@ -17,6 +17,10 @@ References
 
 from __future__ import annotations
 import sys, os, json, argparse, warnings, importlib, importlib.util as _ilu
+# Remove '' and cwd from sys.path so the local datasets/ folder never shadows
+# the HuggingFace `datasets` package that transformers.Trainer imports internally.
+_cwd = str(os.path.dirname(os.path.abspath(__file__)))
+sys.path = [p for p in sys.path if p not in ("", _cwd)]
 warnings.filterwarnings("ignore")
 from pathlib import Path
 from typing import Optional

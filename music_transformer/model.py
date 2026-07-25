@@ -206,14 +206,22 @@ class MusicTransformer(nn.Module):
         max_new_tokens: int,
         temperature:    float = 0.92,
         top_p:          float = 0.92,
+        rep_penalty:    float = 1.0,
+        rep_window:     int   = 64,
     ) -> torch.Tensor:
-        """Autoregressive generation with nucleus (top-p) sampling."""
+        """Autoregressive generation with nucleus (top-p) sampling and repetition penalty."""
         self.eval()
         for _ in range(max_new_tokens):
             # Crop to max_seq_len context window
             ctx    = prompt if prompt.size(1) <= self.cfg.max_seq_len else prompt[:, -self.cfg.max_seq_len:]
             logits, _ = self(ctx)
             logits = logits[:, -1, :] / temperature         # (B, vocab_size)
+
+            # Repetition penalty — divide logits of recently seen tokens
+            if rep_penalty > 1.0 and prompt.size(1) > 0:
+                recent = prompt[0, -rep_window:].tolist()
+                for tok_id in set(recent):
+                    logits[0, tok_id] = logits[0, tok_id] / rep_penalty
 
             # Nucleus sampling
             probs  = F.softmax(logits, dim=-1)

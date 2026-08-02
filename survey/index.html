@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Music Listening Study — UPM TP093781</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #f5f5f5;
+    color: #1a1a1a;
+    line-height: 1.6;
+  }
+
+  .page-header {
+    background: #1a237e;
+    color: white;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+  }
+  .page-header h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.4rem; }
+  .page-header p  { font-size: 0.95rem; opacity: 0.85; }
+
+  .container { max-width: 780px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+  .card {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 1.75rem;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+  }
+
+  .card h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #1a237e;
+    border-bottom: 2px solid #e8eaf6;
+    padding-bottom: 0.6rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .intro-box {
+    background: #e8eaf6;
+    border-left: 4px solid #1a237e;
+    border-radius: 6px;
+    padding: 1.1rem 1.25rem;
+    margin-bottom: 1rem;
+    font-size: 0.93rem;
+  }
+  .intro-box p + p { margin-top: 0.6rem; }
+
+  label.field-label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+  }
+  .required::after { content: " *"; color: #c62828; }
+
+  .field-group { margin-bottom: 1.4rem; }
+
+  select, input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 0.55rem 0.75rem;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    transition: border-color .2s;
+  }
+  select:focus, input:focus { border-color: #1a237e; outline: none; }
+
+  .checkbox-group, .radio-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+  .checkbox-group label, .radio-group label {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.93rem;
+    cursor: pointer;
+  }
+  input[type="checkbox"], input[type="radio"] { width: 16px; height: 16px; cursor: pointer; }
+
+  /* ── Audio clip card ── */
+  .clip-card {
+    background: #f8f9ff;
+    border: 1.5px solid #c5cae9;
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .clip-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #5c6bc0;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    margin-bottom: 0.5rem;
+  }
+  .clip-card audio {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  /* ── Likert scale ── */
+  .likert-row { margin-bottom: 1rem; }
+  .likert-question {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.45rem;
+  }
+  .likert-scale {
+    display: flex;
+    gap: 0.4rem;
+    align-items: stretch;
+  }
+  .likert-opt {
+    flex: 1;
+    text-align: center;
+  }
+  .likert-opt input[type="radio"] { display: none; }
+  .likert-opt label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 0.5rem 0.2rem;
+    border: 1.5px solid #c5cae9;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.78rem;
+    color: #555;
+    background: white;
+    transition: background .15s, border-color .15s;
+    height: 100%;
+    min-height: 56px;
+  }
+  .likert-opt label .num {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1a237e;
+  }
+  .likert-opt input:checked + label {
+    background: #1a237e;
+    border-color: #1a237e;
+    color: white;
+  }
+  .likert-opt input:checked + label .num { color: white; }
+  .likert-anchors {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.72rem;
+    color: #888;
+    margin-top: 0.3rem;
+    padding: 0 2px;
+  }
+
+  textarea {
+    width: 100%;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.9rem;
+    font-family: inherit;
+    resize: vertical;
+    min-height: 70px;
+    transition: border-color .2s;
+  }
+  textarea:focus { border-color: #1a237e; outline: none; }
+
+  .section-note {
+    background: #fff8e1;
+    border-left: 4px solid #f9a825;
+    border-radius: 5px;
+    padding: 0.75rem 1rem;
+    font-size: 0.87rem;
+    margin-bottom: 1.25rem;
+    color: #5d4037;
+  }
+
+  .submit-area { text-align: center; margin-top: 2rem; }
+  .btn-submit {
+    background: #1a237e;
+    color: white;
+    border: none;
+    padding: 0.85rem 2.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background .2s;
+  }
+  .btn-submit:hover { background: #283593; }
+
+  /* ── Result modal ── */
+  #result-overlay {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.55);
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+  }
+  #result-overlay.active { display: flex; }
+  #result-box {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    max-width: 600px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+  }
+  #result-box h2 { color: #1a237e; margin-bottom: 0.75rem; }
+  #result-box p  { font-size: 0.9rem; color: #555; margin-bottom: 1rem; }
+  #result-text {
+    width: 100%;
+    height: 220px;
+    font-family: monospace;
+    font-size: 0.78rem;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    padding: 0.6rem;
+    resize: none;
+  }
+  .result-actions { display: flex; gap: 0.75rem; margin-top: 1rem; flex-wrap: wrap; }
+  .btn-copy, .btn-email, .btn-download {
+    flex: 1;
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    min-width: 120px;
+  }
+  .btn-copy     { background: #e8eaf6; color: #1a237e; }
+  .btn-email    { background: #1a237e; color: white; }
+  .btn-download { background: #e8f5e9; color: #2e7d32; }
+  .progress-bar-wrap {
+    background: #e8eaf6;
+    border-radius: 99px;
+    height: 6px;
+    margin-bottom: 1.5rem;
+  }
+  .progress-bar {
+    background: #1a237e;
+    height: 6px;
+    border-radius: 99px;
+    transition: width .3s;
+    width: 0%;
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>AI Music Listening Study</h1>
+  <p>Bridging the Authenticity Gap in AI-Generated Music &nbsp;·&nbsp; UPM TP093781 &nbsp;·&nbsp; Est. 15–20 min</p>
+</div>
+
+<div class="container">
+
+  <!-- Progress -->
+  <div class="progress-bar-wrap"><div class="progress-bar" id="progress"></div></div>
+
+  <!-- Intro -->
+  <div class="card">
+    <h2>Welcome &amp; Instructions</h2>
+    <div class="intro-box">
+      <p>You will hear short musical excerpts generated by an AI system trained on music from different cultural traditions. For each excerpt, please rate it on three dimensions.</p>
+      <p><strong>Instructions:</strong> Use headphones or speakers (not bare laptop speakers). Listen to each clip at least once before rating. Excerpts are labelled by tradition only — you will not be told which AI system generated them.</p>
+      <p>Responses are anonymous and used solely for academic research at Universiti Putra Malaysia.</p>
+    </div>
+  </div>
+
+  <!-- Section 1: Background -->
+  <div class="card">
+    <h2>Part 1 — Your Background</h2>
+
+    <div class="field-group">
+      <label class="field-label required" for="name">Your name (for result tracking only — kept private)</label>
+      <input type="text" id="name" placeholder="e.g. Dr. Fatimah / Ahmad / Anonymous">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label required">Formal musical training</label>
+      <div class="radio-group" id="training">
+        <label><input type="radio" name="training" value="none"> No formal training</label>
+        <label><input type="radio" name="training" value="some"> Some training (under 3 years)</label>
+        <label><input type="radio" name="training" value="moderate"> Moderate training (3–7 years)</label>
+        <label><input type="radio" name="training" value="extensive"> Extensive training (7+ years)</label>
+        <label><input type="radio" name="training" value="professional"> Professional musician / music academic</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label required">Which traditions are you familiar with? <em>(tick all that apply)</em></label>
+      <div class="checkbox-group">
+        <label><input type="checkbox" name="familiarity" value="western_classical"> Western Classical</label>
+        <label><input type="checkbox" name="familiarity" value="irish_folk"> Irish / Celtic Folk</label>
+        <label><input type="checkbox" name="familiarity" value="turkish_makam"> Turkish Makam</label>
+        <label><input type="checkbox" name="familiarity" value="hindustani"> Hindustani (North Indian Classical)</label>
+        <label><input type="checkbox" name="familiarity" value="carnatic"> Carnatic (South Indian Classical)</label>
+        <label><input type="checkbox" name="familiarity" value="none"> None of the above</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label required">Familiarity with AI-generated music</label>
+      <div class="radio-group" id="ai_familiarity">
+        <label><input type="radio" name="ai_familiarity" value="never"> Never heard it before</label>
+        <label><input type="radio" name="ai_familiarity" value="occasional"> Heard it occasionally</label>
+        <label><input type="radio" name="ai_familiarity" value="regular"> Listen to or work with it regularly</label>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 2: Western Classical -->
+  <div class="card">
+    <h2>Part 2 — Western Classical Piano</h2>
+    <div class="section-note">These excerpts were generated by an AI trained on Western Classical piano music.</div>
+
+    <!-- WC-A -->
+    <div class="clip-card">
+      <div class="clip-label">Clip WC-A</div>
+      <audio controls src="audio/WC-A.mp3">Your browser does not support audio.</audio>
+      <div id="ratings-WC-A"></div>
+      <div class="field-group">
+        <label class="field-label">Optional comment</label>
+        <textarea id="comment-WC-A" placeholder="Any observations about this clip…"></textarea>
+      </div>
+    </div>
+
+    <!-- WC-B -->
+    <div class="clip-card">
+      <div class="clip-label">Clip WC-B</div>
+      <audio controls src="audio/WC-B.mp3">Your browser does not support audio.</audio>
+      <div id="ratings-WC-B"></div>
+      <div class="field-group">
+        <label class="field-label">Optional comment</label>
+        <textarea id="comment-WC-B" placeholder="Any observations about this clip…"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 3: Irish Folk -->
+  <div class="card">
+    <h2>Part 3 — Irish Folk</h2>
+    <div class="section-note">These excerpts were generated by an AI trained on Irish Folk music.</div>
+    <div id="irish-clips"></div>
+  </div>
+
+  <!-- Section 4: Turkish Makam -->
+  <div class="card">
+    <h2>Part 4 — Turkish Makam</h2>
+    <div class="section-note">Turkish Makam uses microtonal intervals — pitches that fall between the standard piano keys. The AI was trained specifically to capture these nuances.</div>
+    <div id="turkish-clips"></div>
+  </div>
+
+  <!-- Section 5: Hindustani -->
+  <div class="card">
+    <h2>Part 5 — Hindustani (North Indian Classical)</h2>
+    <div class="section-note">Hindustani music is built around ragas — melodic frameworks with specific ascending and descending patterns and characteristic ornaments.</div>
+    <div id="hindustani-clips"></div>
+  </div>
+
+  <!-- Section 6: Carnatic -->
+  <div class="card">
+    <h2>Part 6 — Carnatic (South Indian Classical)</h2>
+    <div class="section-note">Carnatic music uses a rich system of ragas and talas (rhythmic cycles), with extensive melodic ornamentation.</div>
+    <div id="carnatic-clips"></div>
+  </div>
+
+  <!-- Section 7: Overall -->
+  <div class="card">
+    <h2>Part 7 — Overall Impressions</h2>
+
+    <div class="field-group">
+      <label class="field-label required">Which tradition did the AI capture most convincingly?</label>
+      <div class="radio-group" id="best_tradition">
+        <label><input type="radio" name="best_tradition" value="western_classical"> Western Classical</label>
+        <label><input type="radio" name="best_tradition" value="irish_folk"> Irish Folk</label>
+        <label><input type="radio" name="best_tradition" value="turkish_makam"> Turkish Makam</label>
+        <label><input type="radio" name="best_tradition" value="hindustani"> Hindustani</label>
+        <label><input type="radio" name="best_tradition" value="carnatic"> Carnatic</label>
+        <label><input type="radio" name="best_tradition" value="none"> None — all equally unconvincing</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Did any excerpts surprise you (positively or negatively)?</label>
+      <textarea id="overall_surprise" placeholder="Optional…"></textarea>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Any other comments?</label>
+      <textarea id="overall_comments" placeholder="Optional…"></textarea>
+    </div>
+  </div>
+
+  <div class="submit-area">
+    <button class="btn-submit" onclick="submitSurvey()">Submit My Responses</button>
+  </div>
+
+</div><!-- /container -->
+
+<!-- Result overlay -->
+<div id="result-overlay">
+  <div id="result-box">
+    <h2>Thank you!</h2>
+    <p>Your responses are below. Please <strong>copy and email them</strong> to <strong>mohammadashraf2001@gmail.com</strong> with the subject line <em>"Listening Study Response"</em>, or click the email button to open a pre-filled draft.</p>
+    <textarea id="result-text" readonly></textarea>
+    <div class="result-actions">
+      <button class="btn-copy"     onclick="copyResult()">Copy to clipboard</button>
+      <button class="btn-email"    onclick="emailResult()">Open email draft</button>
+      <button class="btn-download" onclick="downloadResult()">Download as .txt</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Config ──────────────────────────────────────────────────────────────────
+const CONTACT_EMAIL = "mohammadashraf2001@gmail.com";
+
+const CLIPS = {
+  irish:      ["IF-A", "IF-B", "IF-C", "IF-D"],
+  turkish:    ["TM-A", "TM-B", "TM-C", "TM-D"],
+  hindustani: ["HI-A", "HI-B", "HI-C", "HI-D"],
+  carnatic:   ["CA-A", "CA-B", "CA-C", "CA-D"],
+};
+
+const RATINGS = [
+  { key: "musicality",     label: "Musicality",          lo: "Very unmusical",  hi: "Very musical"   },
+  { key: "coherence",      label: "Coherence",            lo: "Incoherent",      hi: "Very coherent"  },
+  { key: "authenticity",   label: "Cultural Authenticity",lo: "Not authentic",   hi: "Very authentic" },
+];
+
+// ── Build rating widget ──────────────────────────────────────────────────────
+function buildRatings(clipId, container) {
+  RATINGS.forEach(r => {
+    const row = document.createElement("div");
+    row.className = "likert-row";
+    row.innerHTML = `<div class="likert-question">${r.label}</div>
+      <div class="likert-scale">
+        ${[1,2,3,4,5].map(n => `
+          <div class="likert-opt">
+            <input type="radio" name="${clipId}_${r.key}" id="${clipId}_${r.key}_${n}" value="${n}">
+            <label for="${clipId}_${r.key}_${n}"><span class="num">${n}</span></label>
+          </div>`).join("")}
+      </div>
+      <div class="likert-anchors"><span>${r.lo}</span><span>${r.hi}</span></div>`;
+    container.appendChild(row);
+  });
+}
+
+// ── Build clip card ──────────────────────────────────────────────────────────
+function buildClipCard(clipId, container) {
+  const card = document.createElement("div");
+  card.className = "clip-card";
+  card.innerHTML = `
+    <div class="clip-label">Clip ${clipId}</div>
+    <audio controls src="audio/${clipId}.mp3">Your browser does not support audio.</audio>
+    <div id="ratings-${clipId}"></div>
+    <div class="field-group" style="margin-top:.75rem">
+      <label class="field-label">Optional comment</label>
+      <textarea id="comment-${clipId}" placeholder="Any observations about this clip…"></textarea>
+    </div>`;
+  container.appendChild(card);
+  buildRatings(clipId, card.querySelector(`#ratings-${clipId}`));
+}
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+window.addEventListener("DOMContentLoaded", () => {
+  // Build WC ratings (HTML already has the card structure)
+  buildRatings("WC-A", document.getElementById("ratings-WC-A"));
+  buildRatings("WC-B", document.getElementById("ratings-WC-B"));
+
+  // Build other traditions
+  [["irish-clips", CLIPS.irish],
+   ["turkish-clips", CLIPS.turkish],
+   ["hindustani-clips", CLIPS.hindustani],
+   ["carnatic-clips", CLIPS.carnatic]].forEach(([id, clips]) => {
+    const el = document.getElementById(id);
+    clips.forEach(c => buildClipCard(c, el));
+  });
+
+  // Progress bar on scroll
+  window.addEventListener("scroll", () => {
+    const pct = (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100;
+    document.getElementById("progress").style.width = Math.min(pct, 100) + "%";
+  });
+});
+
+// ── Collect responses ────────────────────────────────────────────────────────
+function collectRating(clipId) {
+  const out = {};
+  RATINGS.forEach(r => {
+    const sel = document.querySelector(`input[name="${clipId}_${r.key}"]:checked`);
+    out[r.key] = sel ? parseInt(sel.value) : null;
+  });
+  out.comment = (document.getElementById(`comment-${clipId}`) || {}).value || "";
+  return out;
+}
+
+function getVal(name) {
+  const sel = document.querySelector(`input[name="${name}"]:checked`);
+  return sel ? sel.value : null;
+}
+
+function getChecked(name) {
+  return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map(e => e.value);
+}
+
+// ── Validate ─────────────────────────────────────────────────────────────────
+function validate() {
+  const errors = [];
+  if (!document.getElementById("name").value.trim()) errors.push("Name is required.");
+  if (!getVal("training")) errors.push("Please select your musical training level.");
+  if (!getVal("ai_familiarity")) errors.push("Please answer the AI familiarity question.");
+  if (getChecked("familiarity").length === 0) errors.push("Please select at least one tradition familiarity.");
+
+  const allClips = ["WC-A","WC-B",...CLIPS.irish,...CLIPS.turkish,...CLIPS.hindustani,...CLIPS.carnatic];
+  allClips.forEach(c => {
+    RATINGS.forEach(r => {
+      if (!document.querySelector(`input[name="${c}_${r.key}"]:checked`)) {
+        errors.push(`Please rate ${r.label} for clip ${c}.`);
+      }
+    });
+  });
+
+  if (!getVal("best_tradition")) errors.push("Please select which tradition was captured best.");
+  return errors;
+}
+
+// ── Format output ─────────────────────────────────────────────────────────────
+function formatResult(data) {
+  const lines = [
+    "=== AI Music Listening Study — Response ===",
+    `Submitted: ${new Date().toISOString()}`,
+    "",
+    "── Background ──",
+    `Name:            ${data.background.name}`,
+    `Training:        ${data.background.training}`,
+    `AI familiarity:  ${data.background.ai_familiarity}`,
+    `Familiar with:   ${data.background.familiarity.join(", ") || "none"}`,
+    "",
+  ];
+
+  const allClips = ["WC-A","WC-B",...CLIPS.irish,...CLIPS.turkish,...CLIPS.hindustani,...CLIPS.carnatic];
+  allClips.forEach(c => {
+    const r = data.ratings[c];
+    lines.push(`── ${c} ──`);
+    lines.push(`  Musicality:    ${r.musicality}`);
+    lines.push(`  Coherence:     ${r.coherence}`);
+    lines.push(`  Authenticity:  ${r.authenticity}`);
+    if (r.comment) lines.push(`  Comment: ${r.comment}`);
+  });
+
+  lines.push("", "── Overall ──");
+  lines.push(`Best tradition: ${data.overall.best_tradition}`);
+  if (data.overall.surprise)  lines.push(`Surprises: ${data.overall.surprise}`);
+  if (data.overall.comments)  lines.push(`Comments:  ${data.overall.comments}`);
+  lines.push("", "===========================================");
+  return lines.join("\n");
+}
+
+// ── Submit ───────────────────────────────────────────────────────────────────
+function submitSurvey() {
+  const errors = validate();
+  if (errors.length) {
+    alert("Please complete the following before submitting:\n\n• " + errors.slice(0,5).join("\n• ") +
+      (errors.length > 5 ? `\n…and ${errors.length - 5} more.` : ""));
+    return;
+  }
+
+  const allClips = ["WC-A","WC-B",...CLIPS.irish,...CLIPS.turkish,...CLIPS.hindustani,...CLIPS.carnatic];
+  const ratings  = {};
+  allClips.forEach(c => { ratings[c] = collectRating(c); });
+
+  const data = {
+    background: {
+      name:          document.getElementById("name").value.trim(),
+      training:      getVal("training"),
+      ai_familiarity:getVal("ai_familiarity"),
+      familiarity:   getChecked("familiarity"),
+    },
+    ratings,
+    overall: {
+      best_tradition: getVal("best_tradition"),
+      surprise:       document.getElementById("overall_surprise").value,
+      comments:       document.getElementById("overall_comments").value,
+    },
+  };
+
+  const text = formatResult(data);
+  document.getElementById("result-text").value = text;
+  document.getElementById("result-overlay").classList.add("active");
+}
+
+function copyResult() {
+  const ta = document.getElementById("result-text");
+  ta.select();
+  document.execCommand("copy");
+  alert("Copied to clipboard!");
+}
+
+function emailResult() {
+  const body = encodeURIComponent(document.getElementById("result-text").value);
+  window.location.href = `mailto:${CONTACT_EMAIL}?subject=Listening%20Study%20Response&body=${body}`;
+}
+
+function downloadResult() {
+  const text = document.getElementById("result-text").value;
+  const name = document.getElementById("name").value.trim().replace(/\s+/g, "_") || "response";
+  const blob = new Blob([text], { type: "text/plain" });
+  const a    = document.createElement("a");
+  a.href     = URL.createObjectURL(blob);
+  a.download = `listening_study_${name}.txt`;
+  a.click();
+}
+</script>
+</body>
+</html>
